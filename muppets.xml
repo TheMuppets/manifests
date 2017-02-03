@@ -22,7 +22,6 @@
   <project name="TheMuppets/proprietary_vendor_nxp" path="vendor/nxp"/>
   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus"/>
   <project name="TheMuppets/proprietary_vendor_oppo" path="vendor/oppo"/>
-  <project name="TheMuppets/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries"/>
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung"/>
   <project name="TheMuppets/proprietary_vendor_smartfren" path="vendor/smartfren"/>
   <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony"/>
