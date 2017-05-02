@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch=".." />
+
+  <default revision="master"
+           remote="github"
+           sync-j="4" />
+
+  <project name="TheMuppets/manifests" />
+  <project name="TheMuppets/proprietary_vendor_acer" />
+  <project name="TheMuppets/proprietary_vendor_advent" />
+  <project name="TheMuppets/proprietary_vendor_akm" />
+  <project name="TheMuppets/proprietary_vendor_alcatel" />
+  <project name="TheMuppets/proprietary_vendor_amazon" />
+  <project name="TheMuppets/proprietary_vendor_ark" />
+  <project name="TheMuppets/proprietary_vendor_asus" />
+  <project name="TheMuppets/proprietary_vendor_audience" />
+  <project name="TheMuppets/proprietary_vendor_bn" />
+  <project name="TheMuppets/proprietary_vendor_bq" />
+  <project name="TheMuppets/proprietary_vendor_broadcom" />
+  <project name="TheMuppets/proprietary_vendor_commtiva" />
+  <project name="TheMuppets/proprietary_vendor_elan" />
+  <project name="TheMuppets/proprietary_vendor_geeksphone" />
+  <project name="TheMuppets/proprietary_vendor_google" />
+  <project name="TheMuppets/proprietary_vendor_hardkernel" />
+  <project name="TheMuppets/proprietary_vendor_hp" />
+  <project name="TheMuppets/proprietary_vendor_htc" />
+  <project name="TheMuppets/proprietary_vendor_huawei" />
+  <project name="TheMuppets/proprietary_vendor_imgtec" />
+  <project name="TheMuppets/proprietary_vendor_invensense" />
+  <project name="TheMuppets/proprietary_vendor_leeco" />
+  <project name="TheMuppets/proprietary_vendor_lenovo" />
+  <project name="TheMuppets/proprietary_vendor_lge" />
+  <project name="TheMuppets/proprietary_vendor_malata" />
+  <project name="TheMuppets/proprietary_vendor_motorola" />
+  <project name="TheMuppets/proprietary_vendor_nextbit" />
+  <project name="TheMuppets/proprietary_vendor_nubia" />
+  <project name="TheMuppets/proprietary_vendor_nvidia" />
+  <project name="TheMuppets/proprietary_vendor_nxp" />
+  <project name="TheMuppets/proprietary_vendor_oneplus" />
+  <project name="TheMuppets/proprietary_vendor_oppo" />
+  <project name="TheMuppets/proprietary_vendor_qcom_binaries" />
+  <project name="TheMuppets/proprietary_vendor_samsung" />
+  <project name="TheMuppets/proprietary_vendor_semc" />
+  <project name="TheMuppets/proprietary_vendor_smartfren" />
+  <project name="TheMuppets/proprietary_vendor_sony" />
+  <project name="TheMuppets/proprietary_vendor_ti" />
+  <project name="TheMuppets/proprietary_vendor_widevine" />
+  <project name="TheMuppets/proprietary_vendor_wileyfox" />
+  <project name="TheMuppets/proprietary_vendor_wingtech" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi" />
+  <project name="TheMuppets/proprietary_vendor_yu" />
+  <project name="TheMuppets/proprietary_vendor_zte" />
+  <project name="TheMuppets/proprietary_vendor_zuk" />
+</manifest>
