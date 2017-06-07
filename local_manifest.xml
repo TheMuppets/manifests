@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ 
+
+  <remote  name="TheMuppets"
+           fetch="https://github.com"
+           review=""
+           revision="refs/heads/cm-13.0" />
+
+  <!-- BEGIN TheMuppets -->
+  <project path="device/alcatel" name="TheMuppets/proprietary_vendor_alcatel" groups="device" remote="TheMuppets"/>
+  <project path="device/amazon" name="TheMuppets/proprietary_vendor_amazon" groups="device" remote="TheMuppets"/>
+  <project path="device/ark" name="TheMuppets/proprietary_vendor_ark" groups="device" remote="TheMuppets"/>
+  <project path="device/asus" name="TheMuppets/proprietary_vendor_asus" groups="device" remote="TheMuppets"/>
+  <project path="device/audienc" name="TheMuppets/proprietary_vendor_audience" groups="device" remote="TheMuppets"/>
+  <project path="device/bn" name="TheMuppets/proprietary_vendor_bn" groups="device" remote="TheMuppets"/>
+  <project path="device/bq" name="TheMuppets/proprietary_vendor_bq" groups="device" remote="TheMuppets"/>
+  <project path="device/brodcam" name="TheMuppets/proprietary_vendor_broadcom" groups="device" remote="TheMuppets"/>
+  <project path="device/elan" name="TheMuppets/proprietary_vendor_elan" groups="device" remote="TheMuppets"/>
+  <project path="device/google" name="TheMuppets/proprietary_vendor_google" groups="device" remote="TheMuppets"/>
+  <project path="device/htc" name="TheMuppets/proprietary_vendor_htc" groups="device" remote="TheMuppets"/>
+  <project path="device/huawi" name="TheMuppets/proprietary_vendor_huawei" groups="device" remote="TheMuppets"/>
+  <project path="device/invensens" name="TheMuppets/proprietary_vendor_invensense" groups="device" remote="TheMuppets"/>
+  <project path="device/leeco" name="TheMuppets/proprietary_vendor_leeco" groups="device" remote="TheMuppets"/>
+  <project path="device/lenovo" name="TheMuppets/proprietary_vendor_lenovo" groups="device" remote="TheMuppets"/>
+  <project path="device/lge" name="TheMuppets/proprietary_vendor_lge" groups="device" remote="TheMuppets"/>
+  <project path="device/motorola" name="TheMuppets/proprietary_vendor_motorola" groups="device" remote="TheMuppets"/>
+  <project path="device/nextbit" name="TheMuppets/proprietary_vendor_nextbit" groups="device" remote="TheMuppets"/>
+  <project path="device/nubia" name="TheMuppets/proprietary_vendor_nubia" groups="device" remote="TheMuppets"/>
+  <project path="device/nvida" name="TheMuppets/proprietary_vendor_nvidia" groups="device" remote="TheMuppets"/>
+  <project path="device/nxp" name="TheMuppets/proprietary_vendor_nxp" groups="device" remote="TheMuppets"/>
+  <project path="device/oneplus" name="TheMuppets/proprietary_vendor_oneplus" groups="device" remote="TheMuppets"/>
+  <project path="device/oppo" name="TheMuppets/proprietary_vendor_oppo" groups="device" remote="TheMuppets"/>
+  <project path="device/samsung" name="TheMuppets/proprietary_vendor_samsung" groups="device" remote="TheMuppets"/>
+  <project path="device/smartfren" name="TheMuppets/proprietary_vendor_smartfren" groups="device" remote="TheMuppets"/>
+  <project path="device/sony" name="TheMuppets/proprietary_vendor_sony" groups="device" remote="TheMuppets"/>
+  <project path="device/ti" name="TheMuppets/proprietary_vendor_ti"  revision="master" groups="device" remote="TheMuppets"/>
+  <project path="device/widevine" name="TheMuppets/proprietary_vendor_widevine" groups="device" remote="TheMuppets"/>
+  <project path="device/wileyfox" name="TheMuppets/proprietary_vendor_wileyfox" groups="device" remote="TheMuppets"/>
+  <project path="device/wingtech" name="TheMuppets/proprietary_vendor_wingtech" groups="device" remote="TheMuppets"/>
+  <project path="device/xiaomi" name="TheMuppets/proprietary_vendor_xiaomi" groups="device" remote="TheMuppets"/>
+  <project path="device/yu" name="TheMuppets/proprietary_vendor_yu" groups="device" remote="TheMuppets"/>
+  <project path="device/zte" name="TheMuppets/proprietary_vendor_zte" groups="device" remote="TheMuppets"/>
+  <project path="device/zuk" name="TheMuppets/proprietary_vendor_zuk" groups="device" remote="TheMuppets"/>
+</manifest>
