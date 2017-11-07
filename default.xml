@@ -22,6 +22,7 @@
   <project name="TheMuppets/proprietary_vendor_broadcom" />
   <project name="TheMuppets/proprietary_vendor_commtiva" />
   <project name="TheMuppets/proprietary_vendor_elan" />
+  <project name="TheMuppets/proprietary_vendor_essential" />
   <project name="TheMuppets/proprietary_vendor_fairphone" />
   <project name="TheMuppets/proprietary_vendor_geeksphone" />
   <project name="TheMuppets/proprietary_vendor_google" />
