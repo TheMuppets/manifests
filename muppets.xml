@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="TheMuppets/proprietary_vendor_alcatel" path="vendor/alcatel"/>
-  <project name="TheMuppets/proprietary_vendor_amazon" path="vendor/amazon"/>
-  <project name="TheMuppets/proprietary_vendor_ark" path="vendor/ark"/>
   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus"/>
-  <project name="TheMuppets/proprietary_vendor_audience" path="vendor/audience"/>
-  <project name="TheMuppets/proprietary_vendor_bn" path="vendor/bn"/>
-  <project name="TheMuppets/proprietary_vendor_bq" path="vendor/bq"/>
-  <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom"/>
-  <project name="TheMuppets/proprietary_vendor_elan" path="vendor/elan"/>
   <project name="TheMuppets/proprietary_vendor_essential" path="vendor/essential"/>
   <project name="TheMuppets/proprietary_vendor_fairphone" path="vendor/fairphone"/>
   <project name="TheMuppets/proprietary_vendor_google" path="vendor/google"/>
   <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc"/>
   <project name="TheMuppets/proprietary_vendor_huawei" path="vendor/huawei"/>
-  <project name="TheMuppets/proprietary_vendor_invensense" path="vendor/invensense"/>
   <project name="TheMuppets/proprietary_vendor_leeco" path="vendor/leeco"/>
-  <project name="TheMuppets/proprietary_vendor_lenovo" path="vendor/lenovo"/>
   <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge"/>
   <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola"/>
   <project name="TheMuppets/proprietary_vendor_nextbit" path="vendor/nextbit"/>
-  <project name="TheMuppets/proprietary_vendor_nubia" path="vendor/nubia"/>
   <project name="TheMuppets/proprietary_vendor_nvidia" path="vendor/nvidia"/>
-  <project name="TheMuppets/proprietary_vendor_nxp" path="vendor/nxp"/>
   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus"/>
   <project name="TheMuppets/proprietary_vendor_oppo" path="vendor/oppo"/>
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung"/>
-  <project name="TheMuppets/proprietary_vendor_smartfren" path="vendor/smartfren"/>
   <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony"/>
-  <project name="TheMuppets/proprietary_vendor_ti" path="vendor/ti" revision="master"/>
-  <project name="TheMuppets/proprietary_vendor_widevine" path="vendor/widevine"/>
   <project name="TheMuppets/proprietary_vendor_wileyfox" path="vendor/wileyfox"/>
   <project name="TheMuppets/proprietary_vendor_wingtech" path="vendor/wingtech"/>
   <project name="TheMuppets/proprietary_vendor_xiaomi" path="vendor/xiaomi"/>
   <project name="TheMuppets/proprietary_vendor_yu" path="vendor/yu"/>
-  <project name="TheMuppets/proprietary_vendor_zte" path="vendor/zte"/>
   <project name="TheMuppets/proprietary_vendor_zuk" path="vendor/zuk"/>
 </manifest>
