@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <default revision="lineage-15.1"
-           remote="github"/>
-
   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="lineage-15.1"/>
   <project name="TheMuppets/proprietary_vendor_essential" path="vendor/essential" remote="github" revision="lineage-15.1"/>
   <project name="TheMuppets/proprietary_vendor_fairphone" path="vendor/fairphone" remote="github" revision="lineage-15.1"/>
