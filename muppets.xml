@@ -7,6 +7,7 @@
   <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc"/>
   <project name="TheMuppets/proprietary_vendor_huawei" path="vendor/huawei"/>
   <project name="TheMuppets/proprietary_vendor_leeco" path="vendor/leeco"/>
+  <project name="TheMuppets/proprietary_vendor_lenovo" path="vendor/lenovo"/>
   <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge"/>
   <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola"/>
   <project name="TheMuppets/proprietary_vendor_nextbit" path="vendor/nextbit"/>
