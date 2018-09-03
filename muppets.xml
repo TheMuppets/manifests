@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus"/>
+  <project name="TheMuppets/proprietary_vendor_bq" path="vendor/bq"/>
   <project name="TheMuppets/proprietary_vendor_essential" path="vendor/essential"/>
   <project name="TheMuppets/proprietary_vendor_fairphone" path="vendor/fairphone"/>
   <project name="TheMuppets/proprietary_vendor_google" path="vendor/google"/>
