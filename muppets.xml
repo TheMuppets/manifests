@@ -21,5 +21,6 @@
   <project name="TheMuppets/proprietary_vendor_wingtech" path="vendor/wingtech"/>
   <project name="TheMuppets/proprietary_vendor_xiaomi" path="vendor/xiaomi"/>
   <project name="TheMuppets/proprietary_vendor_yu" path="vendor/yu"/>
+  <project name="TheMuppets/proprietary_vendor_zte" path="vendor/zte"/>
   <project name="TheMuppets/proprietary_vendor_zuk" path="vendor/zuk"/>
 </manifest>
