@@ -34,7 +34,8 @@ file.write("\n")
 repos = []
 
 for repo in org.get_repos():
-    repos.append(repo.full_name)
+    if (repo.full_name.find('proprietary_vendor_xiaomi') == -1):
+        repos.append(repo.full_name)
 
 for repo in sorted(repos):
     file.write("  <project name=\"" + repo + "\" />\n")
