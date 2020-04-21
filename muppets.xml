@@ -11,6 +11,7 @@
   <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge"/>
   <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola"/>
   <project name="TheMuppets/proprietary_vendor_nextbit" path="vendor/nextbit"/>
+  <project name="TheMuppets/proprietary_vendor_nubia" path="vendor/nubia"/>
   <project name="TheMuppets/proprietary_vendor_nvidia" path="vendor/nvidia"/>
   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus"/>
   <project name="TheMuppets/proprietary_vendor_razer" path="vendor/razer"/>
