@@ -17,6 +17,7 @@
   <project name="TheMuppets/proprietary_vendor_razer" path="vendor/razer"/>
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung"/>
   <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony"/>
+  <project name="TheMuppets/proprietary_vendor_wingtech" path="vendor/wingtech"/>
   <project name="TheMuppets/proprietary_vendor_yandex" path="vendor/yandex"/>
   <project name="TheMuppets/proprietary_vendor_zuk" path="vendor/zuk"/>
 </manifest>
