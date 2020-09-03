@@ -25,6 +25,7 @@
   <project name="TheMuppets/proprietary_vendor_elan" />
   <project name="TheMuppets/proprietary_vendor_essential" />
   <project name="TheMuppets/proprietary_vendor_fairphone" />
+  <project name="TheMuppets/proprietary_vendor_fxtec" />
   <project name="TheMuppets/proprietary_vendor_geeksphone" />
   <project name="TheMuppets/proprietary_vendor_google" />
   <project name="TheMuppets/proprietary_vendor_hardkernel" />
@@ -39,7 +40,6 @@
   <project name="TheMuppets/proprietary_vendor_malata" />
   <project name="TheMuppets/proprietary_vendor_motorola" />
   <project name="TheMuppets/proprietary_vendor_nextbit" />
-  <project name="TheMuppets/proprietary_vendor_nokia" />
   <project name="TheMuppets/proprietary_vendor_nubia" />
   <project name="TheMuppets/proprietary_vendor_nvidia" />
   <project name="TheMuppets/proprietary_vendor_nxp" />
