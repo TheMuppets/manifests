@@ -40,6 +40,7 @@
   <project name="TheMuppets/proprietary_vendor_malata" />
   <project name="TheMuppets/proprietary_vendor_motorola" />
   <project name="TheMuppets/proprietary_vendor_nextbit" />
+  <project name="TheMuppets/proprietary_vendor_nokia" />
   <project name="TheMuppets/proprietary_vendor_nubia" />
   <project name="TheMuppets/proprietary_vendor_nvidia" />
   <project name="TheMuppets/proprietary_vendor_nxp" />
