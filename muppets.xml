@@ -2,6 +2,7 @@
 <manifest>
   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" />
   <project name="TheMuppets/proprietary_vendor_essential" path="vendor/essential" />
+  <project name="TheMuppets/proprietary_vendor_fairphone" path="vendor/fairphone" />
   <project name="TheMuppets/proprietary_vendor_fxtec" path="vendor/fxtec" />
   <project name="TheMuppets/proprietary_vendor_google" path="vendor/google" />
   <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" />
