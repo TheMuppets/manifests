@@ -15,7 +15,9 @@
   <project name="TheMuppets/proprietary_vendor_akm" />
   <project name="TheMuppets/proprietary_vendor_alcatel" />
   <project name="TheMuppets/proprietary_vendor_amazon" />
+  <project name="TheMuppets/proprietary_vendor_amlogic" />
   <project name="TheMuppets/proprietary_vendor_ark" />
+  <project name="TheMuppets/proprietary_vendor_askey" />
   <project name="TheMuppets/proprietary_vendor_asus" />
   <project name="TheMuppets/proprietary_vendor_audience" />
   <project name="TheMuppets/proprietary_vendor_bn" />
