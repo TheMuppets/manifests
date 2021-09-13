@@ -53,6 +53,7 @@
   <project name="TheMuppets/proprietary_vendor_realme" />
   <project name="TheMuppets/proprietary_vendor_samsung" />
   <project name="TheMuppets/proprietary_vendor_semc" />
+  <project name="TheMuppets/proprietary_vendor_shift" />
   <project name="TheMuppets/proprietary_vendor_smartfren" />
   <project name="TheMuppets/proprietary_vendor_sony" />
   <project name="TheMuppets/proprietary_vendor_ti" />
