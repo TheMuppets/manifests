@@ -17,5 +17,6 @@
   <project name="TheMuppets/proprietary_vendor_oppo" path="vendor/oppo" />
   <project name="TheMuppets/proprietary_vendor_razer" path="vendor/razer" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" />
+  <project name="TheMuppets/proprietary_vendor_shift" path="vendor/shift" />
   <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" />
 </manifest>
