@@ -13,6 +13,7 @@
   <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" />
   <project name="TheMuppets/proprietary_vendor_nextbit" path="vendor/nextbit" />
   <project name="TheMuppets/proprietary_vendor_nokia" path="vendor/nokia" />
+  <project name="TheMuppets/proprietary_vendor_nubia" path="vendor/nubia" />
   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" />
   <project name="TheMuppets/proprietary_vendor_oppo" path="vendor/oppo" />
   <project name="TheMuppets/proprietary_vendor_razer" path="vendor/razer" />
