@@ -31,7 +31,7 @@ for repo in org.get_repos():
             and repo.full_name.find("proprietary_vendor_xiaomi") == -1):
         # Only add repos with the correct branch present
         try:
-            repo.get_branch(branch="lineage-18.1")
+            repo.get_branch(branch="lineage-19.0")
             repos.append(repo.full_name)
         except GithubException:
             # Skip the repo, we don't have the branch we want
