@@ -3,7 +3,10 @@
   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" />
   <project name="TheMuppets/proprietary_vendor_fxtec" path="vendor/fxtec" />
   <project name="TheMuppets/proprietary_vendor_google" path="vendor/google" />
+  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" />
   <project name="TheMuppets/proprietary_vendor_nubia" path="vendor/nubia" />
+  <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" />
+  <project name="TheMuppets/proprietary_vendor_shift" path="vendor/shift" />
   <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" />
 </manifest>
