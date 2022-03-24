@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project name="TheMuppets/proprietary_vendor_amlogic" path="vendor/amlogic" />
+  <project name="TheMuppets/proprietary_vendor_askey" path="vendor/askey" />
   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" />
   <project name="TheMuppets/proprietary_vendor_bq" path="vendor/bq" />
   <project name="TheMuppets/proprietary_vendor_essential" path="vendor/essential" />
@@ -14,11 +16,13 @@
   <project name="TheMuppets/proprietary_vendor_nextbit" path="vendor/nextbit" />
   <project name="TheMuppets/proprietary_vendor_nokia" path="vendor/nokia" />
   <project name="TheMuppets/proprietary_vendor_nubia" path="vendor/nubia" />
+  <project name="TheMuppets/proprietary_vendor_nvidia" path="vendor/nvidia" />
   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" />
   <project name="TheMuppets/proprietary_vendor_oppo" path="vendor/oppo" />
   <project name="TheMuppets/proprietary_vendor_razer" path="vendor/razer" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" />
   <project name="TheMuppets/proprietary_vendor_shift" path="vendor/shift" />
   <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" />
+  <project name="TheMuppets/proprietary_vendor_yandex" path="vendor/yandex" />
   <project name="TheMuppets/proprietary_vendor_zuk" path="vendor/zuk" />
 </manifest>
