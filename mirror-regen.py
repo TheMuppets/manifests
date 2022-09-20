@@ -34,7 +34,7 @@ file.write("\n")
 repos = []
 
 for repo in org.get_repos():
-    if (repo.full_name.find('proprietary_vendor_xiaomi') == -1):
+    if (repo.full_name != 'TheMuppets/proprietary_vendor_xiaomi'):
         repos.append(repo.full_name)
 
 for repo in sorted(repos):
