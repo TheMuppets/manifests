@@ -34,6 +34,7 @@
   <project name="TheMuppets/proprietary_vendor_commtiva" />
   <project name="TheMuppets/proprietary_vendor_elan" />
   <project name="TheMuppets/proprietary_vendor_essential" />
+  <project name="TheMuppets/proprietary_vendor_essential_mata" />
   <project name="TheMuppets/proprietary_vendor_fairphone" />
   <project name="TheMuppets/proprietary_vendor_fairphone_FP4" />
   <project name="TheMuppets/proprietary_vendor_firmware" />
@@ -53,6 +54,8 @@
   <project name="TheMuppets/proprietary_vendor_google_sabrina" />
   <project name="TheMuppets/proprietary_vendor_google_sargo" />
   <project name="TheMuppets/proprietary_vendor_google_sunfish" />
+  <project name="TheMuppets/proprietary_vendor_google_taimen" />
+  <project name="TheMuppets/proprietary_vendor_google_walleye" />
   <project name="TheMuppets/proprietary_vendor_hardkernel" />
   <project name="TheMuppets/proprietary_vendor_hp" />
   <project name="TheMuppets/proprietary_vendor_htc" />
@@ -67,6 +70,7 @@
   <project name="TheMuppets/proprietary_vendor_nextbit" />
   <project name="TheMuppets/proprietary_vendor_nokia" />
   <project name="TheMuppets/proprietary_vendor_nubia" />
+  <project name="TheMuppets/proprietary_vendor_nubia_TP1803" />
   <project name="TheMuppets/proprietary_vendor_nvidia" />
   <project name="TheMuppets/proprietary_vendor_nxp" />
   <project name="TheMuppets/proprietary_vendor_oneplus" />
@@ -80,6 +84,8 @@
   <project name="TheMuppets/proprietary_vendor_oppo" />
   <project name="TheMuppets/proprietary_vendor_qcom_binaries" />
   <project name="TheMuppets/proprietary_vendor_razer" />
+  <project name="TheMuppets/proprietary_vendor_razer_aura" />
+  <project name="TheMuppets/proprietary_vendor_razer_cheryl" />
   <project name="TheMuppets/proprietary_vendor_realme" />
   <project name="TheMuppets/proprietary_vendor_samsung" />
   <project name="TheMuppets/proprietary_vendor_samsung_beyond0lte" />
