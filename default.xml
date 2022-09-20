@@ -68,6 +68,17 @@
   <project name="TheMuppets/proprietary_vendor_razer" />
   <project name="TheMuppets/proprietary_vendor_realme" />
   <project name="TheMuppets/proprietary_vendor_samsung" />
+  <project name="TheMuppets/proprietary_vendor_samsung_beyond0lte" />
+  <project name="TheMuppets/proprietary_vendor_samsung_beyond1lte" />
+  <project name="TheMuppets/proprietary_vendor_samsung_beyond2lte" />
+  <project name="TheMuppets/proprietary_vendor_samsung_beyondx" />
+  <project name="TheMuppets/proprietary_vendor_samsung_d1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_d2s" />
+  <project name="TheMuppets/proprietary_vendor_samsung_d2x" />
+  <project name="TheMuppets/proprietary_vendor_samsung_exynos9820-common" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gta4xl" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gta4xl-common" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gta4xlwifi" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv-common" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lvwifi" />
