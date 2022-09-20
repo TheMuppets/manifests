@@ -16,8 +16,16 @@
   <project name="TheMuppets/proprietary_vendor_alcatel" />
   <project name="TheMuppets/proprietary_vendor_amazon" />
   <project name="TheMuppets/proprietary_vendor_amlogic" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_g12-common" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_gx-common" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_m5" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_odroidc4" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_radxa0" />
   <project name="TheMuppets/proprietary_vendor_ark" />
   <project name="TheMuppets/proprietary_vendor_askey" />
+  <project name="TheMuppets/proprietary_vendor_askey_deadpool" />
+  <project name="TheMuppets/proprietary_vendor_askey_dopinder" />
+  <project name="TheMuppets/proprietary_vendor_askey_wade" />
   <project name="TheMuppets/proprietary_vendor_asus" />
   <project name="TheMuppets/proprietary_vendor_audience" />
   <project name="TheMuppets/proprietary_vendor_bn" />
@@ -34,6 +42,7 @@
   <project name="TheMuppets/proprietary_vendor_geeksphone" />
   <project name="TheMuppets/proprietary_vendor_google" />
   <project name="TheMuppets/proprietary_vendor_google_barbet" />
+  <project name="TheMuppets/proprietary_vendor_google_beast" />
   <project name="TheMuppets/proprietary_vendor_google_blueline" />
   <project name="TheMuppets/proprietary_vendor_google_bonito" />
   <project name="TheMuppets/proprietary_vendor_google_bramble" />
@@ -41,6 +50,7 @@
   <project name="TheMuppets/proprietary_vendor_google_crosshatch" />
   <project name="TheMuppets/proprietary_vendor_google_flame" />
   <project name="TheMuppets/proprietary_vendor_google_redfin" />
+  <project name="TheMuppets/proprietary_vendor_google_sabrina" />
   <project name="TheMuppets/proprietary_vendor_google_sargo" />
   <project name="TheMuppets/proprietary_vendor_google_sunfish" />
   <project name="TheMuppets/proprietary_vendor_hardkernel" />
