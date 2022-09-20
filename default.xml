@@ -77,11 +77,17 @@
   <project name="TheMuppets/proprietary_vendor_nvidia" />
   <project name="TheMuppets/proprietary_vendor_nxp" />
   <project name="TheMuppets/proprietary_vendor_oneplus" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_cheeseburger" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_dumpling" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_enchilada" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_fajita" />
   <project name="TheMuppets/proprietary_vendor_oneplus_instantnoodle" />
   <project name="TheMuppets/proprietary_vendor_oneplus_instantnoodlep" />
   <project name="TheMuppets/proprietary_vendor_oneplus_kebab" />
   <project name="TheMuppets/proprietary_vendor_oneplus_lemonade" />
   <project name="TheMuppets/proprietary_vendor_oneplus_lemonadep" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_msm8998-common" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sdm845-common" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8250-common" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8350-common" />
   <project name="TheMuppets/proprietary_vendor_oppo" />
