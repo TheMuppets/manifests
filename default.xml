@@ -69,6 +69,9 @@
   <project name="TheMuppets/proprietary_vendor_motorola" />
   <project name="TheMuppets/proprietary_vendor_nextbit" />
   <project name="TheMuppets/proprietary_vendor_nokia" />
+  <project name="TheMuppets/proprietary_vendor_nokia_DRG" />
+  <project name="TheMuppets/proprietary_vendor_nokia_PL2" />
+  <project name="TheMuppets/proprietary_vendor_nokia_sdm660-common" />
   <project name="TheMuppets/proprietary_vendor_nubia" />
   <project name="TheMuppets/proprietary_vendor_nubia_TP1803" />
   <project name="TheMuppets/proprietary_vendor_nvidia" />
