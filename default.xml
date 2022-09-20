@@ -78,6 +78,7 @@
   <project name="TheMuppets/proprietary_vendor_nxp" />
   <project name="TheMuppets/proprietary_vendor_oneplus" />
   <project name="TheMuppets/proprietary_vendor_oneplus_cheeseburger" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_dre" />
   <project name="TheMuppets/proprietary_vendor_oneplus_dumpling" />
   <project name="TheMuppets/proprietary_vendor_oneplus_enchilada" />
   <project name="TheMuppets/proprietary_vendor_oneplus_fajita" />
