@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project name="TheMuppets/proprietary_vendor_fairphone_FP4" path="vendor/fairphone/FP4" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_barbet" path="vendor/google/barbet" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_bramble" path="vendor/google/bramble" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_coral" path="vendor/google/coral" revision="lineage-20" clone-depth="1" />
