@@ -16,7 +16,10 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_instantnoodle" path="vendor/oneplus/instantnoodle" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_instantnoodlep" path="vendor/oneplus/instantnoodlep" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_kebab" path="vendor/oneplus/kebab" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_lemonade" path="vendor/oneplus/lemonade" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_lemonadep" path="vendor/oneplus/lemonadep" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sdm845-common" path="vendor/oneplus/sdm845-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8250-common" path="vendor/oneplus/sm8250-common" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="lineage-20" clone-depth="1" />
 </manifest>
