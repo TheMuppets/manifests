@@ -27,6 +27,8 @@
   <project name="TheMuppets/proprietary_vendor_askey_dopinder" />
   <project name="TheMuppets/proprietary_vendor_askey_wade" />
   <project name="TheMuppets/proprietary_vendor_asus" />
+  <project name="TheMuppets/proprietary_vendor_asus_X00TD" />
+  <project name="TheMuppets/proprietary_vendor_asus_sdm660-common" />
   <project name="TheMuppets/proprietary_vendor_audience" />
   <project name="TheMuppets/proprietary_vendor_bn" />
   <project name="TheMuppets/proprietary_vendor_bq" />
