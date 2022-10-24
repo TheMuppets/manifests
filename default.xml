@@ -69,6 +69,9 @@
   <project name="TheMuppets/proprietary_vendor_lge" />
   <project name="TheMuppets/proprietary_vendor_malata" />
   <project name="TheMuppets/proprietary_vendor_motorola" />
+  <project name="TheMuppets/proprietary_vendor_motorola_nio" />
+  <project name="TheMuppets/proprietary_vendor_motorola_pstar" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm8250-common" />
   <project name="TheMuppets/proprietary_vendor_nextbit" />
   <project name="TheMuppets/proprietary_vendor_nokia" />
   <project name="TheMuppets/proprietary_vendor_nokia_DRG" />
