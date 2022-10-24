@@ -155,6 +155,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_sdm845-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8150-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8250-common" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_surya" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_ursa" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_vayu" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_xmsirius" />
