@@ -7,6 +7,7 @@
   <project name="TheMuppets/proprietary_vendor_google_flame" path="vendor/google/flame" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_redfin" path="vendor/google/redfin" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_sunfish" path="vendor/google/sunfish" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nubia_TP1803" path="vendor/nubia/TP1803" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_cheeseburger" path="vendor/oneplus/cheeseburger" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_dumpling" path="vendor/oneplus/dumpling" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_enchilada" path="vendor/oneplus/enchilada" revision="lineage-20" clone-depth="1" />
