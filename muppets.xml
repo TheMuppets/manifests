@@ -3,10 +3,14 @@
   <project name="TheMuppets/proprietary_vendor_fairphone_FP4" path="vendor/fairphone/FP4" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_fxtec_pro1" path="vendor/fxtec/pro1" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_barbet" path="vendor/google/barbet" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_blueline" path="vendor/google/blueline" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_bonito" path="vendor/google/bonito" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_bramble" path="vendor/google/bramble" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_coral" path="vendor/google/coral" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_crosshatch" path="vendor/google/crosshatch" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_flame" path="vendor/google/flame" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_redfin" path="vendor/google/redfin" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_sargo" path="vendor/google/sargo" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_sunfish" path="vendor/google/sunfish" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_taimen" path="vendor/google/taimen" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_walleye" path="vendor/google/walleye" revision="lineage-20" clone-depth="1" />
