@@ -77,6 +77,7 @@
   <project name="TheMuppets/proprietary_vendor_motorola_pstar" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm8250-common" />
   <project name="TheMuppets/proprietary_vendor_nextbit" />
+  <project name="TheMuppets/proprietary_vendor_nintendo" />
   <project name="TheMuppets/proprietary_vendor_nokia" />
   <project name="TheMuppets/proprietary_vendor_nokia_DRG" />
   <project name="TheMuppets/proprietary_vendor_nokia_PL2" />
