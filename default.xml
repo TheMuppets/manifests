@@ -85,6 +85,14 @@
   <project name="TheMuppets/proprietary_vendor_nubia" />
   <project name="TheMuppets/proprietary_vendor_nubia_TP1803" />
   <project name="TheMuppets/proprietary_vendor_nvidia" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_common" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_foster" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_galen" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_quill" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_shield" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_t186" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_t194" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_t210" />
   <project name="TheMuppets/proprietary_vendor_nxp" />
   <project name="TheMuppets/proprietary_vendor_oneplus" />
   <project name="TheMuppets/proprietary_vendor_oneplus_cheeseburger" />
