@@ -51,5 +51,6 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_equuleus" path="vendor/xiaomi/equuleus" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_polaris" path="vendor/xiaomi/polaris" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sdm845-common" path="vendor/xiaomi/sdm845-common" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_surya" path="vendor/xiaomi/surya" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_ursa" path="vendor/xiaomi/ursa" revision="lineage-20" clone-depth="1" />
 </manifest>
