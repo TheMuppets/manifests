@@ -161,6 +161,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_apollon" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_beryllium" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_cepheus" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_chiron" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_dipper" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_equuleus" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_gauguin" />
@@ -168,11 +169,13 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_grus" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_lmi" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8996-common" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_msm8998-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_natrium" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_perseus" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_polaris" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_pyxis" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_raphael" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sagit" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sdm710-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sdm845-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8150-common" />
