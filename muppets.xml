@@ -26,6 +26,8 @@
   <project name="TheMuppets/proprietary_vendor_nokia_DRG" path="vendor/nokia/DRG" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nokia_PL2" path="vendor/nokia/PL2" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nokia_sdm660-common" path="vendor/nokia/sdm660-common" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nubia_msm8998-common" path="vendor/nubia/msm8998-common" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nubia_nx563j" path="vendor/nubia/nx563j" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nubia_nx611j" path="vendor/nubia/nx611j" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nubia_TP1803" path="vendor/nubia/TP1803" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_cheeseburger" path="vendor/oneplus/cheeseburger" revision="lineage-20" clone-depth="1" />
