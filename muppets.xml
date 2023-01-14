@@ -46,6 +46,7 @@
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv" path="vendor/samsung/gts4lv" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv-common" path="vendor/samsung/gts4lv-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lvwifi" path="vendor/samsung/gts4lvwifi" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_shift_axolotl" path="vendor/shift/axolotl" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_akari" path="vendor/sony/akari" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_akatsuki" path="vendor/sony/akatsuki" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_aurora" path="vendor/sony/aurora" revision="lineage-20" clone-depth="1" />
