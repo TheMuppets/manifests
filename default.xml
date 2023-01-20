@@ -43,6 +43,7 @@
   <project name="TheMuppets/proprietary_vendor_firmware" />
   <project name="TheMuppets/proprietary_vendor_fxtec" />
   <project name="TheMuppets/proprietary_vendor_fxtec_pro1" />
+  <project name="TheMuppets/proprietary_vendor_fxtec_pro1x" />
   <project name="TheMuppets/proprietary_vendor_geeksphone" />
   <project name="TheMuppets/proprietary_vendor_google" />
   <project name="TheMuppets/proprietary_vendor_google_barbet" />
@@ -168,6 +169,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_gemini" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_grus" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_lmi" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_miatoll" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8996-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8998-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_natrium" />
@@ -178,6 +180,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_sagit" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sdm710-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sdm845-common" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sm6250-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8150-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8250-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_surya" />
