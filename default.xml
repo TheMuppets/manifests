@@ -39,6 +39,7 @@
   <project name="TheMuppets/proprietary_vendor_essential" />
   <project name="TheMuppets/proprietary_vendor_essential_mata" />
   <project name="TheMuppets/proprietary_vendor_fairphone" />
+  <project name="TheMuppets/proprietary_vendor_fairphone_FP3" />
   <project name="TheMuppets/proprietary_vendor_fairphone_FP4" />
   <project name="TheMuppets/proprietary_vendor_firmware" />
   <project name="TheMuppets/proprietary_vendor_fxtec" />
