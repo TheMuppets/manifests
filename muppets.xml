@@ -6,6 +6,7 @@
   <project name="TheMuppets/proprietary_vendor_asus_Z01R" path="vendor/asus/Z01R" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_fairphone_FP4" path="vendor/fairphone/FP4" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_fxtec_pro1" path="vendor/fxtec/pro1" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_fxtec_pro1x" path="vendor/fxtec/pro1x" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_barbet" path="vendor/google/barbet" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_blueline" path="vendor/google/blueline" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_bonito" path="vendor/google/bonito" revision="lineage-20" clone-depth="1" />
