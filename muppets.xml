@@ -4,6 +4,9 @@
   <project name="TheMuppets/proprietary_vendor_askey_deadpool" path="vendor/askey/deadpool" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_wade" path="vendor/askey/wade" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_asus_Z01R" path="vendor/asus/Z01R" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_bq_bardock" path="vendor/bq/bardock" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_bq_bardockpro" path="vendor/bq/bardockpro" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_bq_msm8953-common" path="vendor/bq/msm8953-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_fairphone_FP4" path="vendor/fairphone/FP4" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_fxtec_pro1" path="vendor/fxtec/pro1" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_barbet" path="vendor/google/barbet" revision="lineage-20" clone-depth="1" />
