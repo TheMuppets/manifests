@@ -71,7 +71,9 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_dipper" path="vendor/xiaomi/dipper" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_equuleus" path="vendor/xiaomi/equuleus" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_grus" path="vendor/xiaomi/grus" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_merlinx" path="vendor/xiaomi/merlinx" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8998-common" path="vendor/xiaomi/msm8998-common" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_mt6768-common" path="vendor/xiaomi/mt6768-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_polaris" path="vendor/xiaomi/polaris" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_pyxis" path="vendor/xiaomi/pyxis" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sagit" path="vendor/xiaomi/sagit" revision="lineage-20" clone-depth="1" />
