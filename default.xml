@@ -165,6 +165,8 @@
   <project name="TheMuppets/proprietary_vendor_wileyfox" />
   <project name="TheMuppets/proprietary_vendor_wingtech" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_Mi439" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_Mi8917" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_Mi8937" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_alioth" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_apollon" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_beryllium" />
