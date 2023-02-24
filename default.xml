@@ -10,6 +10,7 @@
 
   <project name="TheMuppets/blobs" />
   <project name="TheMuppets/manifests" />
+  <project name="TheMuppets/proprietary_vendor_10or_G" />
   <project name="TheMuppets/proprietary_vendor_acer" />
   <project name="TheMuppets/proprietary_vendor_advent" />
   <project name="TheMuppets/proprietary_vendor_akm" />
