@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project name="TheMuppets/proprietary_vendor_10or_G" path="vendor/10or/G" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_amlogic_g12-common" path="vendor/amlogic/g12-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_deadpool" path="vendor/askey/deadpool" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_wade" path="vendor/askey/wade" revision="lineage-20" clone-depth="1" />
