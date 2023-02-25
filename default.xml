@@ -165,7 +165,9 @@
   <project name="TheMuppets/proprietary_vendor_sony_aurora" />
   <project name="TheMuppets/proprietary_vendor_sony_pdx203" />
   <project name="TheMuppets/proprietary_vendor_sony_pdx206" />
+  <project name="TheMuppets/proprietary_vendor_sony_pdx215" />
   <project name="TheMuppets/proprietary_vendor_sony_sm8250-common" />
+  <project name="TheMuppets/proprietary_vendor_sony_sm8350-common" />
   <project name="TheMuppets/proprietary_vendor_sony_tama-common" />
   <project name="TheMuppets/proprietary_vendor_sony_xz2c" />
   <project name="TheMuppets/proprietary_vendor_ti" />
