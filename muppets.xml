@@ -4,7 +4,9 @@
   <project name="TheMuppets/proprietary_vendor_amlogic_g12-common" path="vendor/amlogic/g12-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_deadpool" path="vendor/askey/deadpool" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_wade" path="vendor/askey/wade" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_asus_X00TD" path="vendor/asus/X00TD" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_asus_Z01R" path="vendor/asus/Z01R" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_asus_sdm660-common" path="vendor/asus/sdm660-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_bq_bardock" path="vendor/bq/bardock" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_bq_bardockpro" path="vendor/bq/bardockpro" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_bq_msm8953-common" path="vendor/bq/msm8953-common" revision="lineage-20" clone-depth="1" />
