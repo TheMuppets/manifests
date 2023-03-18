@@ -8,6 +8,7 @@
   <project name="TheMuppets/proprietary_vendor_fxtec" path="vendor/fxtec" />
   <project name="TheMuppets/proprietary_vendor_google" path="vendor/google" />
   <project name="TheMuppets/proprietary_vendor_lenovo" path="vendor/lenovo" />
+  <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" />
   <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" />
   <project name="TheMuppets/proprietary_vendor_nokia" path="vendor/nokia" />
   <project name="TheMuppets/proprietary_vendor_nubia" path="vendor/nubia" />
