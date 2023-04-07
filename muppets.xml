@@ -63,6 +63,7 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_razer_aura" path="vendor/razer/aura" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_razer_cheryl" path="vendor/razer/cheryl" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_a51" path="vendor/samsung/a51" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a52q" path="vendor/samsung/a52q" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a72q" path="vendor/samsung/a72q" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gtowifi" path="vendor/samsung/gtowifi" revision="lineage-20" clone-depth="1" />
@@ -70,6 +71,7 @@
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv-common" path="vendor/samsung/gts4lv-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lvwifi" path="vendor/samsung/gts4lvwifi" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_sm7125-common" path="vendor/samsung/sm7125-common" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_universal9611-common" path="vendor/samsung/universal9611-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_shift_axolotl" path="vendor/shift/axolotl" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_akari" path="vendor/sony/akari" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_akatsuki" path="vendor/sony/akatsuki" revision="lineage-20" clone-depth="1" />
