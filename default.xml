@@ -142,6 +142,7 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_lemonade" />
   <project name="TheMuppets/proprietary_vendor_oneplus_lemonadep" />
   <project name="TheMuppets/proprietary_vendor_oneplus_lemonades" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_martini" />
   <project name="TheMuppets/proprietary_vendor_oneplus_msm8998-common" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sdm845-common" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8150-common" />
