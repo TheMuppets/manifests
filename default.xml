@@ -95,6 +95,7 @@
   <project name="TheMuppets/proprietary_vendor_lge_msm8996-common" />
   <project name="TheMuppets/proprietary_vendor_lge_rs988" />
   <project name="TheMuppets/proprietary_vendor_lge_us996" />
+  <project name="TheMuppets/proprietary_vendor_lge_us996d" />
   <project name="TheMuppets/proprietary_vendor_lge_us997" />
   <project name="TheMuppets/proprietary_vendor_lge_v20-common" />
   <project name="TheMuppets/proprietary_vendor_lge_vs995" />
