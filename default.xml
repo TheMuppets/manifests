@@ -246,6 +246,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_ursa" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_vayu" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_vela" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_violet" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_wayne" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_wayne-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_whyred" />
