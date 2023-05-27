@@ -101,8 +101,14 @@
   <project name="TheMuppets/proprietary_vendor_lge_vs995" />
   <project name="TheMuppets/proprietary_vendor_malata" />
   <project name="TheMuppets/proprietary_vendor_motorola" />
+  <project name="TheMuppets/proprietary_vendor_motorola_borneo" />
+  <project name="TheMuppets/proprietary_vendor_motorola_caprip" />
+  <project name="TheMuppets/proprietary_vendor_motorola_devon" />
+  <project name="TheMuppets/proprietary_vendor_motorola_hawao" />
   <project name="TheMuppets/proprietary_vendor_motorola_nio" />
   <project name="TheMuppets/proprietary_vendor_motorola_pstar" />
+  <project name="TheMuppets/proprietary_vendor_motorola_rhode" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm6225-common" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm8250-common" />
   <project name="TheMuppets/proprietary_vendor_nextbit" />
   <project name="TheMuppets/proprietary_vendor_nintendo" />
