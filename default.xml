@@ -122,6 +122,8 @@
   <project name="TheMuppets/proprietary_vendor_nubia_nx563j" />
   <project name="TheMuppets/proprietary_vendor_nubia_nx609j" />
   <project name="TheMuppets/proprietary_vendor_nubia_nx611j" />
+  <project name="TheMuppets/proprietary_vendor_nubia_nx619j" />
+  <project name="TheMuppets/proprietary_vendor_nubia_sdm845-common" />
   <project name="TheMuppets/proprietary_vendor_nvidia" />
   <project name="TheMuppets/proprietary_vendor_nvidia_common" />
   <project name="TheMuppets/proprietary_vendor_nvidia_foster" />
