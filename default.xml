@@ -114,6 +114,7 @@
   <project name="TheMuppets/proprietary_vendor_nintendo" />
   <project name="TheMuppets/proprietary_vendor_nokia" />
   <project name="TheMuppets/proprietary_vendor_nokia_DRG" />
+  <project name="TheMuppets/proprietary_vendor_nokia_NLA" />
   <project name="TheMuppets/proprietary_vendor_nokia_PL2" />
   <project name="TheMuppets/proprietary_vendor_nokia_sdm660-common" />
   <project name="TheMuppets/proprietary_vendor_nubia" />
