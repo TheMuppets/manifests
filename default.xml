@@ -60,8 +60,10 @@
   <project name="TheMuppets/proprietary_vendor_google_coral" />
   <project name="TheMuppets/proprietary_vendor_google_crosshatch" />
   <project name="TheMuppets/proprietary_vendor_google_flame" />
+  <project name="TheMuppets/proprietary_vendor_google_marlin" />
   <project name="TheMuppets/proprietary_vendor_google_redfin" />
   <project name="TheMuppets/proprietary_vendor_google_sabrina" />
+  <project name="TheMuppets/proprietary_vendor_google_sailfish" />
   <project name="TheMuppets/proprietary_vendor_google_sargo" />
   <project name="TheMuppets/proprietary_vendor_google_sphynx" />
   <project name="TheMuppets/proprietary_vendor_google_sunfish" />
