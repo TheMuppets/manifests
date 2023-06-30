@@ -37,7 +37,12 @@
   <project name="TheMuppets/proprietary_vendor_lge_h932" path="vendor/lge/h932" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_joan" path="vendor/lge/joan" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_joan-common" path="vendor/lge/joan-common" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_caprip" path="vendor/motorola/caprip" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_devon" path="vendor/motorola/devon" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_hawao" path="vendor/motorola/hawao" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_nio" path="vendor/motorola/nio" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_rhode" path="vendor/motorola/rhode" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm6225-common" path="vendor/motorola/sm6225-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm8250-common" path="vendor/motorola/sm8250-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nokia_DRG" path="vendor/nokia/DRG" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nokia_PL2" path="vendor/nokia/PL2" revision="lineage-20" clone-depth="1" />
