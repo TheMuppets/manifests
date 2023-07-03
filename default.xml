@@ -243,6 +243,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8998-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_mt6768-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_natrium" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_onclite" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_perseus" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_platina" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_polaris" />
