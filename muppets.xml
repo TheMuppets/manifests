@@ -26,7 +26,9 @@
   <project name="TheMuppets/proprietary_vendor_google_coral" path="vendor/google/coral" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_crosshatch" path="vendor/google/crosshatch" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_flame" path="vendor/google/flame" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_marlin" path="vendor/google/marlin" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_redfin" path="vendor/google/redfin" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_sailfish" path="vendor/google/sailfish" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_sargo" path="vendor/google/sargo" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_sunfish" path="vendor/google/sunfish" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_taimen" path="vendor/google/taimen" revision="lineage-20" clone-depth="1" />
