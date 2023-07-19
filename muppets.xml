@@ -36,9 +36,26 @@
   <project name="TheMuppets/proprietary_vendor_lenovo_heart" path="vendor/lenovo/heart" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lenovo_sm8150-common" path="vendor/lenovo/sm8150-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lenovo_zippo" path="vendor/lenovo/zippo" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_g5-common" path="vendor/lge/g5-common" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_g6-common" path="vendor/lge/g6-common" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_h830" path="vendor/lge/h830" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_h850" path="vendor/lge/h850" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_h870" path="vendor/lge/h870" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_h872" path="vendor/lge/h872" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_h910" path="vendor/lge/h910" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_h918" path="vendor/lge/h918" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_h932" path="vendor/lge/h932" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_h990" path="vendor/lge/h990" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_joan" path="vendor/lge/joan" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_joan-common" path="vendor/lge/joan-common" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_ls997" path="vendor/lge/ls997" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_msm8996-common" path="vendor/lge/msm8996-common" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_rs988" path="vendor/lge/rs988" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_us996" path="vendor/lge/us996" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_us996d" path="vendor/lge/us996d" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_us997" path="vendor/lge/us997" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_v20-common" path="vendor/lge/v20-common" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_vs995" path="vendor/lge/vs995" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_caprip" path="vendor/motorola/caprip" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_devon" path="vendor/motorola/devon" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_hawao" path="vendor/motorola/hawao" revision="lineage-20" clone-depth="1" />
