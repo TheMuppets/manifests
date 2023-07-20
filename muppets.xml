@@ -154,6 +154,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_lancelot" path="vendor/xiaomi/lancelot" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_lisa" path="vendor/xiaomi/lisa" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_lmi" path="vendor/xiaomi/lmi" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_mars" path="vendor/xiaomi/mars" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_merlinx" path="vendor/xiaomi/merlinx" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_mithorium-common" path="vendor/xiaomi/mithorium-common" revision="lineage-20" clone-depth="1" />
