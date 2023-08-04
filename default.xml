@@ -238,6 +238,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_lavender" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_lisa" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_lmi" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_mars" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_merlinx" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_miatoll" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_mithorium-common" />
