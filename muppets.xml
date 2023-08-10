@@ -76,6 +76,7 @@
   <project name="TheMuppets/proprietary_vendor_nubia_nx619j" path="vendor/nubia/nx619j" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nubia_nx659j" path="vendor/nubia/nx659j" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nubia_sdm845-common" path="vendor/nubia/sdm845-common" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nubia_sm7250-common" path="vendor/nubia/sm7250-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_avicii" path="vendor/oneplus/avicii" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_cheeseburger" path="vendor/oneplus/cheeseburger" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_dre" path="vendor/oneplus/dre" revision="lineage-20" clone-depth="1" />
