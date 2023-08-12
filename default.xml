@@ -142,6 +142,7 @@
   <project name="TheMuppets/proprietary_vendor_nxp" />
   <project name="TheMuppets/proprietary_vendor_oneplus" />
   <project name="TheMuppets/proprietary_vendor_oneplus_avicii" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_billie2" />
   <project name="TheMuppets/proprietary_vendor_oneplus_cheeseburger" />
   <project name="TheMuppets/proprietary_vendor_oneplus_dre" />
   <project name="TheMuppets/proprietary_vendor_oneplus_dumpling" />
