@@ -283,4 +283,5 @@
   <project name="TheMuppets/proprietary_vendor_zuk" />
   <project name="TheMuppets/proprietary_vendor_zuk_msm8996-common" />
   <project name="TheMuppets/proprietary_vendor_zuk_z2_plus" />
+  <project name="TheMuppets/proprietary_vendor_zuk_z2_row" />
 </manifest>
