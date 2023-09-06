@@ -2,6 +2,7 @@
 <manifest>
   <project name="TheMuppets/proprietary_vendor_10or_G" path="vendor/10or/G" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_amlogic_g12-common" path="vendor/amlogic/g12-common" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_gx-common" path="vendor/amlogic/gx-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_amlogic_m5" path="vendor/amlogic/m5" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_amlogic_odroidc4" path="vendor/amlogic/odroidc4" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_amlogic_radxa0" path="vendor/amlogic/radxa0" revision="lineage-20" clone-depth="1" />
@@ -20,6 +21,7 @@
   <project name="TheMuppets/proprietary_vendor_fxtec_pro1" path="vendor/fxtec/pro1" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_fxtec_pro1x" path="vendor/fxtec/pro1x" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_barbet" path="vendor/google/barbet" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_beast" path="vendor/google/beast" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_blueline" path="vendor/google/blueline" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_bonito" path="vendor/google/bonito" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_bramble" path="vendor/google/bramble" revision="lineage-20" clone-depth="1" />
