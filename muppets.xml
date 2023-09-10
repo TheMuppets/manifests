@@ -179,6 +179,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_sweet" path="vendor/xiaomi/sweet" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_ursa" path="vendor/xiaomi/ursa" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_vela" path="vendor/xiaomi/vela" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_violet" path="vendor/xiaomi/violet" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_xmsirius" path="vendor/xiaomi/xmsirius" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_zuk_msm8996-common" path="vendor/zuk/msm8996-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_zuk_z2_plus" path="vendor/zuk/z2_plus" revision="lineage-20" clone-depth="1" />
