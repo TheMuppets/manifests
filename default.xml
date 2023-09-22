@@ -20,6 +20,7 @@
   <project name="TheMuppets/proprietary_vendor_amlogic_g12-common" />
   <project name="TheMuppets/proprietary_vendor_amlogic_gx-common" />
   <project name="TheMuppets/proprietary_vendor_amlogic_m5" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_ne-common" />
   <project name="TheMuppets/proprietary_vendor_amlogic_odroidc4" />
   <project name="TheMuppets/proprietary_vendor_amlogic_radxa0" />
   <project name="TheMuppets/proprietary_vendor_ark" />
@@ -75,6 +76,8 @@
   <project name="TheMuppets/proprietary_vendor_huawei" />
   <project name="TheMuppets/proprietary_vendor_imgtec" />
   <project name="TheMuppets/proprietary_vendor_invensense" />
+  <project name="TheMuppets/proprietary_vendor_khadas" />
+  <project name="TheMuppets/proprietary_vendor_khadas_kvim1s" />
   <project name="TheMuppets/proprietary_vendor_leeco" />
   <project name="TheMuppets/proprietary_vendor_lenovo" />
   <project name="TheMuppets/proprietary_vendor_lenovo_heart" />
@@ -119,6 +122,7 @@
   <project name="TheMuppets/proprietary_vendor_nokia_NLA" />
   <project name="TheMuppets/proprietary_vendor_nokia_PL2" />
   <project name="TheMuppets/proprietary_vendor_nokia_sdm660-common" />
+  <project name="TheMuppets/proprietary_vendor_nothing_Spacewar" />
   <project name="TheMuppets/proprietary_vendor_nubia" />
   <project name="TheMuppets/proprietary_vendor_nubia_TP1803" />
   <project name="TheMuppets/proprietary_vendor_nubia_msm8998-common" />
