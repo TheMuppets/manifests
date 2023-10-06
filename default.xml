@@ -137,6 +137,7 @@
   <project name="TheMuppets/proprietary_vendor_nubia_sm7250-common" />
   <project name="TheMuppets/proprietary_vendor_nvidia" />
   <project name="TheMuppets/proprietary_vendor_nvidia_common" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_concord" />
   <project name="TheMuppets/proprietary_vendor_nvidia_foster" />
   <project name="TheMuppets/proprietary_vendor_nvidia_galen" />
   <project name="TheMuppets/proprietary_vendor_nvidia_quill" />
@@ -144,6 +145,7 @@
   <project name="TheMuppets/proprietary_vendor_nvidia_t186" />
   <project name="TheMuppets/proprietary_vendor_nvidia_t194" />
   <project name="TheMuppets/proprietary_vendor_nvidia_t210" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_t234" />
   <project name="TheMuppets/proprietary_vendor_nxp" />
   <project name="TheMuppets/proprietary_vendor_oneplus" />
   <project name="TheMuppets/proprietary_vendor_oneplus_avicii" />
