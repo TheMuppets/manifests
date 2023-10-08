@@ -162,6 +162,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_davinci" path="vendor/xiaomi/davinci" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_dipper" path="vendor/xiaomi/dipper" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_equuleus" path="vendor/xiaomi/equuleus" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_gauguin" path="vendor/xiaomi/gauguin" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_gemini" path="vendor/xiaomi/gemini" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_grus" path="vendor/xiaomi/grus" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_haydn" path="vendor/xiaomi/haydn" revision="lineage-20" clone-depth="1" />
