@@ -162,6 +162,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_merlinx" path="vendor/xiaomi/merlinx" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_mithorium-common" path="vendor/xiaomi/mithorium-common" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_msm8953-common" path="vendor/xiaomi/msm8953-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8998-common" path="vendor/xiaomi/msm8998-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_mt6768-common" path="vendor/xiaomi/mt6768-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_onclite" path="vendor/xiaomi/onclite" revision="lineage-20" clone-depth="1" />
@@ -178,6 +179,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8350-common" path="vendor/xiaomi/sm8350-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_surya" path="vendor/xiaomi/surya" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sweet" path="vendor/xiaomi/sweet" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_tissot" path="vendor/xiaomi/tissot" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_ursa" path="vendor/xiaomi/ursa" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_vela" path="vendor/xiaomi/vela" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_violet" path="vendor/xiaomi/violet" revision="lineage-20" clone-depth="1" />
