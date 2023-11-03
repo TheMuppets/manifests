@@ -61,9 +61,12 @@
   <project name="TheMuppets/proprietary_vendor_motorola_caprip" path="vendor/motorola/caprip" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_devon" path="vendor/motorola/devon" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_hawao" path="vendor/motorola/hawao" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_liber" path="vendor/motorola/liber" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_nio" path="vendor/motorola/nio" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_parker" path="vendor/motorola/parker" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_pstar" path="vendor/motorola/pstar" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_rhode" path="vendor/motorola/rhode" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm6150-common" path="vendor/motorola/sm6150-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm6225-common" path="vendor/motorola/sm6225-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm8250-common" path="vendor/motorola/sm8250-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nokia_DRG" path="vendor/nokia/DRG" revision="lineage-20" clone-depth="1" />
