@@ -196,6 +196,8 @@
   <project name="TheMuppets/proprietary_vendor_samsung_exynos9810-common" />
   <project name="TheMuppets/proprietary_vendor_samsung_exynos9820-common" />
   <project name="TheMuppets/proprietary_vendor_samsung_f62" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gta4l" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gta4l-common" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4xl" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4xl-common" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4xlwifi" />
