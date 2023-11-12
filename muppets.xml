@@ -122,6 +122,8 @@
   <project name="TheMuppets/proprietary_vendor_samsung_exynos9810-common" path="vendor/samsung/exynos9810-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_exynos9820-common" path="vendor/samsung/exynos9820-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_f62" path="vendor/samsung/f62" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gta4l" path="vendor/samsung/gta4l" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gta4l-common" path="vendor/samsung/gta4l-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4xl" path="vendor/samsung/gta4xl" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4xl-common" path="vendor/samsung/gta4xl-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4xlwifi" path="vendor/samsung/gta4xlwifi" revision="lineage-20" clone-depth="1" />
