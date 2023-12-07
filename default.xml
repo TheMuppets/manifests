@@ -194,6 +194,7 @@
   <project name="TheMuppets/proprietary_vendor_samsung_a52q" />
   <project name="TheMuppets/proprietary_vendor_samsung_a52sxq" />
   <project name="TheMuppets/proprietary_vendor_samsung_a72q" />
+  <project name="TheMuppets/proprietary_vendor_samsung_a73xq" />
   <project name="TheMuppets/proprietary_vendor_samsung_beyond0lte" />
   <project name="TheMuppets/proprietary_vendor_samsung_beyond1lte" />
   <project name="TheMuppets/proprietary_vendor_samsung_beyond2lte" />
@@ -207,6 +208,7 @@
   <project name="TheMuppets/proprietary_vendor_samsung_f62" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4l" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4l-common" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gta4lwifi" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4xl" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4xl-common" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4xlwifi" />
@@ -278,6 +280,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_natrium" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_onclite" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_perseus" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_pipa" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_platina" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_polaris" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_pyxis" />
