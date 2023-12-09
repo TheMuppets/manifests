@@ -111,6 +111,7 @@
   <project name="TheMuppets/proprietary_vendor_samsung_a52q" path="vendor/samsung/a52q" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a52sxq" path="vendor/samsung/a52sxq" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a72q" path="vendor/samsung/a72q" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_a73xq" path="vendor/samsung/a73xq" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_beyond0lte" path="vendor/samsung/beyond0lte" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_beyond1lte" path="vendor/samsung/beyond1lte" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_beyond2lte" path="vendor/samsung/beyond2lte" revision="lineage-20" clone-depth="1" />
