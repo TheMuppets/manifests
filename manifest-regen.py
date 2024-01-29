@@ -20,7 +20,7 @@ except KeyError:
 orgName = "TheMuppets"
 org = Github(u, p).get_user(orgName)
 
-branchName = "lineage-20"
+branchName = "lineage-21"
 
 file = open("muppets.xml", "w")
 file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n")
