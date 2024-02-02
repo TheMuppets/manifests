@@ -7,6 +7,7 @@
   <project name="TheMuppets/proprietary_vendor_amlogic_odroidc4" path="vendor/amlogic/odroidc4" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_amlogic_radxa0" path="vendor/amlogic/radxa0" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_deadpool" path="vendor/askey/deadpool" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_askey_dopinder" path="vendor/askey/dopinder" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_wade" path="vendor/askey/wade" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_asus_X00TD" path="vendor/asus/X00TD" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_asus_Z01R" path="vendor/asus/Z01R" revision="lineage-20" clone-depth="1" />
