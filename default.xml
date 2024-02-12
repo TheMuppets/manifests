@@ -47,6 +47,7 @@
   <project name="TheMuppets/proprietary_vendor_fairphone" />
   <project name="TheMuppets/proprietary_vendor_fairphone_FP3" />
   <project name="TheMuppets/proprietary_vendor_fairphone_FP4" />
+  <project name="TheMuppets/proprietary_vendor_fairphone_FP5" />
   <project name="TheMuppets/proprietary_vendor_firmware" />
   <project name="TheMuppets/proprietary_vendor_fxtec" />
   <project name="TheMuppets/proprietary_vendor_fxtec_pro1" />
@@ -186,6 +187,7 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8250-common" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8350-common" />
   <project name="TheMuppets/proprietary_vendor_oppo" />
+  <project name="TheMuppets/proprietary_vendor_osom_ingot" />
   <project name="TheMuppets/proprietary_vendor_qcom_binaries" />
   <project name="TheMuppets/proprietary_vendor_razer" />
   <project name="TheMuppets/proprietary_vendor_razer_aura" />
