@@ -122,9 +122,12 @@
   <project name="TheMuppets/proprietary_vendor_lge_vs995" />
   <project name="TheMuppets/proprietary_vendor_malata" />
   <project name="TheMuppets/proprietary_vendor_motorola" />
+  <project name="TheMuppets/proprietary_vendor_motorola_berlin" />
+  <project name="TheMuppets/proprietary_vendor_motorola_berlna" />
   <project name="TheMuppets/proprietary_vendor_motorola_borneo" />
   <project name="TheMuppets/proprietary_vendor_motorola_caprip" />
   <project name="TheMuppets/proprietary_vendor_motorola_devon" />
+  <project name="TheMuppets/proprietary_vendor_motorola_dubai" />
   <project name="TheMuppets/proprietary_vendor_motorola_hawao" />
   <project name="TheMuppets/proprietary_vendor_motorola_liber" />
   <project name="TheMuppets/proprietary_vendor_motorola_nio" />
@@ -133,7 +136,9 @@
   <project name="TheMuppets/proprietary_vendor_motorola_rhode" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm6150-common" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm6225-common" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm7325-common" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm8250-common" />
+  <project name="TheMuppets/proprietary_vendor_motorola_xpeng" />
   <project name="TheMuppets/proprietary_vendor_nextbit" />
   <project name="TheMuppets/proprietary_vendor_nintendo" />
   <project name="TheMuppets/proprietary_vendor_nintendo_nx" />
