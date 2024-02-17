@@ -39,6 +39,7 @@
   <project name="TheMuppets/proprietary_vendor_bq_bardock" />
   <project name="TheMuppets/proprietary_vendor_bq_bardockpro" />
   <project name="TheMuppets/proprietary_vendor_bq_msm8953-common" />
+  <project name="TheMuppets/proprietary_vendor_bq_sdm660-common" />
   <project name="TheMuppets/proprietary_vendor_broadcom" />
   <project name="TheMuppets/proprietary_vendor_commtiva" />
   <project name="TheMuppets/proprietary_vendor_elan" />
