@@ -95,6 +95,8 @@
   <project name="TheMuppets/proprietary_vendor_lenovo_sm8150-common" />
   <project name="TheMuppets/proprietary_vendor_lenovo_zippo" />
   <project name="TheMuppets/proprietary_vendor_lge" />
+  <project name="TheMuppets/proprietary_vendor_lge_alphaplus" />
+  <project name="TheMuppets/proprietary_vendor_lge_betalm" />
   <project name="TheMuppets/proprietary_vendor_lge_g5-common" />
   <project name="TheMuppets/proprietary_vendor_lge_g6-common" />
   <project name="TheMuppets/proprietary_vendor_lge_h830" />
@@ -108,8 +110,10 @@
   <project name="TheMuppets/proprietary_vendor_lge_joan" />
   <project name="TheMuppets/proprietary_vendor_lge_joan-common" />
   <project name="TheMuppets/proprietary_vendor_lge_ls997" />
+  <project name="TheMuppets/proprietary_vendor_lge_mh2lm" />
   <project name="TheMuppets/proprietary_vendor_lge_msm8996-common" />
   <project name="TheMuppets/proprietary_vendor_lge_rs988" />
+  <project name="TheMuppets/proprietary_vendor_lge_sm8150-common" />
   <project name="TheMuppets/proprietary_vendor_lge_us996" />
   <project name="TheMuppets/proprietary_vendor_lge_us996d" />
   <project name="TheMuppets/proprietary_vendor_lge_us997" />
