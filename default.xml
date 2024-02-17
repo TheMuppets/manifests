@@ -217,10 +217,12 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_lemonades" />
   <project name="TheMuppets/proprietary_vendor_oneplus_martini" />
   <project name="TheMuppets/proprietary_vendor_oneplus_msm8998-common" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_salami" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sdm845-common" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8150-common" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8250-common" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8350-common" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sm8550-common" />
   <project name="TheMuppets/proprietary_vendor_oppo" />
   <project name="TheMuppets/proprietary_vendor_osom_ingot" />
   <project name="TheMuppets/proprietary_vendor_qcom_binaries" />
