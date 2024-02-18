@@ -78,8 +78,10 @@
   <project name="TheMuppets/proprietary_vendor_nubia_msm8998-common" path="vendor/nubia/msm8998-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nubia_nx563j" path="vendor/nubia/nx563j" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nubia_nx606j" path="vendor/nubia/nx606j" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nubia_nx609j" path="vendor/nubia/nx609j" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nubia_nx611j" path="vendor/nubia/nx611j" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nubia_nx619j" path="vendor/nubia/nx619j" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nubia_sdm845-common" path="vendor/nubia/sdm845-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nubia_sm7250-common" path="vendor/nubia/sm7250-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nvidia_common" path="vendor/nvidia/common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nvidia_concord" path="vendor/nvidia/concord" revision="lineage-21" clone-depth="1" />
