@@ -61,21 +61,36 @@
   <project name="TheMuppets/proprietary_vendor_lge_us997" path="vendor/lge/us997" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_v20-common" path="vendor/lge/v20-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_vs995" path="vendor/lge/vs995" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_beckham" path="vendor/motorola/beckham" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_berlin" path="vendor/motorola/berlin" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_berlna" path="vendor/motorola/berlna" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_caprip" path="vendor/motorola/caprip" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_channel" path="vendor/motorola/channel" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_chef" path="vendor/motorola/chef" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_devon" path="vendor/motorola/devon" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_dubai" path="vendor/motorola/dubai" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_evert" path="vendor/motorola/evert" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_exynos9610-common" path="vendor/motorola/exynos9610-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_hawao" path="vendor/motorola/hawao" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_kane" path="vendor/motorola/kane" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_lake" path="vendor/motorola/lake" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_messi" path="vendor/motorola/messi" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_msm8998-common" path="vendor/motorola/msm8998-common" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_nash" path="vendor/motorola/nash" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_nio" path="vendor/motorola/nio" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_ocean" path="vendor/motorola/ocean" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_parker" path="vendor/motorola/parker" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_payton" path="vendor/motorola/payton" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_pstar" path="vendor/motorola/pstar" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_rhode" path="vendor/motorola/rhode" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_river" path="vendor/motorola/river" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_rtwo" path="vendor/motorola/rtwo" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sdm632-common" path="vendor/motorola/sdm632-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm6225-common" path="vendor/motorola/sm6225-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm8250-common" path="vendor/motorola/sm8250-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm8550-common" path="vendor/motorola/sm8550-common" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_troika" path="vendor/motorola/troika" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_xpeng" path="vendor/motorola/xpeng" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nintendo_nx" path="vendor/nintendo/nx" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nokia_DRG" path="vendor/nokia/DRG" revision="lineage-21" clone-depth="1" />
