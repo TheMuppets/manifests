@@ -89,6 +89,12 @@
   <project name="TheMuppets/proprietary_vendor_nubia_nx659j" path="vendor/nubia/nx659j" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nubia_sdm845-common" path="vendor/nubia/sdm845-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nubia_sm7250-common" path="vendor/nubia/sm7250-common" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_common" path="vendor/nvidia/common" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_foster" path="vendor/nvidia/foster" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_quill" path="vendor/nvidia/quill" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_shield" path="vendor/nvidia/shield" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_t186" path="vendor/nvidia/t186" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_t210" path="vendor/nvidia/t210" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_avicii" path="vendor/oneplus/avicii" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_cheeseburger" path="vendor/oneplus/cheeseburger" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_dre" path="vendor/oneplus/dre" revision="lineage-20" clone-depth="1" />
