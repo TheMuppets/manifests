@@ -230,6 +230,8 @@
   <project name="TheMuppets/proprietary_vendor_razer_aura" />
   <project name="TheMuppets/proprietary_vendor_razer_cheryl" />
   <project name="TheMuppets/proprietary_vendor_realme" />
+  <project name="TheMuppets/proprietary_vendor_realme_oscar" />
+  <project name="TheMuppets/proprietary_vendor_realme_sm6375-common" />
   <project name="TheMuppets/proprietary_vendor_samsung" />
   <project name="TheMuppets/proprietary_vendor_samsung_a51" />
   <project name="TheMuppets/proprietary_vendor_samsung_a52q" />
