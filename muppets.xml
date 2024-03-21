@@ -132,10 +132,12 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_lemonades" path="vendor/oneplus/lemonades" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_martini" path="vendor/oneplus/martini" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_msm8998-common" path="vendor/oneplus/msm8998-common" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_salami" path="vendor/oneplus/salami" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sdm845-common" path="vendor/oneplus/sdm845-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8250-common" path="vendor/oneplus/sm8250-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sm8550-common" path="vendor/oneplus/sm8550-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_razer_aura" path="vendor/razer/aura" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_razer_cheryl" path="vendor/razer/cheryl" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a52q" path="vendor/samsung/a52q" revision="lineage-21" clone-depth="1" />
