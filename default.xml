@@ -305,6 +305,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_chiron" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_davinci" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_dipper" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_earth" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_equuleus" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_gauguin" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_gemini" />
