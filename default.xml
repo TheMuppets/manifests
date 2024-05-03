@@ -93,6 +93,9 @@
   <project name="TheMuppets/proprietary_vendor_leeco" />
   <project name="TheMuppets/proprietary_vendor_lenovo" />
   <project name="TheMuppets/proprietary_vendor_lenovo_heart" />
+  <project name="TheMuppets/proprietary_vendor_lenovo_kunlun2" />
+  <project name="TheMuppets/proprietary_vendor_lenovo_kunlun2_row" />
+  <project name="TheMuppets/proprietary_vendor_lenovo_sdm710-common" />
   <project name="TheMuppets/proprietary_vendor_lenovo_sm8150-common" />
   <project name="TheMuppets/proprietary_vendor_lenovo_zippo" />
   <project name="TheMuppets/proprietary_vendor_lge" />
