@@ -16,6 +16,7 @@
   <project name="TheMuppets/proprietary_vendor_essential_mata" path="vendor/essential/mata" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_fairphone_FP3" path="vendor/fairphone/FP3" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_fairphone_FP4" path="vendor/fairphone/FP4" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_fairphone_FP5" path="vendor/fairphone/FP5" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_fxtec_pro1" path="vendor/fxtec/pro1" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_fxtec_pro1x" path="vendor/fxtec/pro1x" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_barbet" path="vendor/google/barbet" revision="lineage-21" clone-depth="1" />
