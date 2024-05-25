@@ -287,9 +287,11 @@
   <project name="TheMuppets/proprietary_vendor_sony_pdx206" />
   <project name="TheMuppets/proprietary_vendor_sony_pdx214" />
   <project name="TheMuppets/proprietary_vendor_sony_pdx215" />
+  <project name="TheMuppets/proprietary_vendor_sony_pdx234" />
   <project name="TheMuppets/proprietary_vendor_sony_pioneer" />
   <project name="TheMuppets/proprietary_vendor_sony_sm8250-common" />
   <project name="TheMuppets/proprietary_vendor_sony_sm8350-common" />
+  <project name="TheMuppets/proprietary_vendor_sony_sm8550-common" />
   <project name="TheMuppets/proprietary_vendor_sony_tama-common" />
   <project name="TheMuppets/proprietary_vendor_sony_voyager" />
   <project name="TheMuppets/proprietary_vendor_sony_xz2c" />
