@@ -171,8 +171,10 @@
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv-common" path="vendor/samsung/gts4lv-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lvwifi" path="vendor/samsung/gts4lvwifi" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_m52xq" path="vendor/samsung/m52xq" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_r8q" path="vendor/samsung/r8q" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_sm7125-common" path="vendor/samsung/sm7125-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_sm7325-common" path="vendor/samsung/sm7325-common" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_sm8250-common" path="vendor/samsung/sm8250-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_shift_axolotl" path="vendor/shift/axolotl" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_akari" path="vendor/sony/akari" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_akatsuki" path="vendor/sony/akatsuki" revision="lineage-21" clone-depth="1" />
