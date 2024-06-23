@@ -81,6 +81,7 @@
   <project name="TheMuppets/proprietary_vendor_motorola_dubai" path="vendor/motorola/dubai" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_evert" path="vendor/motorola/evert" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_exynos9610-common" path="vendor/motorola/exynos9610-common" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_guam" path="vendor/motorola/guam" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_guamp" path="vendor/motorola/guamp" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_hawao" path="vendor/motorola/hawao" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_kane" path="vendor/motorola/kane" revision="lineage-21" clone-depth="1" />
