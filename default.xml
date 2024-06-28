@@ -55,6 +55,7 @@
   <project name="TheMuppets/proprietary_vendor_fxtec_pro1x" />
   <project name="TheMuppets/proprietary_vendor_geeksphone" />
   <project name="TheMuppets/proprietary_vendor_google" />
+  <project name="TheMuppets/proprietary_vendor_google_akita" />
   <project name="TheMuppets/proprietary_vendor_google_barbet" />
   <project name="TheMuppets/proprietary_vendor_google_beast" />
   <project name="TheMuppets/proprietary_vendor_google_bluejay" />
@@ -137,6 +138,7 @@
   <project name="TheMuppets/proprietary_vendor_motorola_eqs" />
   <project name="TheMuppets/proprietary_vendor_motorola_evert" />
   <project name="TheMuppets/proprietary_vendor_motorola_exynos9610-common" />
+  <project name="TheMuppets/proprietary_vendor_motorola_guam" />
   <project name="TheMuppets/proprietary_vendor_motorola_guamp" />
   <project name="TheMuppets/proprietary_vendor_motorola_hawao" />
   <project name="TheMuppets/proprietary_vendor_motorola_kane" />
@@ -307,8 +309,11 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_beryllium" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_cepheus" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_chiron" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_cupid" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_dagda" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_davinci" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_dipper" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_diting" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_earth" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_equuleus" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_gauguin" />
@@ -321,10 +326,13 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_lavender" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_lisa" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_lmi" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_marble" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_mars" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_mayfly" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_merlinx" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_miatoll" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_mithorium-common" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_mondrian" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8953-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8996-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8998-common" />
@@ -348,11 +356,14 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8150-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8250-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8350-common" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sm8450-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_surya" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sweet" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_taranis" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_tissot" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_twolip" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_umi" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_unicorn" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_ursa" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_vayu" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_vela" />
@@ -361,6 +372,9 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_wayne-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_whyred" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_xmsirius" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_yudi" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_ziyi" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_zizhan" />
   <project name="TheMuppets/proprietary_vendor_yandex" />
   <project name="TheMuppets/proprietary_vendor_yu" />
   <project name="TheMuppets/proprietary_vendor_zte" />
