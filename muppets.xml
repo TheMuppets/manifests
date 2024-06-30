@@ -167,6 +167,15 @@
   <project name="TheMuppets/proprietary_vendor_samsung_a52sxq" path="vendor/samsung/a52sxq" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a72q" path="vendor/samsung/a72q" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a73xq" path="vendor/samsung/a73xq" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_beyond0lte" path="vendor/samsung/beyond0lte" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_beyond1lte" path="vendor/samsung/beyond1lte" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_beyond2lte" path="vendor/samsung/beyond2lte" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_beyondx" path="vendor/samsung/beyondx" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_d1" path="vendor/samsung/d1" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_d2s" path="vendor/samsung/d2s" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_d2x" path="vendor/samsung/d2x" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_exynos9820-common" path="vendor/samsung/exynos9820-common" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_f62" path="vendor/samsung/f62" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4l" path="vendor/samsung/gta4l" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4l-common" path="vendor/samsung/gta4l-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4lwifi" path="vendor/samsung/gta4lwifi" revision="lineage-21" clone-depth="1" />
