@@ -64,9 +64,13 @@
   <project name="TheMuppets/proprietary_vendor_lge_h990" path="vendor/lge/h990" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_joan-common" path="vendor/lge/joan-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_joan" path="vendor/lge/joan" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_judyln" path="vendor/lge/judyln" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_judyp" path="vendor/lge/judyp" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_judypn" path="vendor/lge/judypn" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_ls997" path="vendor/lge/ls997" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_msm8996-common" path="vendor/lge/msm8996-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_rs988" path="vendor/lge/rs988" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_sdm845-common" path="vendor/lge/sdm845-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_us996" path="vendor/lge/us996" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_us996d" path="vendor/lge/us996d" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_us997" path="vendor/lge/us997" revision="lineage-21" clone-depth="1" />
