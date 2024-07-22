@@ -104,6 +104,8 @@
   <project name="TheMuppets/proprietary_vendor_lge_betalm" />
   <project name="TheMuppets/proprietary_vendor_lge_g5-common" />
   <project name="TheMuppets/proprietary_vendor_lge_g6-common" />
+  <project name="TheMuppets/proprietary_vendor_lge_g710n" />
+  <project name="TheMuppets/proprietary_vendor_lge_g710ulm" />
   <project name="TheMuppets/proprietary_vendor_lge_h830" />
   <project name="TheMuppets/proprietary_vendor_lge_h850" />
   <project name="TheMuppets/proprietary_vendor_lge_h870" />
@@ -115,6 +117,7 @@
   <project name="TheMuppets/proprietary_vendor_lge_joan" />
   <project name="TheMuppets/proprietary_vendor_lge_joan-common" />
   <project name="TheMuppets/proprietary_vendor_lge_judyln" />
+  <project name="TheMuppets/proprietary_vendor_lge_judyln-common" />
   <project name="TheMuppets/proprietary_vendor_lge_judyp" />
   <project name="TheMuppets/proprietary_vendor_lge_judypn" />
   <project name="TheMuppets/proprietary_vendor_lge_l01k" />
