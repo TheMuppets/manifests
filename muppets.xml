@@ -237,6 +237,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8996-common" path="vendor/xiaomi/msm8996-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8998-common" path="vendor/xiaomi/msm8998-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_mt6768-common" path="vendor/xiaomi/mt6768-common" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_munch" path="vendor/xiaomi/munch" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_natrium" path="vendor/xiaomi/natrium" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_perseus" path="vendor/xiaomi/perseus" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_polaris" path="vendor/xiaomi/polaris" revision="lineage-21" clone-depth="1" />
