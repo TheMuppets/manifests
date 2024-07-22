@@ -317,6 +317,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_beryllium" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_cepheus" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_chiron" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_cmi" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_cupid" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_dagda" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_davinci" />
