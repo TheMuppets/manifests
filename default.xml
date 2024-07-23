@@ -260,6 +260,7 @@
   <project name="TheMuppets/proprietary_vendor_samsung_beyondx" />
   <project name="TheMuppets/proprietary_vendor_samsung_crownlte" />
   <project name="TheMuppets/proprietary_vendor_samsung_d1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_d1x" />
   <project name="TheMuppets/proprietary_vendor_samsung_d2s" />
   <project name="TheMuppets/proprietary_vendor_samsung_d2x" />
   <project name="TheMuppets/proprietary_vendor_samsung_exynos9810-common" />
