@@ -176,6 +176,7 @@
   <project name="TheMuppets/proprietary_vendor_samsung_beyond2lte" path="vendor/samsung/beyond2lte" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_beyondx" path="vendor/samsung/beyondx" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_d1" path="vendor/samsung/d1" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_d1x" path="vendor/samsung/d1x" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_d2s" path="vendor/samsung/d2s" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_d2x" path="vendor/samsung/d2x" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_exynos9820-common" path="vendor/samsung/exynos9820-common" revision="lineage-21" clone-depth="1" />
