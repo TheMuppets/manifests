@@ -222,6 +222,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_alioth" path="vendor/xiaomi/alioth" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_beryllium" path="vendor/xiaomi/beryllium" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_chiron" path="vendor/xiaomi/chiron" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_cmi" path="vendor/xiaomi/cmi" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_davinci" path="vendor/xiaomi/davinci" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_dipper" path="vendor/xiaomi/dipper" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_earth" path="vendor/xiaomi/earth" revision="lineage-21" clone-depth="1" />
