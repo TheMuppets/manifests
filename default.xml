@@ -366,6 +366,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_sdm660-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sdm710-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sdm845-common" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_shark" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm6150-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm6250-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8150-common" />
