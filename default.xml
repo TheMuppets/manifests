@@ -373,6 +373,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8250-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8350-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8450-common" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_socrates" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_surya" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sweet" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_taranis" />
