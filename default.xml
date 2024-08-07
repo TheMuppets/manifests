@@ -253,6 +253,8 @@
   <project name="TheMuppets/proprietary_vendor_samsung_a52sxq" />
   <project name="TheMuppets/proprietary_vendor_samsung_a70q" />
   <project name="TheMuppets/proprietary_vendor_samsung_a70s" />
+  <project name="TheMuppets/proprietary_vendor_samsung_a71" />
+  <project name="TheMuppets/proprietary_vendor_samsung_a71-common" />
   <project name="TheMuppets/proprietary_vendor_samsung_a72q" />
   <project name="TheMuppets/proprietary_vendor_samsung_a73xq" />
   <project name="TheMuppets/proprietary_vendor_samsung_beyond0lte" />
