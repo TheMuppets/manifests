@@ -172,6 +172,8 @@
   <project name="TheMuppets/proprietary_vendor_realme_sm6375-common" path="vendor/realme/sm6375-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a52q" path="vendor/samsung/a52q" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a52sxq" path="vendor/samsung/a52sxq" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_a71" path="vendor/samsung/a71" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_a71-common" path="vendor/samsung/a71-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a72q" path="vendor/samsung/a72q" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a73xq" path="vendor/samsung/a73xq" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_beyond0lte" path="vendor/samsung/beyond0lte" revision="lineage-21" clone-depth="1" />
