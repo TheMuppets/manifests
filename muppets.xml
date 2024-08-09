@@ -172,6 +172,8 @@
   <project name="TheMuppets/proprietary_vendor_realme_sm6375-common" path="vendor/realme/sm6375-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a52q" path="vendor/samsung/a52q" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a52sxq" path="vendor/samsung/a52sxq" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_a70q" path="vendor/samsung/a70q" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_a70s" path="vendor/samsung/a70s" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a71" path="vendor/samsung/a71" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a71-common" path="vendor/samsung/a71-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a72q" path="vendor/samsung/a72q" revision="lineage-21" clone-depth="1" />
@@ -198,6 +200,7 @@
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lvwifi" path="vendor/samsung/gts4lvwifi" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_m52xq" path="vendor/samsung/m52xq" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_r8q" path="vendor/samsung/r8q" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_sm6150-common" path="vendor/samsung/sm6150-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_sm7125-common" path="vendor/samsung/sm7125-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_sm7325-common" path="vendor/samsung/sm7325-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_sm8250-common" path="vendor/samsung/sm8250-common" revision="lineage-21" clone-depth="1" />
