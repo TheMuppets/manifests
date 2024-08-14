@@ -169,6 +169,7 @@
   <project name="TheMuppets/proprietary_vendor_osom_ingot" path="vendor/osom/ingot" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_razer_aura" path="vendor/razer/aura" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_razer_cheryl" path="vendor/razer/cheryl" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_realme_luigi" path="vendor/realme/luigi" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_realme_oscar" path="vendor/realme/oscar" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_realme_sm6375-common" path="vendor/realme/sm6375-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a52q" path="vendor/samsung/a52q" revision="lineage-21" clone-depth="1" />
