@@ -84,6 +84,7 @@
   <project name="TheMuppets/proprietary_vendor_motorola_berlna" path="vendor/motorola/berlna" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_borneo" path="vendor/motorola/borneo" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_caprip" path="vendor/motorola/caprip" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_cebu" path="vendor/motorola/cebu" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_channel" path="vendor/motorola/channel" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_chef" path="vendor/motorola/chef" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_devon" path="vendor/motorola/devon" revision="lineage-21" clone-depth="1" />
