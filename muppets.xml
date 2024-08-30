@@ -84,7 +84,7 @@
   <project name="TheMuppets/proprietary_vendor_motorola_berlna" path="vendor/motorola/berlna" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_borneo" path="vendor/motorola/borneo" revision="lineage-21" groups="muppets,muppets_borneo" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_caprip" path="vendor/motorola/caprip" revision="lineage-21" groups="muppets,muppets_caprip" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_motorola_cebu" path="vendor/motorola/cebu" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_cebu" path="vendor/motorola/cebu" revision="lineage-21" groups="muppets,muppets_cebu" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_channel" path="vendor/motorola/channel" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_chef" path="vendor/motorola/chef" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_devon" path="vendor/motorola/devon" revision="lineage-21" groups="muppets,muppets_devon" clone-depth="1" />
@@ -111,7 +111,7 @@
   <project name="TheMuppets/proprietary_vendor_motorola_river" path="vendor/motorola/river" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_rtwo" path="vendor/motorola/rtwo" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sdm632-common" path="vendor/motorola/sdm632-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_motorola_sm6225-common" path="vendor/motorola/sm6225-common" revision="lineage-21" groups="muppets,muppets_borneo,muppets_caprip,muppets_devon,muppets_guamp,muppets_guam,muppets_hawao,muppets_rhode" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm6225-common" path="vendor/motorola/sm6225-common" revision="lineage-21" groups="muppets,muppets_borneo,muppets_caprip,muppets_cebu,muppets_devon,muppets_guamp,muppets_guam,muppets_hawao,muppets_rhode" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm7250-common" path="vendor/motorola/sm7250-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm8250-common" path="vendor/motorola/sm8250-common" revision="lineage-21" clone-depth="1" />
