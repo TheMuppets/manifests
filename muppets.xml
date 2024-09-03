@@ -167,7 +167,7 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8250-common" path="vendor/oneplus/sm8250-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8550-common" path="vendor/oneplus/sm8550-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_osom_ingot" path="vendor/osom/ingot" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_osom_ingot" path="vendor/osom/ingot" revision="lineage-21" groups="muppets,muppets_ingot" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_razer_aura" path="vendor/razer/aura" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_razer_cheryl" path="vendor/razer/cheryl" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_realme_luigi" path="vendor/realme/luigi" revision="lineage-21" clone-depth="1" />
@@ -207,7 +207,7 @@
   <project name="TheMuppets/proprietary_vendor_samsung_sm7125-common" path="vendor/samsung/sm7125-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_sm7325-common" path="vendor/samsung/sm7325-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_sm8250-common" path="vendor/samsung/sm8250-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_shift_axolotl" path="vendor/shift/axolotl" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_shift_axolotl" path="vendor/shift/axolotl" revision="lineage-21" groups="muppets,muppets_axolotl" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_akari" path="vendor/sony/akari" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_akatsuki" path="vendor/sony/akatsuki" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_aurora" path="vendor/sony/aurora" revision="lineage-21" clone-depth="1" />
