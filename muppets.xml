@@ -19,34 +19,34 @@
   <project name="TheMuppets/proprietary_vendor_fairphone_FP5" path="vendor/fairphone/FP5" revision="lineage-21" groups="muppets,muppets_FP5" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_fxtec_pro1" path="vendor/fxtec/pro1" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_fxtec_pro1x" path="vendor/fxtec/pro1x" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_akita" path="vendor/google/akita" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_barbet" path="vendor/google/barbet" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_beast" path="vendor/google/beast" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_bluejay" path="vendor/google/bluejay" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_blueline" path="vendor/google/blueline" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_bonito" path="vendor/google/bonito" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_bramble" path="vendor/google/bramble" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_cheetah" path="vendor/google/cheetah" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_coral" path="vendor/google/coral" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_crosshatch" path="vendor/google/crosshatch" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_felix" path="vendor/google/felix" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_flame" path="vendor/google/flame" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_husky" path="vendor/google/husky" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_lynx" path="vendor/google/lynx" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_marlin" path="vendor/google/marlin" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_oriole" path="vendor/google/oriole" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_panther" path="vendor/google/panther" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_raven" path="vendor/google/raven" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_redfin" path="vendor/google/redfin" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_sabrina" path="vendor/google/sabrina" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_sailfish" path="vendor/google/sailfish" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_sargo" path="vendor/google/sargo" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_shiba" path="vendor/google/shiba" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_sphynx" path="vendor/google/sphynx" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_sunfish" path="vendor/google/sunfish" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_taimen" path="vendor/google/taimen" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_tangorpro" path="vendor/google/tangorpro" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_walleye" path="vendor/google/walleye" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_akita" path="vendor/google/akita" revision="lineage-21" groups="muppets,muppets_akita" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_barbet" path="vendor/google/barbet" revision="lineage-21" groups="muppets,muppets_barbet" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_beast" path="vendor/google/beast" revision="lineage-21" groups="muppets,muppets_beast" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_bluejay" path="vendor/google/bluejay" revision="lineage-21" groups="muppets,muppets_bluejay" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_blueline" path="vendor/google/blueline" revision="lineage-21" groups="muppets,muppets_blueline" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_bonito" path="vendor/google/bonito" revision="lineage-21" groups="muppets,muppets_bonito" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_bramble" path="vendor/google/bramble" revision="lineage-21" groups="muppets,muppets_bramble" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_cheetah" path="vendor/google/cheetah" revision="lineage-21" groups="muppets,muppets_cheetah" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_coral" path="vendor/google/coral" revision="lineage-21" groups="muppets,muppets_coral" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_crosshatch" path="vendor/google/crosshatch" revision="lineage-21" groups="muppets,muppets_crosshatch" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_felix" path="vendor/google/felix" revision="lineage-21" groups="muppets,muppets_felix" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_flame" path="vendor/google/flame" revision="lineage-21" groups="muppets,muppets_flame" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_husky" path="vendor/google/husky" revision="lineage-21" groups="muppets,muppets_husky" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_lynx" path="vendor/google/lynx" revision="lineage-21" groups="muppets,muppets_lynx" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_marlin" path="vendor/google/marlin" revision="lineage-21" groups="muppets,muppets_marlin" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_oriole" path="vendor/google/oriole" revision="lineage-21" groups="muppets,muppets_oriole" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_panther" path="vendor/google/panther" revision="lineage-21" groups="muppets,muppets_panther" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_raven" path="vendor/google/raven" revision="lineage-21" groups="muppets,muppets_raven" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_redfin" path="vendor/google/redfin" revision="lineage-21" groups="muppets,muppets_redfin" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_sabrina" path="vendor/google/sabrina" revision="lineage-21" groups="muppets,muppets_sabrina" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_sailfish" path="vendor/google/sailfish" revision="lineage-21" groups="muppets,muppets_sailfish" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_sargo" path="vendor/google/sargo" revision="lineage-21" groups="muppets,muppets_sargo" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_shiba" path="vendor/google/shiba" revision="lineage-21" groups="muppets,muppets_shiba" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_sphynx" path="vendor/google/sphynx" revision="lineage-21" groups="muppets,muppets_sphynx" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_sunfish" path="vendor/google/sunfish" revision="lineage-21" groups="muppets,muppets_sunfish" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_taimen" path="vendor/google/taimen" revision="lineage-21" groups="muppets,muppets_taimen" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_tangorpro" path="vendor/google/tangorpro" revision="lineage-21" groups="muppets,muppets_tangorpro" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_walleye" path="vendor/google/walleye" revision="lineage-21" groups="muppets,muppets_walleye" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lenovo_heart" path="vendor/lenovo/heart" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lenovo_kunlun2" path="vendor/lenovo/kunlun2" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lenovo_kunlun2_row" path="vendor/lenovo/kunlun2_row" revision="lineage-21" clone-depth="1" />
