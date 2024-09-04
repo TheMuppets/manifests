@@ -142,37 +142,37 @@
   <project name="TheMuppets/proprietary_vendor_nvidia_t194" path="vendor/nvidia/t194" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nvidia_t210" path="vendor/nvidia/t210" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nvidia_t234" path="vendor/nvidia/t234" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_avicii" path="vendor/oneplus/avicii" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_billie" path="vendor/oneplus/billie" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_cheeseburger" path="vendor/oneplus/cheeseburger" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_dre" path="vendor/oneplus/dre" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_dumpling" path="vendor/oneplus/dumpling" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_enchilada" path="vendor/oneplus/enchilada" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_fajita" path="vendor/oneplus/fajita" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_guacamole" path="vendor/oneplus/guacamole" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_guacamoleb" path="vendor/oneplus/guacamoleb" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_hotdog" path="vendor/oneplus/hotdog" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_instantnoodle" path="vendor/oneplus/instantnoodle" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_instantnoodlep" path="vendor/oneplus/instantnoodlep" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_kebab" path="vendor/oneplus/kebab" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_lemonade" path="vendor/oneplus/lemonade" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_lemonadep" path="vendor/oneplus/lemonadep" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_lemonades" path="vendor/oneplus/lemonades" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_martini" path="vendor/oneplus/martini" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_msm8998-common" path="vendor/oneplus/msm8998-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_salami" path="vendor/oneplus/salami" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_sdm845-common" path="vendor/oneplus/sdm845-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_sm8250-common" path="vendor/oneplus/sm8250-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_sm8550-common" path="vendor/oneplus/sm8550-common" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_avicii" path="vendor/oneplus/avicii" revision="lineage-21" groups="muppets,avicii" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_billie" path="vendor/oneplus/billie" revision="lineage-21" groups="muppets,billie" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_cheeseburger" path="vendor/oneplus/cheeseburger" revision="lineage-21" groups="muppets,muppets_cheeseburger" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_dre" path="vendor/oneplus/dre" revision="lineage-21" groups="muppets,muppets_dre" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_dumpling" path="vendor/oneplus/dumpling" revision="lineage-21" groups="muppets,muppets_dumpling" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_enchilada" path="vendor/oneplus/enchilada" revision="lineage-21" groups="muppets,muppets_enchilada" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_fajita" path="vendor/oneplus/fajita" revision="lineage-21" groups="muppets,muppets_fajita" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_guacamole" path="vendor/oneplus/guacamole" revision="lineage-21" groups="muppets,muppets_guacamole" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_guacamoleb" path="vendor/oneplus/guacamoleb" revision="lineage-21" groups="muppets,muppets_guacamoleb" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_hotdog" path="vendor/oneplus/hotdog" revision="lineage-21" groups="muppets,muppets_hotdog" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" revision="lineage-21" groups="muppets,muppets_hotdogb" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_instantnoodle" path="vendor/oneplus/instantnoodle" revision="lineage-21" groups="muppets,muppets_instantnoodle" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_instantnoodlep" path="vendor/oneplus/instantnoodlep" revision="lineage-21" groups="muppets,muppets_instantnoodlep" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_kebab" path="vendor/oneplus/kebab" revision="lineage-21" groups="muppets,muppets_kebab" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_lemonade" path="vendor/oneplus/lemonade" revision="lineage-21" groups="muppets,muppets_lemonade" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_lemonadep" path="vendor/oneplus/lemonadep" revision="lineage-21" groups="muppets,muppets_lemonadep" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_lemonades" path="vendor/oneplus/lemonades" revision="lineage-21" groups="muppets,muppets_lemonades" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_martini" path="vendor/oneplus/martini" revision="lineage-21" groups="muppets,muppets_martini" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_msm8998-common" path="vendor/oneplus/msm8998-common" revision="lineage-21" groups="muppets,muppets_cheeseburger,muppets_dumpling" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_salami" path="vendor/oneplus/salami" revision="lineage-21" groups="muppets,muppets_salami" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sdm845-common" path="vendor/oneplus/sdm845-common" revision="lineage-21" groups="muppets,muppets_enchilada,muppets_fajita" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" revision="lineage-21" groups="muppets,muppets_guacamole,muppets_guacamoleb,muppets_guacamoleg,muppets_hotdog,muppets_hotdogb" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sm8250-common" path="vendor/oneplus/sm8250-common" revision="lineage-21" groups="muppets,muppets_instantnoodle,muppets_instantnoodlep,muppets_kebab,muppets_lemonades" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="lineage-21" groups="muppets,muppets_lemonade,muppets_lemonadep,muppets_lunaa,muppets_martini" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sm8550-common" path="vendor/oneplus/sm8550-common" revision="lineage-21" groups="muppets,muppets_salami" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_osom_ingot" path="vendor/osom/ingot" revision="lineage-21" groups="muppets,muppets_ingot" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_razer_aura" path="vendor/razer/aura" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_razer_cheryl" path="vendor/razer/cheryl" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_realme_luigi" path="vendor/realme/luigi" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_realme_oscar" path="vendor/realme/oscar" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_realme_sm6375-common" path="vendor/realme/sm6375-common" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_realme_luigi" path="vendor/realme/luigi" revision="lineage-21" groups="muppets,muppets_luigi" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_realme_oscar" path="vendor/realme/oscar" revision="lineage-21" groups="muppets,muppets_oscar" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_realme_sm6375-common" path="vendor/realme/sm6375-common" revision="lineage-21" groups="muppets,muppets_luigi,muppets_oscar" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a52q" path="vendor/samsung/a52q" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a52sxq" path="vendor/samsung/a52sxq" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a70q" path="vendor/samsung/a70q" revision="lineage-21" clone-depth="1" />
