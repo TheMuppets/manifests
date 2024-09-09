@@ -142,8 +142,8 @@
   <project name="TheMuppets/proprietary_vendor_nvidia_t194" path="vendor/nvidia/t194" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nvidia_t210" path="vendor/nvidia/t210" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nvidia_t234" path="vendor/nvidia/t234" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_avicii" path="vendor/oneplus/avicii" revision="lineage-21" groups="muppets,avicii" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_billie" path="vendor/oneplus/billie" revision="lineage-21" groups="muppets,billie" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_avicii" path="vendor/oneplus/avicii" revision="lineage-21" groups="muppets,muppets_avicii" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_billie" path="vendor/oneplus/billie" revision="lineage-21" groups="muppets,muppets_billie" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_cheeseburger" path="vendor/oneplus/cheeseburger" revision="lineage-21" groups="muppets,muppets_cheeseburger" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_dre" path="vendor/oneplus/dre" revision="lineage-21" groups="muppets,muppets_dre" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_dumpling" path="vendor/oneplus/dumpling" revision="lineage-21" groups="muppets,muppets_dumpling" clone-depth="1" />
