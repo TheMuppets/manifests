@@ -266,7 +266,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8150-common" path="vendor/xiaomi/sm8150-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8250-common" path="vendor/xiaomi/sm8250-common" revision="lineage-21" groups="muppets,muppets_alioth,muppets_cmi,muppets_lmi,muppets_munch,muppets_umi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8350-common" path="vendor/xiaomi/sm8350-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_xiaomi_socrates" path="vendor/xiaomi/socrates" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_socrates" path="vendor/xiaomi/socrates" revision="lineage-21" groups="muppets,muppets_socrates" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_surya" path="vendor/xiaomi/surya" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sweet" path="vendor/xiaomi/sweet" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_umi" path="vendor/xiaomi/umi" revision="lineage-21" groups="muppets,muppets_umi" clone-depth="1" />
