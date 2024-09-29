@@ -198,9 +198,9 @@
   <project name="TheMuppets/proprietary_vendor_samsung_gta4xl-common" path="vendor/samsung/gta4xl-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4xlwifi" path="vendor/samsung/gta4xlwifi" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gtowifi" path="vendor/samsung/gtowifi" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_samsung_gts4lv" path="vendor/samsung/gts4lv" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_samsung_gts4lv-common" path="vendor/samsung/gts4lv-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_samsung_gts4lvwifi" path="vendor/samsung/gts4lvwifi" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gts4lv" path="vendor/samsung/gts4lv" revision="lineage-21" groups="muppets,muppets_gts4lv" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gts4lv-common" path="vendor/samsung/gts4lv-common" revision="lineage-21" groups="muppets,muppets_gts4lv,muppets_gts4lvwifi" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gts4lvwifi" path="vendor/samsung/gts4lvwifi" revision="lineage-21" groups="muppets,muppets_gts4lvwifi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_m52xq" path="vendor/samsung/m52xq" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_r8q" path="vendor/samsung/r8q" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_sm6150-common" path="vendor/samsung/sm6150-common" revision="lineage-21" clone-depth="1" />
