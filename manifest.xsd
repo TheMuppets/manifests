@@ -13,6 +13,6 @@
     <xs:attribute name="path" type="xs:string" use="required"/>
     <xs:attribute name="revision" type="xs:string" use="required"/>
     <xs:attribute name="groups" type="xs:string"/>
-    <xs:attribute name="clone-depth" type="xs:int" use="required"/>
+    <xs:attribute name="clone-depth" type="xs:integer" use="required"/>
   </xs:complexType>
 </xs:schema>
