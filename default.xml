@@ -184,8 +184,10 @@
   <project name="TheMuppets/proprietary_vendor_nintendo_nx" />
   <project name="TheMuppets/proprietary_vendor_nokia" />
   <project name="TheMuppets/proprietary_vendor_nokia_DRG" />
+  <project name="TheMuppets/proprietary_vendor_nokia_NB1" />
   <project name="TheMuppets/proprietary_vendor_nokia_NLA" />
   <project name="TheMuppets/proprietary_vendor_nokia_PL2" />
+  <project name="TheMuppets/proprietary_vendor_nokia_msm8998-common" />
   <project name="TheMuppets/proprietary_vendor_nokia_sdm660-common" />
   <project name="TheMuppets/proprietary_vendor_nothing_Spacewar" />
   <project name="TheMuppets/proprietary_vendor_nubia" />
