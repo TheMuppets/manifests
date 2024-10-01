@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" version="2.0" elementFormDefault="qualified" attributeFormDefault="unqualified">
+  <xs:element name="manifest">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="project" maxOccurs="unbounded" type="project"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:complexType name="project">
+    <xs:attribute name="name" type="xs:string" use="required"/>
+    <xs:attribute name="path" type="xs:string" use="required"/>
+    <xs:attribute name="revision" type="xs:string" use="required"/>
+    <xs:attribute name="groups" type="xs:string"/>
+    <xs:attribute name="clone-depth" type="xs:int" use="required"/>
+  </xs:complexType>
+</xs:schema>
