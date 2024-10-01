@@ -76,7 +76,6 @@
   <project name="TheMuppets/proprietary_vendor_motorola_sm6225-common" path="vendor/motorola/sm6225-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm8250-common" path="vendor/motorola/sm8250-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nokia_DRG" path="vendor/nokia/DRG" revision="lineage-20" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_nokia_NLA" path="vendor/nokia/NLA" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nokia_PL2" path="vendor/nokia/PL2" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nokia_sdm660-common" path="vendor/nokia/sdm660-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nothing_Spacewar" path="vendor/nothing/Spacewar" revision="lineage-20" clone-depth="1" />
