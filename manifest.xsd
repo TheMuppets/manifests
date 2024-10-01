@@ -3,7 +3,7 @@
   <xs:element name="manifest">
     <xs:complexType>
       <xs:sequence>
-        <xs:element name="project" maxOccurs="unbounded" type="project"/>
+        <xs:element name="project" minOccurs="0" maxOccurs="unbounded" type="project"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
