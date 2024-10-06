@@ -6,6 +6,16 @@
         <xs:element name="project" minOccurs="0" maxOccurs="unbounded" type="project"/>
       </xs:sequence>
     </xs:complexType>
+
+    <xs:unique name="UniqueProjectName">
+      <xs:selector xpath="project"/>
+      <xs:field xpath="@name"/>
+    </xs:unique>
+
+    <xs:unique name="UniqueProjectPath">
+      <xs:selector xpath="project"/>
+      <xs:field xpath="@path"/>
+    </xs:unique>
   </xs:element>
 
   <xs:complexType name="project">
