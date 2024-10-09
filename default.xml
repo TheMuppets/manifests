@@ -23,6 +23,7 @@
   <project name="TheMuppets/proprietary_vendor_amlogic_ne-common" />
   <project name="TheMuppets/proprietary_vendor_amlogic_odroidc4" />
   <project name="TheMuppets/proprietary_vendor_amlogic_radxa0" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_sm1-common" />
   <project name="TheMuppets/proprietary_vendor_ark" />
   <project name="TheMuppets/proprietary_vendor_askey" />
   <project name="TheMuppets/proprietary_vendor_askey_deadpool" />
