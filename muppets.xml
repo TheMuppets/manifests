@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="TheMuppets/proprietary_vendor_amlogic_g12-common" path="vendor/amlogic/g12-common" revision="lineage-21" groups="muppets,muppets_g12,muppets_radxa0,muppets_deadpool,muppets_dopinder,muppets_wade" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_amlogic_gx-common" path="vendor/amlogic/gx-common" revision="lineage-21" groups="muppets,muppets_gx,muppets_beast" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_g12-common" path="vendor/amlogic/g12-common" revision="lineage-21" groups="muppets,muppets_radxa0,muppets_deadpool,muppets_dopinder,muppets_wade" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_gx-common" path="vendor/amlogic/gx-common" revision="lineage-21" groups="muppets,muppets_beast" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_amlogic_m5" path="vendor/amlogic/m5" revision="lineage-21" groups="muppets,muppets_m5" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_amlogic_odroidc4" path="vendor/amlogic/odroidc4" revision="lineage-21" groups="muppets,muppets_odroidc4" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_amlogic_radxa0" path="vendor/amlogic/radxa0" revision="lineage-21" groups="muppets,muppets_radxa0" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_amlogic_sm1-common" path="vendor/amlogic/sm1-common" revision="lineage-21" groups="muppets,muppets_sm1,muppets_m5,muppets_odroidc4,muppets_sabrina" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_sm1-common" path="vendor/amlogic/sm1-common" revision="lineage-21" groups="muppets,muppets_m5,muppets_odroidc4,muppets_sabrina" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_deadpool" path="vendor/askey/deadpool" revision="lineage-21" groups="muppets,muppets_deadpool" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_dopinder" path="vendor/askey/dopinder" revision="lineage-21" groups="muppets,muppets_dopinder" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_wade" path="vendor/askey/wade" revision="lineage-21" groups="muppets,muppets_wade" clone-depth="1" />
