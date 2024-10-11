@@ -9,17 +9,17 @@
   <project name="TheMuppets/proprietary_vendor_askey_deadpool" path="vendor/askey/deadpool" revision="lineage-21" groups="muppets,muppets_deadpool" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_dopinder" path="vendor/askey/dopinder" revision="lineage-21" groups="muppets,muppets_dopinder" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_wade" path="vendor/askey/wade" revision="lineage-21" groups="muppets,muppets_wade" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_asus_Z01R" path="vendor/asus/Z01R" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_asus_sake" path="vendor/asus/sake" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_bq_bardock" path="vendor/bq/bardock" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_bq_bardockpro" path="vendor/bq/bardockpro" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_bq_msm8953-common" path="vendor/bq/msm8953-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_essential_mata" path="vendor/essential/mata" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_asus_Z01R" path="vendor/asus/Z01R" revision="lineage-21" groups="muppets,muppets_Z01R" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_asus_sake" path="vendor/asus/sake" revision="lineage-21" groups="muppets,muppets_sake" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_bq_bardock" path="vendor/bq/bardock" revision="lineage-21" groups="muppets,muppets_bardock" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_bq_bardockpro" path="vendor/bq/bardockpro" revision="lineage-21" groups="muppets,muppets_bardockpro" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_bq_msm8953-common" path="vendor/bq/msm8953-common" revision="lineage-21" groups="muppets,muppets_bardock,muppets_bardockpro" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_essential_mata" path="vendor/essential/mata" revision="lineage-21" groups="muppets,muppets_mata" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_fairphone_FP3" path="vendor/fairphone/FP3" revision="lineage-21" groups="muppets,muppets_FP3" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_fairphone_FP4" path="vendor/fairphone/FP4" revision="lineage-21" groups="muppets,muppets_FP4" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_fairphone_FP5" path="vendor/fairphone/FP5" revision="lineage-21" groups="muppets,muppets_FP5" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_fxtec_pro1" path="vendor/fxtec/pro1" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_fxtec_pro1x" path="vendor/fxtec/pro1x" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_fxtec_pro1" path="vendor/fxtec/pro1" revision="lineage-21" groups="muppets,muppets_pro1" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_fxtec_pro1x" path="vendor/fxtec/pro1x" revision="lineage-21" groups="muppets,muppets_pro1x" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_akita" path="vendor/google/akita" revision="lineage-21" groups="muppets,muppets_akita" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_barbet" path="vendor/google/barbet" revision="lineage-21" groups="muppets,muppets_barbet" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_beast" path="vendor/google/beast" revision="lineage-21" groups="muppets,muppets_beast" clone-depth="1" />
@@ -48,12 +48,12 @@
   <project name="TheMuppets/proprietary_vendor_google_taimen" path="vendor/google/taimen" revision="lineage-21" groups="muppets,muppets_taimen" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_tangorpro" path="vendor/google/tangorpro" revision="lineage-21" groups="muppets,muppets_tangorpro" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_walleye" path="vendor/google/walleye" revision="lineage-21" groups="muppets,muppets_walleye" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_lenovo_heart" path="vendor/lenovo/heart" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_lenovo_kunlun2" path="vendor/lenovo/kunlun2" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_lenovo_kunlun2_row" path="vendor/lenovo/kunlun2_row" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_lenovo_sdm710-common" path="vendor/lenovo/sdm710-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_lenovo_sm8150-common" path="vendor/lenovo/sm8150-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_lenovo_zippo" path="vendor/lenovo/zippo" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lenovo_heart" path="vendor/lenovo/heart" revision="lineage-21" groups="muppets,muppets_heart" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lenovo_kunlun2" path="vendor/lenovo/kunlun2" revision="lineage-21" groups="muppets,muppets_kunlun2" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lenovo_kunlun2_row" path="vendor/lenovo/kunlun2_row" revision="lineage-21" groups="muppets,muppets_kunlun2_row" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lenovo_sdm710-common" path="vendor/lenovo/sdm710-common" revision="lineage-21" groups="muppets,muppets_kunlun2,muppets_kunlun2_row" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lenovo_sm8150-common" path="vendor/lenovo/sm8150-common" revision="lineage-21" groups="muppets,muppets_heart,muppets_zippo" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lenovo_zippo" path="vendor/lenovo/zippo" revision="lineage-21" groups="muppets,muppets_zippo" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_g5-common" path="vendor/lge/g5-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_g6-common" path="vendor/lge/g6-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_g710n" path="vendor/lge/g710n" groups="muppets,muppets_g710n" revision="lineage-21" clone-depth="1" />
@@ -171,8 +171,8 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="lineage-21" groups="muppets,muppets_lemonade,muppets_lemonadep,muppets_lunaa,muppets_martini" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8550-common" path="vendor/oneplus/sm8550-common" revision="lineage-21" groups="muppets,muppets_salami" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_osom_ingot" path="vendor/osom/ingot" revision="lineage-21" groups="muppets,muppets_ingot" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_razer_aura" path="vendor/razer/aura" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_razer_cheryl" path="vendor/razer/cheryl" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_razer_aura" path="vendor/razer/aura" revision="lineage-21" groups="muppets,muppets_aura" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_razer_cheryl" path="vendor/razer/cheryl" revision="lineage-21" groups="muppets,muppets_cheryl" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_realme_luigi" path="vendor/realme/luigi" revision="lineage-21" groups="muppets,muppets_luigi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_realme_oscar" path="vendor/realme/oscar" revision="lineage-21" groups="muppets,muppets_oscar" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_realme_sm6375-common" path="vendor/realme/sm6375-common" revision="lineage-21" groups="muppets,muppets_luigi,muppets_oscar" clone-depth="1" />
@@ -236,7 +236,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_alioth" path="vendor/xiaomi/alioth" revision="lineage-21" groups="muppets,muppets_alioth" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_apollon" path="vendor/xiaomi/apollon" revision="lineage-21" groups="muppets,muppets_apollon" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_beryllium" path="vendor/xiaomi/beryllium" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_xiaomi_chiron" path="vendor/xiaomi/chiron" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_chiron" path="vendor/xiaomi/chiron" revision="lineage-21" groups="muppets,muppets_chiron" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_cmi" path="vendor/xiaomi/cmi" revision="lineage-21" groups="muppets,muppets_cmi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_davinci" path="vendor/xiaomi/davinci" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_dipper" path="vendor/xiaomi/dipper" revision="lineage-21" clone-depth="1" />
@@ -252,7 +252,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_mithorium-common" path="vendor/xiaomi/mithorium-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8996-common" path="vendor/xiaomi/msm8996-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_xiaomi_msm8998-common" path="vendor/xiaomi/msm8998-common" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_msm8998-common" path="vendor/xiaomi/msm8998-common" revision="lineage-21" groups="muppets,muppets_chiron,muppets_sagit" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_mt6768-common" path="vendor/xiaomi/mt6768-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_munch" path="vendor/xiaomi/munch" revision="lineage-21" groups="muppets,muppets_munch" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_natrium" path="vendor/xiaomi/natrium" revision="lineage-21" clone-depth="1" />
@@ -262,7 +262,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_pyxis" path="vendor/xiaomi/pyxis" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_renoir" path="vendor/xiaomi/renoir" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_rosemary" path="vendor/xiaomi/rosemary" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_xiaomi_sagit" path="vendor/xiaomi/sagit" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sagit" path="vendor/xiaomi/sagit" revision="lineage-21" groups="muppets,muppets_sagit" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sdm710-common" path="vendor/xiaomi/sdm710-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sdm845-common" path="vendor/xiaomi/sdm845-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_shark" path="vendor/xiaomi/shark" revision="lineage-21" clone-depth="1" />
