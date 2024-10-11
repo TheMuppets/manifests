@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="TheMuppets/proprietary_vendor_amlogic_g12-common" path="vendor/amlogic/g12-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_amlogic_gx-common" path="vendor/amlogic/gx-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_amlogic_m5" path="vendor/amlogic/m5" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_amlogic_odroidc4" path="vendor/amlogic/odroidc4" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_amlogic_radxa0" path="vendor/amlogic/radxa0" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_askey_deadpool" path="vendor/askey/deadpool" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_askey_dopinder" path="vendor/askey/dopinder" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_askey_wade" path="vendor/askey/wade" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_g12-common" path="vendor/amlogic/g12-common" revision="lineage-21" groups="muppets,muppets_g12" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_gx-common" path="vendor/amlogic/gx-common" revision="lineage-21" groups="muppets,muppets_gx" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_m5" path="vendor/amlogic/m5" revision="lineage-21" groups="muppets,muppets_sm1,muppets_m5" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_odroidc4" path="vendor/amlogic/odroidc4" revision="lineage-21" groups="muppets,muppets_sm1,muppets_odroidc4" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_radxa0" path="vendor/amlogic/radxa0" revision="lineage-21" groups="muppets,muppets_g12,muppets_radxa0" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_sm1-common" path="vendor/amlogic/sm1-common" revision="lineage-21" groups="muppets,muppets_sm1" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_askey_deadpool" path="vendor/askey/deadpool" revision="lineage-21" groups="muppets,muppets_g12,muppets_deadpool" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_askey_dopinder" path="vendor/askey/dopinder" revision="lineage-21" groups="muppets,muppets_g12,muppets_dopinder" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_askey_wade" path="vendor/askey/wade" revision="lineage-21" groups="muppets,muppets_g12,muppets_wade" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_asus_Z01R" path="vendor/asus/Z01R" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_asus_sake" path="vendor/asus/sake" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_bq_bardock" path="vendor/bq/bardock" revision="lineage-21" clone-depth="1" />
@@ -21,7 +22,7 @@
   <project name="TheMuppets/proprietary_vendor_fxtec_pro1x" path="vendor/fxtec/pro1x" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_akita" path="vendor/google/akita" revision="lineage-21" groups="muppets,muppets_akita" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_barbet" path="vendor/google/barbet" revision="lineage-21" groups="muppets,muppets_barbet" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_beast" path="vendor/google/beast" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_beast" path="vendor/google/beast" revision="lineage-21" groups="muppets,muppets_gx,muppets_beast" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_bluejay" path="vendor/google/bluejay" revision="lineage-21" groups="muppets,muppets_bluejay" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_blueline" path="vendor/google/blueline" revision="lineage-21" groups="muppets,muppets_blueline" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_bonito" path="vendor/google/bonito" revision="lineage-21" groups="muppets,muppets_bonito" clone-depth="1" />
@@ -38,7 +39,7 @@
   <project name="TheMuppets/proprietary_vendor_google_panther" path="vendor/google/panther" revision="lineage-21" groups="muppets,muppets_panther" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_raven" path="vendor/google/raven" revision="lineage-21" groups="muppets,muppets_raven" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_redfin" path="vendor/google/redfin" revision="lineage-21" groups="muppets,muppets_redfin" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_sabrina" path="vendor/google/sabrina" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_sabrina" path="vendor/google/sabrina" revision="lineage-21" groups="muppets,muppets_sm1,muppets_sabrina" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_sailfish" path="vendor/google/sailfish" revision="lineage-21" groups="muppets,muppets_sailfish" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_sargo" path="vendor/google/sargo" revision="lineage-21" groups="muppets,muppets_sargo" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_shiba" path="vendor/google/shiba" revision="lineage-21" groups="muppets,muppets_shiba" clone-depth="1" />
