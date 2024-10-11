@@ -217,13 +217,13 @@
   <project name="TheMuppets/proprietary_vendor_sony_kirin" path="vendor/sony/kirin" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_mermaid" path="vendor/sony/mermaid" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_nile-common" path="vendor/sony/nile-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_sony_pdx203" path="vendor/sony/pdx203" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_sony_pdx206" path="vendor/sony/pdx206" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_pdx203" path="vendor/sony/pdx203" revision="lineage-21" groups="muppets,muppets_pdx203" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_pdx206" path="vendor/sony/pdx206" revision="lineage-21" groups="muppets,muppets_pdx206" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_pdx214" path="vendor/sony/pdx214" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_pdx215" path="vendor/sony/pdx215" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_pdx234" path="vendor/sony/pdx234" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_pioneer" path="vendor/sony/pioneer" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_sony_sm8250-common" path="vendor/sony/sm8250-common" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_sm8250-common" path="vendor/sony/sm8250-common" revision="lineage-21" groups="muppets,muppets_pdx203,muppets_pdx206" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_sm8350-common" path="vendor/sony/sm8350-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_sm8550-common" path="vendor/sony/sm8550-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_tama-common" path="vendor/sony/tama-common" revision="lineage-21" clone-depth="1" />
