@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <!-- Samsung gts4lv -->
+  <project name="TheMuppets/proprietary_vendor_samsung_gts4lv-common" path="vendor/samsung/gts4lv-common" groups="muppets,muppets_gts4lv,muppets_gts4lvwifi" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gts4lv" path="vendor/samsung/gts4lv" groups="muppets,muppets_gts4lv" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gts4lvwifi" path="vendor/samsung/gts4lvwifi" groups="muppets,muppets_gts4lvwifi" clone-depth="1" />
 </manifest>
