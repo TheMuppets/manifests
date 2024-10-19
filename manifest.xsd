@@ -19,9 +19,36 @@
   </xs:element>
 
   <xs:complexType name="project">
-    <xs:attribute name="name" type="xs:string" use="required"/>
-    <xs:attribute name="path" type="xs:string" use="required"/>
-    <xs:attribute name="groups" type="xs:string" use="required"/>
-    <xs:attribute name="clone-depth" type="xs:integer" use="required"/>
+    <xs:attribute name="name" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:pattern value="TheMuppets/proprietary_vendor_.*"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+
+    <xs:attribute name="path" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:pattern value="vendor/.*"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+
+    <xs:attribute name="groups" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:pattern value="muppets,muppets_.*"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+
+    <xs:attribute name="clone-depth" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:integer">
+          <xs:pattern value="1"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
   </xs:complexType>
 </xs:schema>
