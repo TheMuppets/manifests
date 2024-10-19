@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <!-- OnePlus SM8150 -->
+  <project name="TheMuppets/proprietary_vendor_oneplus_guacamole" path="vendor/oneplus/guacamole" groups="muppets,muppets_guacamole" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_guacamoleb" path="vendor/oneplus/guacamoleb" groups="muppets,muppets_guacamoleb" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_hotdog" path="vendor/oneplus/hotdog" groups="muppets,muppets_hotdog" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" groups="muppets,muppets_hotdogb" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" groups="muppets,muppets_guacamole,muppets_guacamoleb,muppets_guacamoleg,muppets_hotdog,muppets_hotdogb" clone-depth="1" />
+
   <!-- Samsung gts4lv -->
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv-common" path="vendor/samsung/gts4lv-common" groups="muppets,muppets_gts4lv,muppets_gts4lvwifi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv" path="vendor/samsung/gts4lv" groups="muppets,muppets_gts4lv" clone-depth="1" />
