@@ -7,6 +7,13 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" groups="muppets,muppets_hotdogb" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" groups="muppets,muppets_guacamole,muppets_guacamoleb,muppets_guacamoleg,muppets_hotdog,muppets_hotdogb" clone-depth="1" />
 
+  <!-- OnePlus SM8250 -->
+  <project name="TheMuppets/proprietary_vendor_oneplus_instantnoodle" path="vendor/oneplus/instantnoodle" groups="muppets,muppets_instantnoodle" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_instantnoodlep" path="vendor/oneplus/instantnoodlep" groups="muppets,muppets_instantnoodlep" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_kebab" path="vendor/oneplus/kebab" groups="muppets,muppets_kebab" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_lemonades" path="vendor/oneplus/lemonades" groups="muppets,muppets_lemonades" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sm8250-common" path="vendor/oneplus/sm8250-common" groups="muppets,muppets_instantnoodle,muppets_instantnoodlep,muppets_kebab,muppets_lemonades" clone-depth="1" />
+
   <!-- Samsung gts4lv -->
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv-common" path="vendor/samsung/gts4lv-common" groups="muppets,muppets_gts4lv,muppets_gts4lvwifi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv" path="vendor/samsung/gts4lv" groups="muppets,muppets_gts4lv" clone-depth="1" />
