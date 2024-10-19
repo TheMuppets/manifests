@@ -21,7 +21,6 @@
   <xs:complexType name="project">
     <xs:attribute name="name" type="xs:string" use="required"/>
     <xs:attribute name="path" type="xs:string" use="required"/>
-    <xs:attribute name="revision" type="xs:string" use="required"/>
     <xs:attribute name="groups" type="xs:string" use="required"/>
     <xs:attribute name="clone-depth" type="xs:integer" use="required"/>
   </xs:complexType>
