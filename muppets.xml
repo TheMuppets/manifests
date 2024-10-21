@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!-- Fairphon 4 -->
+  <!-- Fairphone 4 -->
   <project name="TheMuppets/proprietary_vendor_fairphone_FP4" path="vendor/fairphone/FP4" groups="muppets,muppets_FP4" clone-depth="1" />
 
-  <!-- Fairphon 5 -->
+  <!-- Fairphone 5 -->
   <project name="TheMuppets/proprietary_vendor_fairphone_FP5" path="vendor/fairphone/FP5" groups="muppets,muppets_FP5" clone-depth="1" />
 
   <!-- Google G3 -->
