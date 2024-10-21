@@ -78,4 +78,12 @@
 
   <!-- Solana Saga -->
   <project name="TheMuppets/proprietary_vendor_osom_ingot" path="vendor/osom/ingot" groups="muppets,muppets_ingot" clone-depth="1" />
+
+  <!-- Sony nile -->
+  <project name="TheMuppets/proprietary_vendor_sony_discovery" path="vendor/sony/discovery" groups="muppets,muppets_discovery" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_kirin" path="vendor/sony/kirin" groups="muppets,muppets_kirin" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_mermaid" path="vendor/sony/mermaid" groups="muppets,muppets_mermaid" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_nile-common" path="vendor/sony/nile-common" groups="muppets,muppets_pioneer,muppets_discovery,muppets_voyager,muppets_kirin,muppets_mermaid" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_pioneer" path="vendor/sony/pioneer" groups="muppets,muppets_pioneer" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_voyager" path="vendor/sony/voyager" groups="muppets,muppets_voyager" clone-depth="1" />
 </manifest>
