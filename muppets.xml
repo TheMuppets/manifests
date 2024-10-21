@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <!-- Fairphon 4 -->
+  <project name="TheMuppets/proprietary_vendor_fairphone_FP4" path="vendor/fairphone/FP4" groups="muppets,muppets_FP4" clone-depth="1" />
+
+  <!-- Fairphon 5 -->
+  <project name="TheMuppets/proprietary_vendor_fairphone_FP5" path="vendor/fairphone/FP5" groups="muppets,muppets_FP5" clone-depth="1" />
+
   <!-- Google G3 -->
   <project name="TheMuppets/proprietary_vendor_google_akita" path="vendor/google/akita" groups="muppets,muppets_akita" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_husky" path="vendor/google/husky" groups="muppets,muppets_husky" clone-depth="1" />
@@ -16,6 +22,29 @@
   <project name="TheMuppets/proprietary_vendor_google_lynx" path="vendor/google/lynx" groups="muppets,muppets_lynx" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_panther" path="vendor/google/panther" groups="muppets,muppets_panther" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_tangorpro" path="vendor/google/tangorpro" groups="muppets,muppets_tangorpro" clone-depth="1" />
+
+  <!-- Google SM6150 -->
+  <project name="TheMuppets/proprietary_vendor_google_sunfish" path="vendor/google/sunfish" groups="muppets,muppets_sunfish" clone-depth="1" />
+
+  <!-- Google SM7250 -->
+  <project name="TheMuppets/proprietary_vendor_google_barbet" path="vendor/google/barbet" groups="muppets,muppets_barbet" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_bramble" path="vendor/google/bramble" groups="muppets,muppets_bramble" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_redfin" path="vendor/google/redfin" groups="muppets,muppets_redfin" clone-depth="1" />
+
+  <!-- Google SM8150 -->
+  <project name="TheMuppets/proprietary_vendor_google_coral" path="vendor/google/coral" groups="muppets,muppets_coral" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_flame" path="vendor/google/flame" groups="muppets,muppets_flame" clone-depth="1" />
+
+  <!-- Motorola SM6225 -->
+  <project name="TheMuppets/proprietary_vendor_motorola_borneo" path="vendor/motorola/borneo" groups="muppets,muppets_borneo" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_caprip" path="vendor/motorola/caprip" groups="muppets,muppets_caprip" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_cebu" path="vendor/motorola/cebu" groups="muppets,muppets_cebu" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_devon" path="vendor/motorola/devon" groups="muppets,muppets_devon" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_guam" path="vendor/motorola/guam" groups="muppets,muppets_guam" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_guamp" path="vendor/motorola/guamp" groups="muppets,muppets_guamp" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_hawao" path="vendor/motorola/hawao" groups="muppets,muppets_hawao" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_rhode" path="vendor/motorola/rhode" groups="muppets,muppets_rhode" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm6225-common" path="vendor/motorola/sm6225-common" groups="muppets,muppets_borneo,muppets_caprip,muppets_cebu,muppets_devon,muppets_guamp,muppets_guam,muppets_hawao,muppets_rhode" clone-depth="1" />
 
   <!-- OnePlus SDM845 -->
   <project name="TheMuppets/proprietary_vendor_oneplus_enchilada" path="vendor/oneplus/enchilada" groups="muppets,muppets_enchilada" clone-depth="1" />
@@ -46,4 +75,7 @@
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv-common" path="vendor/samsung/gts4lv-common" groups="muppets,muppets_gts4lv,muppets_gts4lvwifi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv" path="vendor/samsung/gts4lv" groups="muppets,muppets_gts4lv" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lvwifi" path="vendor/samsung/gts4lvwifi" groups="muppets,muppets_gts4lvwifi" clone-depth="1" />
+
+  <!-- Solana Saga -->
+  <project name="TheMuppets/proprietary_vendor_osom_ingot" path="vendor/osom/ingot" groups="muppets,muppets_ingot" clone-depth="1" />
 </manifest>
