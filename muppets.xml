@@ -67,6 +67,13 @@
   <project name="TheMuppets/proprietary_vendor_motorola_rhode" path="vendor/motorola/rhode" groups="muppets,muppets_rhode" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm6225-common" path="vendor/motorola/sm6225-common" groups="muppets,muppets_borneo,muppets_caprip,muppets_cebu,muppets_devon,muppets_guamp,muppets_guam,muppets_hawao,muppets_rhode" clone-depth="1" />
 
+  <!-- Motorola SM7325 -->
+  <project name="TheMuppets/proprietary_vendor_motorola_berlin" path="vendor/motorola/berlin" groups="muppets,muppets_berlin" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_berlna" path="vendor/motorola/berlna" groups="muppets,muppets_berlna" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_dubai" path="vendor/motorola/dubai" groups="muppets,muppets_dubai" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" groups="muppets,muppets_berlin,muppets_berlna,muppets_dubai,muppets_xpeng" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_xpeng" path="vendor/motorola/xpeng" groups="muppets,muppets_xpeng" clone-depth="1" />
+
   <!-- OnePlus SDM845 -->
   <project name="TheMuppets/proprietary_vendor_oneplus_enchilada" path="vendor/oneplus/enchilada" groups="muppets,muppets_enchilada" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_fajita" path="vendor/oneplus/fajita" groups="muppets,muppets_fajita" clone-depth="1" />
