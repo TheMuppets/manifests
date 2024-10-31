@@ -128,13 +128,17 @@
   <!-- Nubia TP1803 -->
   <project name="TheMuppets/proprietary_vendor_nubia_TP1803" path="vendor/nubia/TP1803" groups="muppets,muppets_TP1803" clone-depth="1" />
 
+ <!-- NVIDIA T186 -->
+  <project name="TheMuppets/proprietary_vendor_nvidia_quill" path="vendor/nvidia/quill" groups="muppets,muppets_quill,muppets_quill_tab" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_t186" path="vendor/nvidia/t186" groups="muppets,muppets_quill,muppets_quill_tab" clone-depth="1" />
+
   <!-- NVIDIA T210 -->
   <project name="TheMuppets/proprietary_vendor_google_sphynx" path="vendor/google/sphynx" groups="muppets,muppets_sphynx" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_nintendo_nx" path="vendor/nintendo/nx" groups="muppets,muppets_nx" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_nvidia_foster" path="vendor/nvidia/foster" groups="muppets,muppets_foster" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_nvidia_common" path="vendor/nvidia/common" groups="muppets,muppets_foster,muppets_nx,muppets_sphynx" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_nvidia_shield" path="vendor/nvidia/shield" groups="muppets,muppets_foster" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_nvidia_t210" path="vendor/nvidia/t210" groups="muppets,muppets_foster,muppets_nx,muppets_sphynx" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nintendo_nx" path="vendor/nintendo/nx" groups="muppets,muppets_nx,muppets_nx_tab" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_foster" path="vendor/nvidia/foster" groups="muppets,muppets_foster,muppets_foster_tab,muppets_porg,muppets_porg_tab,muppets_sif" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_common" path="vendor/nvidia/common" groups="muppets,muppets_foster,muppets_foster_tab,muppets_porg,muppets_porg_tab,muppets_sif,muppets_nx,muppets_nx_tab,muppets_sphynx,muppets_quill,muppets_quill_tab" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_shield" path="vendor/nvidia/shield" groups="muppets,muppets_foster,muppets_foster_tab,muppets_porg,muppets_porg_tab,muppets_sif,muppets_quill,muppets_quill_tab" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nvidia_t210" path="vendor/nvidia/t210" groups="muppets,muppets_foster,muppets_foster_tab,muppets_porg,muppets_porg_tab,muppets_sif,muppets_nx,muppets_nx_tab,muppets_sphynx" clone-depth="1" />
 
   <!-- OnePlus SDM845 -->
   <project name="TheMuppets/proprietary_vendor_oneplus_enchilada" path="vendor/oneplus/enchilada" groups="muppets,muppets_enchilada" clone-depth="1" />
