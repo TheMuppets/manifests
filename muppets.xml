@@ -40,6 +40,10 @@
   <project name="TheMuppets/proprietary_vendor_google_panther" path="vendor/google/panther" groups="muppets,muppets_panther" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_tangorpro" path="vendor/google/tangorpro" groups="muppets,muppets_tangorpro" clone-depth="1" />
 
+  <!-- Google SDM710 -->
+  <project name="TheMuppets/proprietary_vendor_google_bonito" path="vendor/google/bonito" groups="muppets,muppets_bonito" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_sargo" path="vendor/google/sargo" groups="muppets,muppets_sargo" clone-depth="1" />
+
   <!-- Google SM6150 -->
   <project name="TheMuppets/proprietary_vendor_google_sunfish" path="vendor/google/sunfish" groups="muppets,muppets_sunfish" clone-depth="1" />
 
