@@ -105,6 +105,11 @@
   <project name="TheMuppets/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" groups="muppets,muppets_berlin,muppets_berlna,muppets_dubai,muppets_xpeng" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_xpeng" path="vendor/motorola/xpeng" groups="muppets,muppets_xpeng" clone-depth="1" />
 
+  <!-- Motorola pstar -->
+  <project name="TheMuppets/proprietary_vendor_motorola_nio" path="vendor/motorola/nio" groups="muppets,muppets_nio" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_pstar" path="vendor/motorola/pstar" groups="muppets,muppets_pstar" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm8250-common" path="vendor/motorola/sm8250-common" groups="muppets,muppets_nio,muppets_pstar" clone-depth="1" />
+
   <!-- Nokia SDM660 -->
   <project name="TheMuppets/proprietary_vendor_nokia_DRG" path="vendor/nokia/DRG" groups="muppets,muppets_DRG" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nokia_PL2" path="vendor/nokia/PL2" groups="muppets,muppets_PL2" clone-depth="1" />
