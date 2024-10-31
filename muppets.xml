@@ -23,6 +23,12 @@
   <!-- Fairphone 5 -->
   <project name="TheMuppets/proprietary_vendor_fairphone_FP5" path="vendor/fairphone/FP5" groups="muppets,muppets_FP5" clone-depth="1" />
 
+  <!-- FxTec pro1 -->
+  <project name="TheMuppets/proprietary_vendor_fxtec_pro1" path="vendor/fxtec/pro1" groups="muppets,muppets_pro1" clone-depth="1" />
+
+  <!-- FxTec pro1x -->
+  <project name="TheMuppets/proprietary_vendor_fxtec_pro1x" path="vendor/fxtec/pro1x" groups="muppets,muppets_pro1x" clone-depth="1" />
+
   <!-- Google G3 -->
   <project name="TheMuppets/proprietary_vendor_google_akita" path="vendor/google/akita" groups="muppets,muppets_akita" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_husky" path="vendor/google/husky" groups="muppets,muppets_husky" clone-depth="1" />
@@ -98,6 +104,11 @@
   <project name="TheMuppets/proprietary_vendor_motorola_dubai" path="vendor/motorola/dubai" groups="muppets,muppets_dubai" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" groups="muppets,muppets_berlin,muppets_berlna,muppets_dubai,muppets_xpeng" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_xpeng" path="vendor/motorola/xpeng" groups="muppets,muppets_xpeng" clone-depth="1" />
+
+  <!-- Nokia SDM660 -->
+  <project name="TheMuppets/proprietary_vendor_nokia_DRG" path="vendor/nokia/DRG" groups="muppets,muppets_DRG" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nokia_PL2" path="vendor/nokia/PL2" groups="muppets,muppets_PL2" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nokia_sdm660-common" path="vendor/nokia/sdm660-common" groups="muppets,muppets_DRG,muppets_PL2" clone-depth="1" />
 
   <!-- Nubia TP1803 -->
   <project name="TheMuppets/proprietary_vendor_nubia_TP1803" path="vendor/nubia/TP1803" groups="muppets,muppets_TP1803" clone-depth="1" />
