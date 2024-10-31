@@ -75,6 +75,12 @@
   <project name="TheMuppets/proprietary_vendor_motorola_nash" path="vendor/motorola/nash" groups="muppets,muppets_nash" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_payton" path="vendor/motorola/payton" groups="muppets,muppets_payton" clone-depth="1" />
 
+  <!-- Motorola SDM632 -->
+  <project name="TheMuppets/proprietary_vendor_motorola_channel" path="vendor/motorola/channel" groups="muppets,muppets_channel" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_ocean" path="vendor/motorola/ocean" groups="muppets,muppets_ocean" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_river" path="vendor/motorola/river" groups="muppets,muppets_river" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sdm632-common" path="vendor/motorola/sdm632-common" groups="muppets,muppets_channel,muppets_ocean,muppets_river" clone-depth="1" />
+
   <!-- Motorola SM6225 -->
   <project name="TheMuppets/proprietary_vendor_motorola_borneo" path="vendor/motorola/borneo" groups="muppets,muppets_borneo" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_caprip" path="vendor/motorola/caprip" groups="muppets,muppets_caprip" clone-depth="1" />
@@ -92,6 +98,9 @@
   <project name="TheMuppets/proprietary_vendor_motorola_dubai" path="vendor/motorola/dubai" groups="muppets,muppets_dubai" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" groups="muppets,muppets_berlin,muppets_berlna,muppets_dubai,muppets_xpeng" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_xpeng" path="vendor/motorola/xpeng" groups="muppets,muppets_xpeng" clone-depth="1" />
+
+  <!-- Nubia TP1803 -->
+  <project name="TheMuppets/proprietary_vendor_nubia_TP1803" path="vendor/nubia/TP1803" groups="muppets,muppets_TP1803" clone-depth="1" />
 
   <!-- NVIDIA T210 -->
   <project name="TheMuppets/proprietary_vendor_google_sphynx" path="vendor/google/sphynx" groups="muppets,muppets_sphynx" clone-depth="1" />
