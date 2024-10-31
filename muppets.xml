@@ -46,6 +46,10 @@
   <project name="TheMuppets/proprietary_vendor_google_panther" path="vendor/google/panther" groups="muppets,muppets_panther" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_tangorpro" path="vendor/google/tangorpro" groups="muppets,muppets_tangorpro" clone-depth="1" />
 
+  <!-- Google MSM8996 -->
+  <project name="TheMuppets/proprietary_vendor_google_marlin" path="vendor/google/marlin" groups="muppets,muppets_marlin" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_sailfish" path="vendor/google/sailfish" groups="muppets,muppets_sailfish" clone-depth="1" />
+
   <!-- Google MSM8998 -->
   <project name="TheMuppets/proprietary_vendor_google_taimen" path="vendor/google/taimen" groups="muppets,muppets_taimen" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_walleye" path="vendor/google/walleye" groups="muppets,muppets_walleye" clone-depth="1" />
