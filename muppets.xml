@@ -60,6 +60,11 @@
   <project name="TheMuppets/proprietary_vendor_google_coral" path="vendor/google/coral" groups="muppets,muppets_coral" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_flame" path="vendor/google/flame" groups="muppets,muppets_flame" clone-depth="1" />
 
+  <!-- Motorola Exynos9610 -->
+  <project name="TheMuppets/proprietary_vendor_motorola_exynos9610-common" path="vendor/motorola/exynos9610-common" groups="muppets,muppets_kane,muppets_troika" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_kane" path="vendor/motorola/kane" groups="muppets,muppets_kane" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_troika" path="vendor/motorola/troika" groups="muppets,muppets_troika" clone-depth="1" />
+
   <!-- Motorola MSM8998 -->
   <project name="TheMuppets/proprietary_vendor_motorola_beckham" path="vendor/motorola/beckham" groups="muppets,muppets_beckham" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_chef" path="vendor/motorola/chef" groups="muppets,muppets_chef" clone-depth="1" />
