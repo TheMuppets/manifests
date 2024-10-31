@@ -56,6 +56,16 @@
   <project name="TheMuppets/proprietary_vendor_google_coral" path="vendor/google/coral" groups="muppets,muppets_coral" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_flame" path="vendor/google/flame" groups="muppets,muppets_flame" clone-depth="1" />
 
+  <!-- Motorola MSM8998 -->
+  <project name="TheMuppets/proprietary_vendor_motorola_beckham" path="vendor/motorola/beckham" groups="muppets,muppets_beckham" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_chef" path="vendor/motorola/chef" groups="muppets,muppets_chef" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_evert" path="vendor/motorola/evert" groups="muppets,muppets_evert" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_lake" path="vendor/motorola/lake" groups="muppets,muppets_lake" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_messi" path="vendor/motorola/messi" groups="muppets,muppets_messi" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_msm8998-common" path="vendor/motorola/msm8998-common" groups="muppets,muppets_beckham,muppets_chef,muppets_evert,muppets_lake,muppets_messi,muppets_nash,muppets_payton" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_nash" path="vendor/motorola/nash" groups="muppets,muppets_nash" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_payton" path="vendor/motorola/payton" groups="muppets,muppets_payton" clone-depth="1" />
+
   <!-- Motorola SM6225 -->
   <project name="TheMuppets/proprietary_vendor_motorola_borneo" path="vendor/motorola/borneo" groups="muppets,muppets_borneo" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_caprip" path="vendor/motorola/caprip" groups="muppets,muppets_caprip" clone-depth="1" />
