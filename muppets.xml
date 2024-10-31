@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <!-- Amlogic G12A -->
+  <project name="TheMuppets/proprietary_vendor_amlogic_g12-common" path="vendor/amlogic/g12-common" groups="muppets,muppets_radxa0,muppets_radxa0_tab,muppets_deadpool,muppets_dopinder,muppets_wade" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_radxa0" path="vendor/amlogic/radxa0" groups="muppets,muppets_radxa0,muppets_radxa0_tab" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_askey_deadpool" path="vendor/askey/deadpool" groups="muppets,muppets_deadpool" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_askey_dopinder" path="vendor/askey/dopinder" groups="muppets,muppets_dopinder" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_askey_wade" path="vendor/askey/wade" groups="muppets,muppets_wade" clone-depth="1" />
+
+  <!-- Amlogic GX -->
+  <project name="TheMuppets/proprietary_vendor_amlogic_gx-common" path="vendor/amlogic/gx-common" groups="muppets,muppets_beast" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_beast" path="vendor/google/beast" groups="muppets,muppets_beast" clone-depth="1" />
+  
+  <!-- Amlogic SM1 -->
+  <project name="TheMuppets/proprietary_vendor_amlogic_m5" path="vendor/amlogic/m5" groups="muppets,muppets_m5,muppets_m5_tab" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_odroidc4" path="vendor/amlogic/odroidc4" groups="muppets,muppets_odroidc4,muppets_odroidc4_tab" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_sm1-common" path="vendor/amlogic/sm1-common" groups="muppets,muppets_m5,muppets_m5_tab,muppets_odroidc4,muppets_odroidc4_tab,muppets_sabrina" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_sabrina" path="vendor/google/sabrina" groups="muppets,muppets_sabrina" clone-depth="1" />
+
   <!-- Fairphone 4 -->
   <project name="TheMuppets/proprietary_vendor_fairphone_FP4" path="vendor/fairphone/FP4" groups="muppets,muppets_FP4" clone-depth="1" />
 
