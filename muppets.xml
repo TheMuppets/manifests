@@ -92,6 +92,12 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_martini" path="vendor/oneplus/martini" groups="muppets,muppets_martini" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" groups="muppets,muppets_lemonade,muppets_lemonadep,muppets_lunaa,muppets_martini" clone-depth="1" />
 
+  <!-- Razer aura -->
+  <project name="TheMuppets/proprietary_vendor_razer_aura" path="vendor/razer/aura" groups="muppets,muppets_aura" clone-depth="1" />
+
+  <!-- Razer cheryl -->
+  <project name="TheMuppets/proprietary_vendor_razer_cheryl" path="vendor/razer/cheryl" groups="muppets,muppets_cheryl" clone-depth="1" />
+
   <!-- Samsung gts4lv -->
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv-common" path="vendor/samsung/gts4lv-common" groups="muppets,muppets_gts4lv,muppets_gts4lvwifi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv" path="vendor/samsung/gts4lv" groups="muppets,muppets_gts4lv" clone-depth="1" />
