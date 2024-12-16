@@ -237,6 +237,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_alioth" path="vendor/xiaomi/alioth" revision="lineage-21" groups="muppets,muppets_alioth" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_apollon" path="vendor/xiaomi/apollon" revision="lineage-21" groups="muppets,muppets_apollon" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_beryllium" path="vendor/xiaomi/beryllium" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_cepheus" path="vendor/xiaomi/cepheus" revision="lineage-21" groups="muppets,muppets_cepheus" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_chiron" path="vendor/xiaomi/chiron" revision="lineage-21" groups="muppets,muppets_chiron" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_cmi" path="vendor/xiaomi/cmi" revision="lineage-21" groups="muppets,muppets_cmi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_davinci" path="vendor/xiaomi/davinci" revision="lineage-21" groups="muppets,muppets_davinci" clone-depth="1" />
@@ -262,6 +263,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_perseus" path="vendor/xiaomi/perseus" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_polaris" path="vendor/xiaomi/polaris" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_pyxis" path="vendor/xiaomi/pyxis" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_raphael" path="vendor/xiaomi/raphael" revision="lineage-21" groups="muppets,muppets_raphael" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_renoir" path="vendor/xiaomi/renoir" revision="lineage-21" groups="muppets,muppets_renoir" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_rosemary" path="vendor/xiaomi/rosemary" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sagit" path="vendor/xiaomi/sagit" revision="lineage-21" groups="muppets,muppets_sagit" clone-depth="1" />
@@ -270,7 +272,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_shark" path="vendor/xiaomi/shark" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm6150-common" path="vendor/xiaomi/sm6150-common" revision="lineage-21" groups="muppets,muppets_davinci,muppets_sweet" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_xiaomi_sm8150-common" path="vendor/xiaomi/sm8150-common" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sm8150-common" path="vendor/xiaomi/sm8150-common" revision="lineage-21" groups="muppets,muppets_cepheus,muppets_raphael,muppets_vayu" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8250-common" path="vendor/xiaomi/sm8250-common" revision="lineage-21" groups="muppets,muppets_alioth,muppets_apollon,muppets_cmi,muppets_lmi,muppets_munch,muppets_umi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8350-common" path="vendor/xiaomi/sm8350-common" revision="lineage-21" groups="muppets,muppets_haydn,muppets_lisa,muppets_mars,muppets_renoir" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_socrates" path="vendor/xiaomi/socrates" revision="lineage-21" groups="muppets,muppets_socrates" clone-depth="1" />
@@ -278,6 +280,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_sweet" path="vendor/xiaomi/sweet" revision="lineage-21" groups="muppets,muppets_sweet" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_umi" path="vendor/xiaomi/umi" revision="lineage-21" groups="muppets,muppets_umi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_ursa" path="vendor/xiaomi/ursa" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_vayu" path="vendor/xiaomi/vayu" revision="lineage-21" groups="muppets,muppets_vayu" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_vela" path="vendor/xiaomi/vela" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_xmsirius" path="vendor/xiaomi/xmsirius" revision="lineage-21" clone-depth="1" />
 </manifest>
