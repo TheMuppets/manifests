@@ -14,6 +14,9 @@
   <project name="TheMuppets/proprietary_vendor_amlogic_sm1-common" path="vendor/amlogic/sm1-common" groups="muppets,muppets_m5,muppets_m5_tab,muppets_odroidc4,muppets_odroidc4_tab,muppets_sabrina" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_sabrina" path="vendor/google/sabrina" groups="muppets,muppets_sabrina" clone-depth="1" />
 
+  <!-- Fairphone 3 -->
+  <project name="TheMuppets/proprietary_vendor_fairphone_FP3" path="vendor/fairphone/FP3" groups="muppets,muppets_FP3" clone-depth="1" />
+
   <!-- Fairphone 4 -->
   <project name="TheMuppets/proprietary_vendor_fairphone_FP4" path="vendor/fairphone/FP4" groups="muppets,muppets_FP4" clone-depth="1" />
 
