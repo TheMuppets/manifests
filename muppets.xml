@@ -9,7 +9,7 @@
   <!-- Amlogic GX -->
   <project name="TheMuppets/proprietary_vendor_amlogic_gx-common" path="vendor/amlogic/gx-common" groups="muppets,muppets_beast" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_beast" path="vendor/google/beast" groups="muppets,muppets_beast" clone-depth="1" />
-  
+
   <!-- Amlogic SM1 -->
   <project name="TheMuppets/proprietary_vendor_amlogic_sm1-common" path="vendor/amlogic/sm1-common" groups="muppets,muppets_m5,muppets_m5_tab,muppets_odroidc4,muppets_odroidc4_tab,muppets_sabrina" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_sabrina" path="vendor/google/sabrina" groups="muppets,muppets_sabrina" clone-depth="1" />
@@ -115,10 +115,14 @@
   <project name="TheMuppets/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" groups="muppets,muppets_berlin,muppets_berlna,muppets_dubai,muppets_xpeng" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_xpeng" path="vendor/motorola/xpeng" groups="muppets,muppets_xpeng" clone-depth="1" />
 
-  <!-- Motorola pstar -->
+  <!-- Motorola SM8250 -->
   <project name="TheMuppets/proprietary_vendor_motorola_nio" path="vendor/motorola/nio" groups="muppets,muppets_nio" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_pstar" path="vendor/motorola/pstar" groups="muppets,muppets_pstar" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm8250-common" path="vendor/motorola/sm8250-common" groups="muppets,muppets_nio,muppets_pstar" clone-depth="1" />
+
+  <!-- Motorola SM8550 -->
+  <project name="TheMuppets/proprietary_vendor_motorola_rtwo" path="vendor/motorola/rtwo" groups="muppets,muppets_rtwo" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm8550-common" path="vendor/motorola/sm8550-common" groups="muppets,muppets_rtwo" clone-depth="1" />
 
   <!-- Nokia SDM660 -->
   <project name="TheMuppets/proprietary_vendor_nokia_DRG" path="vendor/nokia/DRG" groups="muppets,muppets_DRG" clone-depth="1" />
