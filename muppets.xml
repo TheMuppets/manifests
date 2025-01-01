@@ -276,5 +276,6 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_perseus" path="vendor/xiaomi/perseus" groups="muppets,muppets_perseus" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_polaris" path="vendor/xiaomi/polaris" groups="muppets,muppets_polaris" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sdm845-common" path="vendor/xiaomi/sdm845-common" groups="muppets,muppets_beryllium,muppets_dipper,muppets_equuleus,muppets_perseus,muppets_polaris,muppets_ursa" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_shark" path="vendor/xiaomi/shark" groups="muppets,muppets_shark" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_ursa" path="vendor/xiaomi/ursa" groups="muppets,muppets_ursa" clone-depth="1" />
 </manifest>
