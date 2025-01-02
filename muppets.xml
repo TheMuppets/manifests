@@ -244,6 +244,17 @@
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv" path="vendor/samsung/gts4lv" groups="muppets,muppets_gts4lv" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lvwifi" path="vendor/samsung/gts4lvwifi" groups="muppets,muppets_gts4lvwifi" clone-depth="1" />
 
+  <!-- Samsung SM7125 -->
+  <project name="TheMuppets/proprietary_vendor_samsung_sm7125-common" path="vendor/samsung/sm7125-common" groups="muppets,muppets_a52q,muppets_a72q" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_a52q" path="vendor/samsung/a52q" groups="muppets,muppets_a52q" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_a72q" path="vendor/samsung/a72q" groups="muppets,muppets_a72q" clone-depth="1" />
+
+  <!-- Samsung SM7325 -->
+  <project name="TheMuppets/proprietary_vendor_samsung_sm7325-common" path="vendor/samsung/sm7325-common" groups="muppets,muppets_a52sxq,muppets_a73xq,muppets_m52xq" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_a52sxq" path="vendor/samsung/a52sxq" groups="muppets,muppets_a52sxq" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_a73xq" path="vendor/samsung/a73xq" groups="muppets,muppets_a73xq" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_m52xq" path="vendor/samsung/m52xq" groups="muppets,muppets_m52xq" clone-depth="1" />
+
   <!-- SHIFT SHIFT6mq -->
   <project name="TheMuppets/proprietary_vendor_shift_axolotl" path="vendor/shift/axolotl" groups="muppets,muppets_axolotl" clone-depth="1" />
 
