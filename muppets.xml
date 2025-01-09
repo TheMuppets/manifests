@@ -11,7 +11,7 @@
   <project name="TheMuppets/proprietary_vendor_google_beast" path="vendor/google/beast" groups="muppets,muppets_beast" clone-depth="1" />
 
   <!-- Amlogic SM1 -->
-  <project name="TheMuppets/proprietary_vendor_amlogic_sm1-common" path="vendor/amlogic/sm1-common" groups="muppets,muppets_m5,muppets_m5_tab,muppets_odroidc4,muppets_odroidc4_tab,muppets_sabrina" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_sm1-common" path="vendor/amlogic/sm1-common" groups="muppets,muppets_m5,muppets_m5_tab,muppets_odroidc4,muppets_odroidc4_tab,,muppets_radxa02,muppets_radxa02_tab,muppets_sabrina" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_sabrina" path="vendor/google/sabrina" groups="muppets,muppets_sabrina" clone-depth="1" />
 
   <!-- Asus Z01R -->
