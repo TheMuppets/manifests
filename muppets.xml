@@ -314,6 +314,9 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_sweet" path="vendor/xiaomi/sweet" groups="muppets,muppets_sweet" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm6150-common" path="vendor/xiaomi/sm6150-common" groups="muppets,muppets_davinci,muppets_sweet" clone-depth="1" />
 
+  <!-- Xiaomi SM7225 -->
+  <project name="TheMuppets/proprietary_vendor_xiaomi_gauguin" path="vendor/xiaomi/gauguin" groups="muppets,muppets_gauguin" clone-depth="1" />
+
   <!-- Xiaomi SM8250 -->
   <project name="TheMuppets/proprietary_vendor_xiaomi_alioth" path="vendor/xiaomi/alioth" groups="muppets,muppets_alioth" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8250-common" path="vendor/xiaomi/sm8250-common" groups="muppets,muppets_alioth" clone-depth="1" />
