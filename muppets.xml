@@ -222,6 +222,10 @@
   <project name="TheMuppets/proprietary_vendor_realme_oscar" path="vendor/realme/oscar" groups="muppets,muppets_oscar" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_realme_sm6375-common" path="vendor/realme/sm6375-common" groups="muppets,muppets_luigi,muppets_oscar" clone-depth="1" />
 
+  <!-- Samsung a21s -->
+  <project name="TheMuppets/proprietary_vendor_samsung_a21s-common" path="vendor/samsung/a21s-common" groups="muppets,muppets_a21s" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_a21s" path="vendor/samsung/a21s" groups="muppets,muppets_a21s" clone-depth="1" />
+
   <!-- Samsung a71 -->
   <project name="TheMuppets/proprietary_vendor_samsung_a71-common" path="vendor/samsung/a71-common" groups="muppets,muppets_a71" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a71" path="vendor/samsung/a71" groups="muppets,muppets_a71" clone-depth="1" />
