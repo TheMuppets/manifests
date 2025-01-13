@@ -307,6 +307,12 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8998-common" path="vendor/xiaomi/msm8998-common" groups="muppets,muppets_chiron,muppets_sagit" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sagit" path="vendor/xiaomi/sagit" groups="muppets,muppets_sagit" clone-depth="1" />
 
+  <!-- Xiaomi SDM710 -->
+  <project name="TheMuppets/proprietary_vendor_xiaomi_grus" path="vendor/xiaomi/grus" groups="muppets,muppets_grus" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_pyxis" path="vendor/xiaomi/pyxis" groups="muppets,muppets_pyxis" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sdm710-common" path="vendor/xiaomi/sdm710-common" groups="muppets,muppets_grus,muppets_pyxis,muppets_vela" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_vela" path="vendor/xiaomi/vela" groups="muppets,muppets_vela" clone-depth="1" />
+
   <!-- Xiaomi SDM845 -->
   <project name="TheMuppets/proprietary_vendor_xiaomi_beryllium" path="vendor/xiaomi/beryllium" groups="muppets,muppets_beryllium" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_dipper" path="vendor/xiaomi/dipper" groups="muppets,muppets_dipper" clone-depth="1" />
