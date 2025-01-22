@@ -152,6 +152,9 @@
   <project name="TheMuppets/proprietary_vendor_nokia_PL2" path="vendor/nokia/PL2" groups="muppets,muppets_PL2" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nokia_sdm660-common" path="vendor/nokia/sdm660-common" groups="muppets,muppets_DRG,muppets_PL2" clone-depth="1" />
 
+  <!-- Nothing Spacewar -->
+  <project name="TheMuppets/proprietary_vendor_nothing_Spacewar" path="vendor/nothing/Spacewar" groups="muppets,muppets_Spacewar" clone-depth="1" />
+
   <!-- Nubia SDM845 -->
   <project name="TheMuppets/proprietary_vendor_nubia_nx606j" path="vendor/nubia/nx606j" groups="muppets,muppets_nx606j" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nubia_nx619j" path="vendor/nubia/nx619j" groups="muppets,muppets_nx619j" clone-depth="1" />
