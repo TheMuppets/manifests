@@ -56,6 +56,7 @@
   <project name="TheMuppets/proprietary_vendor_lenovo_zippo" path="vendor/lenovo/zippo" revision="lineage-21" groups="muppets,muppets_zippo" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_alphaplus" path="vendor/lge/alphaplus" revision="lineage-21" groups="muppets,muppets_alphaplus" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_betalm" path="vendor/lge/betalm" revision="lineage-21" groups="muppets,muppets_betalm" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_flashlmdd" path="vendor/lge/flashlmdd" revision="lineage-21" groups="muppets,muppets_flashlmdd" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_g5-common" path="vendor/lge/g5-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_g6-common" path="vendor/lge/g6-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_g710n" path="vendor/lge/g710n" groups="muppets,muppets_g710n" revision="lineage-21" clone-depth="1" />
@@ -83,7 +84,7 @@
   <project name="TheMuppets/proprietary_vendor_lge_us997" path="vendor/lge/us997" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_v20-common" path="vendor/lge/v20-common" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_vs995" path="vendor/lge/vs995" revision="lineage-21" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_lge_sm8150-common" path="vendor/lge/sm8150-common" revision="lineage-21" groups="muppets,muppets_alphaplus,muppets_betalm,muppets_mh2lm" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_sm8150-common" path="vendor/lge/sm8150-common" revision="lineage-21" groups="muppets,muppets_alphaplus,muppets_betalm,muppets_flashlmdd,muppets_mh2lm" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_beckham" path="vendor/motorola/beckham" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_berlin" path="vendor/motorola/berlin" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_berlna" path="vendor/motorola/berlna" revision="lineage-21" clone-depth="1" />
