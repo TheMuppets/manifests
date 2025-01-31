@@ -148,6 +148,11 @@
   <project name="TheMuppets/proprietary_vendor_motorola_pstar" path="vendor/motorola/pstar" groups="muppets,muppets_pstar" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm8250-common" path="vendor/motorola/sm8250-common" groups="muppets,muppets_nio,muppets_pstar" clone-depth="1" />
 
+  <!-- Motorola SM8475 -->
+  <project name="TheMuppets/proprietary_vendor_motorola_eqs" path="vendor/motorola/eqs" groups="muppets,muppets_eqs" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_bronco" path="vendor/motorola/bronco" groups="muppets,muppets_bronco" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm8475-common" path="vendor/motorola/sm8475-common" groups="muppets,muppets_eqs,muppets_bronco" clone-depth="1" />
+
   <!-- Motorola SM8550 -->
   <project name="TheMuppets/proprietary_vendor_motorola_rtwo" path="vendor/motorola/rtwo" groups="muppets,muppets_rtwo" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm8550-common" path="vendor/motorola/sm8550-common" groups="muppets,muppets_rtwo" clone-depth="1" />
