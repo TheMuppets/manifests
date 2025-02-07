@@ -134,7 +134,8 @@
 
   <!-- Motorola SM7250 -->
   <project name="TheMuppets/proprietary_vendor_motorola_kiev" path="vendor/motorola/kiev" groups="muppets,muppets_kiev" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_motorola_sm7250-common" path="vendor/motorola/sm7250-common" groups="muppets,muppets_kiev" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_nairo" path="vendor/motorola/nairo" groups="muppets,muppets_nairo" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm7250-common" path="vendor/motorola/sm7250-common" groups="muppets,muppets_kiev,muppets_nairo" clone-depth="1" />
 
   <!-- Motorola SM7325 -->
   <project name="TheMuppets/proprietary_vendor_motorola_berlin" path="vendor/motorola/berlin" groups="muppets,muppets_berlin" clone-depth="1" />
