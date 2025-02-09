@@ -91,6 +91,11 @@
   <project name="TheMuppets/proprietary_vendor_lenovo_zippo" path="vendor/lenovo/zippo" groups="muppets,muppets_zippo" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lenovo_sm8150-common" path="vendor/lenovo/sm8150-common" groups="muppets,muppets_heart,muppets_zippo" clone-depth="1" />
 
+  <!-- LGE MSM8998 -->
+  <project name="TheMuppets/proprietary_vendor_lge_joan" path="vendor/lge/joan" groups="muppets,muppets_joan" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_l01k" path="vendor/lge/l01k" groups="muppets,muppets_l01k" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_joan-common" path="vendor/lge/joan-common" groups="muppets,muppets_joan,muppets_l01k" clone-depth="1" />
+
   <!-- LGE SDM845 -->
   <project name="TheMuppets/proprietary_vendor_lge_g710n" path="vendor/lge/g710n" groups="muppets,muppets_g710n" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_g710ulm" path="vendor/lge/g710ulm" groups="muppets,muppets_g710ulm" clone-depth="1" />
