@@ -324,6 +324,13 @@
   <project name="TheMuppets/proprietary_vendor_sony_pdx237" path="vendor/sony/pdx237" groups="muppets,muppets_pdx237" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_sm8550-common" path="vendor/sony/sm8550-common" groups="muppets,muppets_pdx234,muppets_pdx237" clone-depth="1" />
 
+  <!-- Sony tama -->
+  <project name="TheMuppets/proprietary_vendor_sony_akari" path="vendor/sony/akari" groups="muppets,muppets_akari" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_akatsuki" path="vendor/sony/akatsuki" groups="muppets,muppets_akatsuki" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_aurora" path="vendor/sony/aurora" groups="muppets,muppets_aurora" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_tama-common" path="vendor/sony/tama-common" groups="muppets,muppets_akari,muppets_akatsuki,muppets_aurora,muppets_xz2c" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_xz2c" path="vendor/sony/xz2c" groups="muppets,muppets_xz2c" clone-depth="1" />
+
   <!-- Xiaomi MSM8996 -->
   <project name="TheMuppets/proprietary_vendor_xiaomi_gemini" path="vendor/xiaomi/gemini" groups="muppets,muppets_gemini" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8996-common" path="vendor/xiaomi/msm8996-common" groups="muppets,muppets_gemini,muppets_natrium" clone-depth="1" />
