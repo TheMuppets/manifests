@@ -384,6 +384,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_miatoll" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_mithorium-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_mondrian" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_monet" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8953-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8996-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8998-common" />
@@ -406,6 +407,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_shark" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm6150-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm6250-common" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sm7250-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8150-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8250-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8350-common" />
