@@ -262,6 +262,8 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8350-common" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8450-common" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8550-common" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sm8650-common" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_waffle" />
   <project name="TheMuppets/proprietary_vendor_oppo" />
   <project name="TheMuppets/proprietary_vendor_osom_ingot" />
   <project name="TheMuppets/proprietary_vendor_qcom_binaries" />
