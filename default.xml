@@ -304,6 +304,9 @@
   <project name="TheMuppets/proprietary_vendor_samsung_gta4lwifi" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4xl" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4xl-common" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gta4xls" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gta4xls-common" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gta4xlswifi" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4xlwifi" />
   <project name="TheMuppets/proprietary_vendor_samsung_gtowifi" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv" />
