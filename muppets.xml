@@ -170,9 +170,10 @@
   <project name="TheMuppets/proprietary_vendor_motorola_sm8550-common" path="vendor/motorola/sm8550-common" groups="muppets,muppets_rtwo" clone-depth="1" />
 
   <!-- Nokia SDM660 -->
+  <project name="TheMuppets/proprietary_vendor_nokia_B2N" path="vendor/nokia/B2N" groups="muppets,muppets_B2N" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nokia_DRG" path="vendor/nokia/DRG" groups="muppets,muppets_DRG" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nokia_PL2" path="vendor/nokia/PL2" groups="muppets,muppets_PL2" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_nokia_sdm660-common" path="vendor/nokia/sdm660-common" groups="muppets,muppets_DRG,muppets_PL2" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nokia_sdm660-common" path="vendor/nokia/sdm660-common" groups="muppets,muppets_B2N,muppets_DRG,muppets_PL2" clone-depth="1" />
 
   <!-- Nothing Spacewar -->
   <project name="TheMuppets/proprietary_vendor_nothing_Spacewar" path="vendor/nothing/Spacewar" groups="muppets,muppets_Spacewar" clone-depth="1" />
