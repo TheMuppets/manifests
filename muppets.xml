@@ -349,6 +349,12 @@
   <project name="TheMuppets/proprietary_vendor_sony_tama-common" path="vendor/sony/tama-common" groups="muppets,muppets_akari,muppets_akatsuki,muppets_aurora,muppets_xz2c" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_xz2c" path="vendor/sony/xz2c" groups="muppets,muppets_xz2c" clone-depth="1" />
 
+  <!-- Xiaomi MSM8937 & SDM439 -->
+  <project name="TheMuppets/proprietary_vendor_xiaomi_mithorium-common" path="vendor/xiaomi/mithorium-common" groups="muppets,muppets_Mi439,muppets_Mi8917,muppets_Mi8937" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_Mi439" path="vendor/xiaomi/Mi439" groups="muppets,muppets_Mi439" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_Mi8917" path="vendor/xiaomi/Mi8917" groups="muppets,muppets_Mi8917" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_Mi8937" path="vendor/xiaomi/Mi8937" groups="muppets,muppets_Mi8937" clone-depth="1" />
+
   <!-- Xiaomi MSM8996 -->
   <project name="TheMuppets/proprietary_vendor_xiaomi_gemini" path="vendor/xiaomi/gemini" groups="muppets,muppets_gemini" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8996-common" path="vendor/xiaomi/msm8996-common" groups="muppets,muppets_gemini,muppets_natrium" clone-depth="1" />
