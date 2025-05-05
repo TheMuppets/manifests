@@ -142,7 +142,8 @@
   <project name="TheMuppets/proprietary_vendor_motorola_bangkk" path="vendor/motorola/bangkk" groups="muppets,muppets_bangkk" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_fogo" path="vendor/motorola/fogo" groups="muppets,muppets_fogo" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_fogos" path="vendor/motorola/fogos" groups="muppets,muppets_fogos" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_motorola_sm6375-common" path="vendor/motorola/sm6375-common" groups="muppets,muppets_bangkk,muppets_fogo,muppets_fogos" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_miami" path="vendor/motorola/miami" groups="muppets,muppets_miami" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm6375-common" path="vendor/motorola/sm6375-common" groups="muppets,muppets_bangkk,muppets_fogo,muppets_fogos,muppets_miami" clone-depth="1" />
 
   <!-- Motorola SM7250 -->
   <project name="TheMuppets/proprietary_vendor_motorola_kiev" path="vendor/motorola/kiev" groups="muppets,muppets_kiev" clone-depth="1" />
