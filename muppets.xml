@@ -430,6 +430,18 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_renoir" path="vendor/xiaomi/renoir" groups="muppets,muppets_renoir" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8350-common" path="vendor/xiaomi/sm8350-common" groups="muppets,muppets_haydn,muppets_lisa,muppets_mars,muppets_renoir" clone-depth="1" />
 
+  <!-- Xiaomi SM8450 -->
+  <project name="TheMuppets/proprietary_vendor_xiaomi_cupid" path="vendor/xiaomi/cupid" groups="muppets,muppets_cupid" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_diting" path="vendor/xiaomi/diting" groups="muppets,muppets_diting" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_marble" path="vendor/xiaomi/marble" groups="muppets,muppets_marble" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_mayfly" path="vendor/xiaomi/mayfly" groups="muppets,muppets_mayfly" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_mondrian" path="vendor/xiaomi/mondrian" groups="muppets,muppets_mondrian" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_thor" path="vendor/xiaomi/thor" groups="muppets,muppets_thor" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_unicorn" path="vendor/xiaomi/unicorn" groups="muppets,muppets_unicorn" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_zeus" path="vendor/xiaomi/zeus" groups="muppets,muppets_zeus" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_zizhan" path="vendor/xiaomi/zizhan" groups="muppets,muppets_zizhan" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sm8450-common" path="vendor/xiaomi/sm8450-common" groups="muppets,muppets_cupid,muppets_diting,muppets_marble,muppets_mayfly,muppets_mondrian,muppets_thor,muppets_unicorn,muppets_zeus,muppets_zizhan" clone-depth="1" />
+
   <!-- Xiaomi SM8550 -->
   <project name="TheMuppets/proprietary_vendor_xiaomi_socrates" path="vendor/xiaomi/socrates" groups="muppets,muppets_socrates" clone-depth="1" />
 </manifest>
