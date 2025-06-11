@@ -381,6 +381,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_equuleus" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_gauguin" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_gemini" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_ginkgo" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_grus" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_haydn" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_jasmine_sprout" />
@@ -438,6 +439,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_ursa" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_vayu" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_vela" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_venus" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_violet" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_wayne" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_wayne-common" />
