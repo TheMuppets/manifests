@@ -252,6 +252,10 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_salami" path="vendor/oneplus/salami" groups="muppets,muppets_salami" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8550-common" path="vendor/oneplus/sm8550-common" groups="muppets,muppets_salami" clone-depth="1" />
 
+  <!-- OnePlus SM8650 -->
+  <project name="TheMuppets/proprietary_vendor_oneplus_waffle" path="vendor/oneplus/waffle" groups="muppets,muppets_waffle" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sm8650-common" path="vendor/oneplus/sm8650-common" groups="muppets,muppets_waffle" clone-depth="1" />
+
   <!-- Razer aura -->
   <project name="TheMuppets/proprietary_vendor_razer_aura" path="vendor/razer/aura" groups="muppets,muppets_aura" clone-depth="1" />
 
