@@ -455,5 +455,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8450-common" path="vendor/xiaomi/sm8450-common" groups="muppets,muppets_cupid,muppets_diting,muppets_marble,muppets_mayfly,muppets_mondrian,muppets_thor,muppets_unicorn,muppets_zeus,muppets_zizhan" clone-depth="1" />
 
   <!-- Xiaomi SM8550 -->
+  <project name="TheMuppets/proprietary_vendor_xiaomi_fuxi" path="vendor/xiaomi/fuxi" groups="muppets,muppets_fuxi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_socrates" path="vendor/xiaomi/socrates" groups="muppets,muppets_socrates" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sm8550-common" path="vendor/xiaomi/sm8550-common" groups="muppets,muppets_fuxi,muppets_socrates" clone-depth="1" />
 </manifest>
