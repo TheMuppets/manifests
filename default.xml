@@ -86,6 +86,7 @@
   <project name="TheMuppets/proprietary_vendor_google_sunfish" />
   <project name="TheMuppets/proprietary_vendor_google_taimen" />
   <project name="TheMuppets/proprietary_vendor_google_tangorpro" />
+  <project name="TheMuppets/proprietary_vendor_google_tegu" />
   <project name="TheMuppets/proprietary_vendor_google_tokay" />
   <project name="TheMuppets/proprietary_vendor_google_walleye" />
   <project name="TheMuppets/proprietary_vendor_hardkernel" />
@@ -134,6 +135,7 @@
   <project name="TheMuppets/proprietary_vendor_lge_rs988" />
   <project name="TheMuppets/proprietary_vendor_lge_sdm845-common" />
   <project name="TheMuppets/proprietary_vendor_lge_sm8150-common" />
+  <project name="TheMuppets/proprietary_vendor_lge_style3lm" />
   <project name="TheMuppets/proprietary_vendor_lge_us996" />
   <project name="TheMuppets/proprietary_vendor_lge_us996d" />
   <project name="TheMuppets/proprietary_vendor_lge_us997" />
