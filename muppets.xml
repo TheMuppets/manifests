@@ -429,6 +429,12 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_monet" path="vendor/xiaomi/monet" groups="muppets,muppets_monet" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm7250-common" path="vendor/xiaomi/sm7250-common" groups="muppets,muppets_monet" clone-depth="1" />
 
+  <!-- Xiaomi SM8150 -->
+  <project name="TheMuppets/proprietary_vendor_xiaomi_cepheus" path="vendor/xiaomi/cepheus" groups="muppets,muppets_cepheus" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_raphael" path="vendor/xiaomi/raphael" groups="muppets,muppets_raphael" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sm8150-common" path="vendor/xiaomi/sm8150-common" groups="muppets,muppets_cepheus,muppets_raphael,muppets_vayu" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_vayu" path="vendor/xiaomi/vayu" groups="muppets,muppets_vayu" clone-depth="1" />
+
   <!-- Xiaomi SM8250 -->
   <project name="TheMuppets/proprietary_vendor_xiaomi_alioth" path="vendor/xiaomi/alioth" groups="muppets,muppets_alioth" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_apollon" path="vendor/xiaomi/apollon" groups="muppets,muppets_apollon" clone-depth="1" />
