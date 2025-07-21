@@ -459,6 +459,7 @@
   <project name="TheMuppets/proprietary_vendor_yandex" />
   <project name="TheMuppets/proprietary_vendor_yu" />
   <project name="TheMuppets/proprietary_vendor_zte" />
+  <project name="TheMuppets/proprietary_vendor_zte_akershus" />
   <project name="TheMuppets/proprietary_vendor_zuk" />
   <project name="TheMuppets/proprietary_vendor_zuk_msm8996-common" />
   <project name="TheMuppets/proprietary_vendor_zuk_z2_plus" />
