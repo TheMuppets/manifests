@@ -474,4 +474,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_nuwa" path="vendor/xiaomi/nuwa" groups="muppets,muppets_nuwa" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_socrates" path="vendor/xiaomi/socrates" groups="muppets,muppets_socrates" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8550-common" path="vendor/xiaomi/sm8550-common" groups="muppets,muppets_fuxi,muppets_nuwa,muppets_socrates" clone-depth="1" />
+
+  <!-- ZTE SDM845 -->
+  <project name="TheMuppets/proprietary_vendor_zte_akershus" path="vendor/zte/akershus" groups="muppets,muppets_akershus" clone-depth="1" />
 </manifest>
