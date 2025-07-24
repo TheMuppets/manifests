@@ -328,8 +328,11 @@
   <project name="TheMuppets/proprietary_vendor_samsung_m52xq" path="vendor/samsung/m52xq" groups="muppets,muppets_m52xq" clone-depth="1" />
 
   <!-- Samsung SM8250 -->
-  <project name="TheMuppets/proprietary_vendor_samsung_sm8250-common" path="vendor/samsung/sm8250-common" groups="muppets,muppets_gts7lwifi,muppets_r8q" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_sm8250-common" path="vendor/samsung/sm8250-common" groups="muppets,muppets_gts7l,muppets_gts7lwifi,muppets_gts7xl,muppets_gts7xlwifi,muppets_r8q" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gts7l" path="vendor/samsung/gts7l" groups="muppets,muppets_gts7l" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts7lwifi" path="vendor/samsung/gts7lwifi" groups="muppets,muppets_gts7lwifi" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gts7xl" path="vendor/samsung/gts7xl" groups="muppets,muppets_gts7xl" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gts7xlwifi" path="vendor/samsung/gts7xlwifi" groups="muppets,muppets_gts7xlwifi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_r8q" path="vendor/samsung/r8q" groups="muppets,muppets_r8q" clone-depth="1" />
 
   <!-- SHIFT SHIFT6mq -->
