@@ -32,10 +32,10 @@
   <!-- Fairphone 5 -->
   <project name="TheMuppets/proprietary_vendor_fairphone_FP5" path="vendor/fairphone/FP5" groups="muppets,muppets_FP5" clone-depth="1" />
 
-  <!-- FxTec pro1 -->
+  <!-- F(x)tec pro1 -->
   <project name="TheMuppets/proprietary_vendor_fxtec_pro1" path="vendor/fxtec/pro1" groups="muppets,muppets_pro1" clone-depth="1" />
 
-  <!-- FxTec pro1x -->
+  <!-- F(x)tec pro1x -->
   <project name="TheMuppets/proprietary_vendor_fxtec_pro1x" path="vendor/fxtec/pro1x" groups="muppets,muppets_pro1x" clone-depth="1" />
 
   <!-- Google G3 -->
