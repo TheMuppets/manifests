@@ -8,7 +8,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - run: sudo apt -y install libxml2-utils
+    - run: sudo apt update && sudo apt -y install libxml2-utils
     - run: |
         if [ -f manifest.xsd ]; then
           xmllint --noout --schema manifest.xsd *.xml
