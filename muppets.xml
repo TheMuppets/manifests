@@ -239,6 +239,9 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_oscaro" path="vendor/oneplus/oscaro" groups="muppets,muppets_oscaro" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm6375-common" path="vendor/oneplus/sm6375-common" groups="muppets,muppets_gunnar,muppets_larry,muppets_oscaro" clone-depth="1" />
 
+  <!-- OnePlus SM7550 -->
+  <project name="TheMuppets/proprietary_vendor_oneplus_benz" path="vendor/oneplus/benz" groups="muppets,muppets_benz" clone-depth="1" />
+
   <!-- OnePlus SM8150 -->
   <project name="TheMuppets/proprietary_vendor_oneplus_guacamole" path="vendor/oneplus/guacamole" groups="muppets,muppets_guacamole" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_guacamoleb" path="vendor/oneplus/guacamoleb" groups="muppets,muppets_guacamoleb" clone-depth="1" />
