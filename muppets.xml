@@ -187,6 +187,10 @@
   <project name="TheMuppets/proprietary_vendor_nokia_PL2" path="vendor/nokia/PL2" groups="muppets,muppets_PL2" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_nokia_sdm660-common" path="vendor/nokia/sdm660-common" groups="muppets,muppets_B2N,muppets_DRG,muppets_PL2" clone-depth="1" />
 
+  <!-- Nokia MSM8998 -->
+  <project name="TheMuppets/proprietary_vendor_nokia_NB1" path="vendor/nokia/NB1" groups="muppets,muppets_NB1" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_nokia_msm8998-common" path="vendor/nokia/msm8998-common" groups="muppets,muppets_NB1" clone-depth="1" />
+
   <!-- Nothing Pong -->
   <project name="TheMuppets/proprietary_vendor_nothing_Pong" path="vendor/nothing/Pong" groups="muppets,muppets_Pong" clone-depth="1" />
 
