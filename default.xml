@@ -243,6 +243,7 @@
   <project name="TheMuppets/proprietary_vendor_nxp" />
   <project name="TheMuppets/proprietary_vendor_oneplus" />
   <project name="TheMuppets/proprietary_vendor_oneplus_aston" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_avalon" />
   <project name="TheMuppets/proprietary_vendor_oneplus_avicii" />
   <project name="TheMuppets/proprietary_vendor_oneplus_benz" />
   <project name="TheMuppets/proprietary_vendor_oneplus_billie" />
