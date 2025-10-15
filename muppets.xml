@@ -320,6 +320,12 @@
   <project name="TheMuppets/proprietary_vendor_samsung_exynos9820-common" path="vendor/samsung/exynos9820-common" groups="muppets,muppets_beyond0lte,muppets_beyond1lte,muppets_beyond2lte,muppets_beyondx,muppets_d1,muppets_d1x,muppets_d2s,muppets_d2x,muppets_f62" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_f62" path="vendor/samsung/f62" groups="muppets,muppets_f62" clone-depth="1" />
 
+  <!-- Samsung Exynos 990 -->
+  <project name="TheMuppets/proprietary_vendor_samsung_universal9830-common" path="vendor/samsung/universal9830" groups="muppets,muppets_x1s,muppets_y2s,muppets_z3s" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_x1s" path="vendor/samsung/x1s" groups="muppets,muppets_x1s" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_y2s" path="vendor/samsung/y2s" groups="muppets,muppets_y2s" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_z3s" path="vendor/samsung/z3s" groups="muppets,muppets_z3s" clone-depth="1" />
+
   <!-- Samsung gta4l -->
   <project name="TheMuppets/proprietary_vendor_samsung_gta4l-common" path="vendor/samsung/gta4l-common" groups="muppets,muppets_gta4l,muppets_gta4lwifi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4l" path="vendor/samsung/gta4l" groups="muppets,muppets_gta4l" clone-depth="1" />
