@@ -322,7 +322,7 @@
   <project name="TheMuppets/proprietary_vendor_samsung_f62" path="vendor/samsung/f62" groups="muppets,muppets_f62" clone-depth="1" />
 
   <!-- Samsung Exynos 990 -->
-  <project name="TheMuppets/proprietary_vendor_samsung_universal9830-common" path="vendor/samsung/universal9830" groups="muppets,muppets_x1s,muppets_y2s,muppets_z3s" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_universal9830-common" path="vendor/samsung/universal9830-common" groups="muppets,muppets_x1s,muppets_y2s,muppets_z3s" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_x1s" path="vendor/samsung/x1s" groups="muppets,muppets_x1s" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_y2s" path="vendor/samsung/y2s" groups="muppets,muppets_y2s" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_z3s" path="vendor/samsung/z3s" groups="muppets,muppets_z3s" clone-depth="1" />
