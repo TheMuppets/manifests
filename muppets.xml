@@ -47,6 +47,7 @@
   <project name="TheMuppets/proprietary_vendor_google_caiman" path="vendor/google/caiman" groups="muppets,muppets_caiman" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_comet" path="vendor/google/comet" groups="muppets,muppets_comet" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_komodo" path="vendor/google/komodo" groups="muppets,muppets_komodo" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_tegu" path="vendor/google/tegu" groups="muppets,muppets_tegu" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_tokay" path="vendor/google/tokay" groups="muppets,muppets_tokay" clone-depth="1" />
 
   <!-- Google GS101 -->
