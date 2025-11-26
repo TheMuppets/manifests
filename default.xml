@@ -137,6 +137,7 @@
   <project name="TheMuppets/proprietary_vendor_lge_sdm845-common" />
   <project name="TheMuppets/proprietary_vendor_lge_sm8150-common" />
   <project name="TheMuppets/proprietary_vendor_lge_style3lm" />
+  <project name="TheMuppets/proprietary_vendor_lge_timelm" />
   <project name="TheMuppets/proprietary_vendor_lge_us996" />
   <project name="TheMuppets/proprietary_vendor_lge_us996d" />
   <project name="TheMuppets/proprietary_vendor_lge_us997" />
