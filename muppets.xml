@@ -110,6 +110,9 @@
   <project name="TheMuppets/proprietary_vendor_lge_style3lm" path="vendor/lge/style3lm" groups="muppets,muppets_style3lm" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_sdm845-common" path="vendor/lge/sdm845-common" groups="muppets,muppets_caymanslm,muppets_g710n,muppets_g710ulm,muppets_judyln,muppets_judyp,muppets_judypn,muppets_style3lm" clone-depth="1" />
 
+  <!-- LGE timelm -->
+  <project name="TheMuppets/proprietary_vendor_lge_timelm" path="vendor/lge/timelm" groups="muppets,muppets_timelm" clone-depth="1" />
+
   <!-- Motorola Exynos9610 -->
   <project name="TheMuppets/proprietary_vendor_motorola_exynos9610-common" path="vendor/motorola/exynos9610-common" groups="muppets,muppets_kane,muppets_troika" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_kane" path="vendor/motorola/kane" groups="muppets,muppets_kane" clone-depth="1" />
