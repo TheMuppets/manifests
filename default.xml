@@ -145,6 +145,7 @@
   <project name="TheMuppets/proprietary_vendor_lge_vs995" />
   <project name="TheMuppets/proprietary_vendor_malata" />
   <project name="TheMuppets/proprietary_vendor_motorola" />
+  <project name="TheMuppets/proprietary_vendor_motorola_avatrn" />
   <project name="TheMuppets/proprietary_vendor_motorola_bangkk" />
   <project name="TheMuppets/proprietary_vendor_motorola_bathena" />
   <project name="TheMuppets/proprietary_vendor_motorola_beckham" />
@@ -196,6 +197,7 @@
   <project name="TheMuppets/proprietary_vendor_motorola_sm6375-common" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm7250-common" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm7325-common" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm7435-common" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm8250-common" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm8475-common" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm8550-common" />
