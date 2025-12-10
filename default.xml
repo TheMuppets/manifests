@@ -442,6 +442,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_renoir" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_rosemary" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sagit" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_scorpio" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sdm660-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sdm710-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sdm845-common" />
