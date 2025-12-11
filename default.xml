@@ -344,6 +344,7 @@
   <project name="TheMuppets/proprietary_vendor_samsung_m31s" />
   <project name="TheMuppets/proprietary_vendor_samsung_m52xq" />
   <project name="TheMuppets/proprietary_vendor_samsung_r8q" />
+  <project name="TheMuppets/proprietary_vendor_samsung_r8s" />
   <project name="TheMuppets/proprietary_vendor_samsung_sm6150-common" />
   <project name="TheMuppets/proprietary_vendor_samsung_sm7125-common" />
   <project name="TheMuppets/proprietary_vendor_samsung_sm7325-common" />
