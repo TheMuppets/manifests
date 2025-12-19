@@ -407,6 +407,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_earth" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_equuleus" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_fuxi" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_garnet" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_gauguin" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_gemini" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_ginkgo" />
