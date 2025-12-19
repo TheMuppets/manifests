@@ -294,6 +294,9 @@
   <!-- Razer cheryl -->
   <project name="TheMuppets/proprietary_vendor_razer_cheryl" path="vendor/razer/cheryl" groups="muppets,muppets_cheryl" clone-depth="1" />
 
+  <!-- Razer nicole -->
+  <project name="TheMuppets/proprietary_vendor_razer_nicole" path="vendor/razer/nicole" groups="muppets,muppets_nicole" clone-depth="1" />
+
   <!-- Realme SM6375 -->
   <project name="TheMuppets/proprietary_vendor_realme_luigi" path="vendor/realme/luigi" groups="muppets,muppets_luigi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_realme_oscar" path="vendor/realme/oscar" groups="muppets,muppets_oscar" clone-depth="1" />
