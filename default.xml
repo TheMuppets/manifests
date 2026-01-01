@@ -261,6 +261,8 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_enchilada" />
   <project name="TheMuppets/proprietary_vendor_oneplus_erhai" />
   <project name="TheMuppets/proprietary_vendor_oneplus_fajita" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_giulia" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_giuliac" />
   <project name="TheMuppets/proprietary_vendor_oneplus_guacamole" />
   <project name="TheMuppets/proprietary_vendor_oneplus_guacamoleb" />
   <project name="TheMuppets/proprietary_vendor_oneplus_gunnar" />
