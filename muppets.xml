@@ -413,8 +413,9 @@
 
   <!-- Xiaomi MSM8996 -->
   <project name="TheMuppets/proprietary_vendor_xiaomi_gemini" path="vendor/xiaomi/gemini" groups="muppets,muppets_gemini" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_xiaomi_msm8996-common" path="vendor/xiaomi/msm8996-common" groups="muppets,muppets_gemini,muppets_natrium" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_msm8996-common" path="vendor/xiaomi/msm8996-common" groups="muppets,muppets_gemini,muppets_natrium,muppets_scorpio" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_natrium" path="vendor/xiaomi/natrium" groups="muppets,muppets_natrium" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_scorpio" path="vendor/xiaomi/scorpio" groups="muppets,muppets_scorpio" clone-depth="1" />
 
   <!-- Xiaomi MSM8998 -->
   <project name="TheMuppets/proprietary_vendor_xiaomi_chiron" path="vendor/xiaomi/chiron" groups="muppets,muppets_chiron" clone-depth="1" />
