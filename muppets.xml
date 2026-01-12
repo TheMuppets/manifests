@@ -407,6 +407,11 @@
   <project name="TheMuppets/proprietary_vendor_sony_pdx215" path="vendor/sony/pdx215" groups="muppets,muppets_pdx215" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_sm8350-common" path="vendor/sony/sm8350-common" groups="muppets,muppets_pdx214,muppets_pdx215" clone-depth="1" />
 
+  <!-- Sony SM8450 -->
+  <project name="TheMuppets/proprietary_vendor_sony_pdx223" path="vendor/sony/pdx223" groups="muppets,muppets_pdx223" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_pdx224" path="vendor/sony/pdx224" groups="muppets,muppets_pdx224" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_sm8450-common" path="vendor/sony/sm8450-common" groups="muppets,muppets_pdx223,muppets_pdx224" clone-depth="1" />
+
   <!-- Sony SM8550 -->
   <project name="TheMuppets/proprietary_vendor_sony_pdx234" path="vendor/sony/pdx234" groups="muppets,muppets_pdx234" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_pdx237" path="vendor/sony/pdx237" groups="muppets,muppets_pdx237" clone-depth="1" />
