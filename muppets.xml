@@ -276,8 +276,9 @@
 
   <!-- OnePlus SM8550 -->
   <project name="TheMuppets/proprietary_vendor_oneplus_aston" path="vendor/oneplus/aston" groups="muppets,muppets_aston" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_astonc" path="vendor/oneplus/astonc" groups="muppets,muppets_astonc" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_salami" path="vendor/oneplus/salami" groups="muppets,muppets_salami" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_sm8550-common" path="vendor/oneplus/sm8550-common" groups="muppets,muppets_aston,muppets_salami" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sm8550-common" path="vendor/oneplus/sm8550-common" groups="muppets,muppets_aston,muppets_astonc,muppets_salami" clone-depth="1" />
 
   <!-- OnePlus SM8650 -->
   <project name="TheMuppets/proprietary_vendor_oneplus_audi" path="vendor/oneplus/audi" groups="muppets,muppets_audi" clone-depth="1" />
