@@ -412,6 +412,7 @@
   <project name="TheMuppets/proprietary_vendor_widevine" />
   <project name="TheMuppets/proprietary_vendor_wileyfox" />
   <project name="TheMuppets/proprietary_vendor_wingtech" />
+  <project name="TheMuppets/proprietary_vendor_xelex_Q25" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_Mi439" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_Mi8917" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_Mi8937" />
