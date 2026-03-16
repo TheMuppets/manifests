@@ -405,6 +405,9 @@
   <project name="TheMuppets/proprietary_vendor_sony_pdx235" path="vendor/sony/pdx235" groups="muppets,muppets_pdx235" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_sm6375-common" path="vendor/sony/sm6375-common" groups="muppets,muppets_pdx225,muppets_pdx235" clone-depth="1" />
 
+  <!-- Sony SM6475 -->
+  <project name="TheMuppets/proprietary_vendor_sony_pdx257" path="vendor/sony/pdx257" groups="muppets,muppets_pdx257" clone-depth="1" />
+
   <!-- Sony SM8250 -->
   <project name="TheMuppets/proprietary_vendor_sony_pdx203" path="vendor/sony/pdx203" groups="muppets,muppets_pdx203" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_pdx206" path="vendor/sony/pdx206" groups="muppets,muppets_pdx206" clone-depth="1" />
