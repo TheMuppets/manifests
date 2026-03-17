@@ -301,6 +301,7 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_xueying" />
   <project name="TheMuppets/proprietary_vendor_oppo" />
   <project name="TheMuppets/proprietary_vendor_osom_ingot" />
+  <project name="TheMuppets/proprietary_vendor_osom_pyrite" />
   <project name="TheMuppets/proprietary_vendor_qcom_binaries" />
   <project name="TheMuppets/proprietary_vendor_razer" />
   <project name="TheMuppets/proprietary_vendor_razer_aura" />
