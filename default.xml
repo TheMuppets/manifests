@@ -66,6 +66,7 @@
   <project name="TheMuppets/proprietary_vendor_google_akita" />
   <project name="TheMuppets/proprietary_vendor_google_barbet" />
   <project name="TheMuppets/proprietary_vendor_google_beast" />
+  <project name="TheMuppets/proprietary_vendor_google_blazer" />
   <project name="TheMuppets/proprietary_vendor_google_bluejay" />
   <project name="TheMuppets/proprietary_vendor_google_blueline" />
   <project name="TheMuppets/proprietary_vendor_google_bonito" />
@@ -77,10 +78,12 @@
   <project name="TheMuppets/proprietary_vendor_google_crosshatch" />
   <project name="TheMuppets/proprietary_vendor_google_felix" />
   <project name="TheMuppets/proprietary_vendor_google_flame" />
+  <project name="TheMuppets/proprietary_vendor_google_frankel" />
   <project name="TheMuppets/proprietary_vendor_google_husky" />
   <project name="TheMuppets/proprietary_vendor_google_komodo" />
   <project name="TheMuppets/proprietary_vendor_google_lynx" />
   <project name="TheMuppets/proprietary_vendor_google_marlin" />
+  <project name="TheMuppets/proprietary_vendor_google_mustang" />
   <project name="TheMuppets/proprietary_vendor_google_oriole" />
   <project name="TheMuppets/proprietary_vendor_google_panther" />
   <project name="TheMuppets/proprietary_vendor_google_raven" />
@@ -90,6 +93,7 @@
   <project name="TheMuppets/proprietary_vendor_google_sargo" />
   <project name="TheMuppets/proprietary_vendor_google_shiba" />
   <project name="TheMuppets/proprietary_vendor_google_sphynx" />
+  <project name="TheMuppets/proprietary_vendor_google_stallion" />
   <project name="TheMuppets/proprietary_vendor_google_sunfish" />
   <project name="TheMuppets/proprietary_vendor_google_taimen" />
   <project name="TheMuppets/proprietary_vendor_google_tangorpro" />
