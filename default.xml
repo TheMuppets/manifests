@@ -86,6 +86,7 @@
   <project name="TheMuppets/proprietary_vendor_google_mustang" />
   <project name="TheMuppets/proprietary_vendor_google_oriole" />
   <project name="TheMuppets/proprietary_vendor_google_panther" />
+  <project name="TheMuppets/proprietary_vendor_google_rango" />
   <project name="TheMuppets/proprietary_vendor_google_raven" />
   <project name="TheMuppets/proprietary_vendor_google_redfin" />
   <project name="TheMuppets/proprietary_vendor_google_sabrina" />
@@ -464,6 +465,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_natrium" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_nuwa" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_onclite" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_peridot" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_perseus" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_pipa" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_platina" />
