@@ -47,8 +47,15 @@
   <project name="TheMuppets/proprietary_vendor_google_caiman" path="vendor/google/caiman" groups="muppets,muppets_caiman" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_comet" path="vendor/google/comet" groups="muppets,muppets_comet" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_komodo" path="vendor/google/komodo" groups="muppets,muppets_komodo" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_stallion" path="vendor/google/stallion" groups="muppets,muppets_stallion" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_tegu" path="vendor/google/tegu" groups="muppets,muppets_tegu" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_tokay" path="vendor/google/tokay" groups="muppets,muppets_tokay" clone-depth="1" />
+
+  <!-- Google G5 -->
+  <project name="TheMuppets/proprietary_vendor_google_blazer" path="vendor/google/blazer" groups="muppets,muppets_blazer" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_frankel" path="vendor/google/frankel" groups="muppets,muppets_frankel" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_mustang" path="vendor/google/mustang" groups="muppets,muppets_mustang" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_rango" path="vendor/google/rango" groups="muppets,muppets_rango" clone-depth="1" />
 
   <!-- Google GS101 -->
   <project name="TheMuppets/proprietary_vendor_google_bluejay" path="vendor/google/bluejay" groups="muppets,muppets_bluejay" clone-depth="1" />
