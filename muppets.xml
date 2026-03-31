@@ -552,6 +552,9 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_vermeer" path="vendor/xiaomi/vermeer" groups="muppets,muppets_vermeer" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm8550-common" path="vendor/xiaomi/sm8550-common" groups="muppets,muppets_fuxi,muppets_nuwa,muppets_socrates,muppets_vermeer" clone-depth="1" />
 
+  <!-- Xiaomi SM8635 -->
+  <project name="TheMuppets/proprietary_vendor_xiaomi_peridot" path="vendor/xiaomi/peridot" groups="muppets,muppets_peridot" clone-depth="1" />
+
   <!-- ZTE SDM845 -->
   <project name="TheMuppets/proprietary_vendor_zte_akershus" path="vendor/zte/akershus" groups="muppets,muppets_akershus" clone-depth="1" />
 </manifest>
