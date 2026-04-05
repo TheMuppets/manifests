@@ -436,6 +436,10 @@
   <project name="TheMuppets/proprietary_vendor_sony_pdx237" path="vendor/sony/pdx237" groups="muppets,muppets_pdx237" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_sm8550-common" path="vendor/sony/sm8550-common" groups="muppets,muppets_pdx234,muppets_pdx237" clone-depth="1" />
 
+  <!-- Sony SM8650 -->
+  <project name="TheMuppets/proprietary_vendor_sony_pdx245" path="vendor/sony/pdx245" groups="muppets,muppets_pdx245" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_sm8650-common" path="vendor/sony/sm8650-common" groups="muppets,muppets_pdx245" clone-depth="1" />
+
   <!-- Sony tama -->
   <project name="TheMuppets/proprietary_vendor_sony_akari" path="vendor/sony/akari" groups="muppets,muppets_akari" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_akatsuki" path="vendor/sony/akatsuki" groups="muppets,muppets_akatsuki" clone-depth="1" />
