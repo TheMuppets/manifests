@@ -353,6 +353,10 @@
   <project name="TheMuppets/proprietary_vendor_samsung_y2s" path="vendor/samsung/y2s" groups="muppets,muppets_y2s" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_z3s" path="vendor/samsung/z3s" groups="muppets,muppets_z3s" clone-depth="1" />
 
+  <!-- Samsung dm1q -->
+  <project name="TheMuppets/proprietary_vendor_samsung_dm1q" path="vendor/samsung/dm1q" groups="muppets,muppets_dm1q" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_sm8550-common" path="vendor/samsung/sm8550-common" groups="muppets,muppets_dm1q" clone-depth="1" />
+
   <!-- Samsung gta4l -->
   <project name="TheMuppets/proprietary_vendor_samsung_gta4l-common" path="vendor/samsung/gta4l-common" groups="muppets,muppets_gta4l,muppets_gta4lwifi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4l" path="vendor/samsung/gta4l" groups="muppets,muppets_gta4l" clone-depth="1" />
