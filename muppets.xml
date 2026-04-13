@@ -454,6 +454,9 @@
   <!-- Vsmart MSM8953 -->
   <project name="TheMuppets/proprietary_vendor_vsmart_casuarina" path="vendor/vsmart/casuarina" groups="muppets,muppets_casuarina" clone-depth="1" />
 
+  <!-- Xelex Q25 -->
+  <project name="TheMuppets/proprietary_vendor_xelex_Q25" path="vendor/xelex/Q25" groups="muppets,muppets_Q25" clone-depth="1" />
+
   <!-- Xiaomi MSM8937 & SDM439 -->
   <project name="TheMuppets/proprietary_vendor_xiaomi_mithorium-common" path="vendor/xiaomi/mithorium-common" groups="muppets,muppets_Mi439,muppets_Mi8917,muppets_Mi8937" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_Mi439" path="vendor/xiaomi/Mi439" groups="muppets,muppets_Mi439" clone-depth="1" />
