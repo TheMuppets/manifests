@@ -304,6 +304,9 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_erhai" path="vendor/oneplus/erhai" groups="muppets,muppets_erhai" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8750-common" path="vendor/oneplus/sm8750-common" groups="muppets,muppets_dodge,muppets_erhai" clone-depth="1" />
 
+  <!-- OSOM OV1 -->
+  <project name="TheMuppets/proprietary_vendor_osom_pyrite" path="vendor/osom/pyrite" groups="muppets,muppets_pyrite" clone-depth="1" />
+
   <!-- Razer aura -->
   <project name="TheMuppets/proprietary_vendor_razer_aura" path="vendor/razer/aura" groups="muppets,muppets_aura" clone-depth="1" />
 
