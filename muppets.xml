@@ -20,6 +20,9 @@
   <!-- Asus Z01R -->
   <project name="TheMuppets/proprietary_vendor_asus_Z01R" path="vendor/asus/Z01R" groups="muppets,muppets_Z01R" clone-depth="1" />
 
+  <!-- Ayn Odin2 ACK -->
+  <project name="TheMuppets/proprietary_vendor_ayn_odin2_ack" path="vendor/ayn/odin2_ack" groups="muppets,muppets_odin2_ack,muppets_odin2_tab_ack" clone-depth="1" />
+
   <!-- Essential PH-1 -->
   <project name="TheMuppets/proprietary_vendor_essential_mata" path="vendor/essential/mata" groups="muppets,muppets_mata" clone-depth="1" />
 
