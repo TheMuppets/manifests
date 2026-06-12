@@ -58,6 +58,7 @@
   <project name="TheMuppets/proprietary_vendor_fairphone_FP3" />
   <project name="TheMuppets/proprietary_vendor_fairphone_FP4" />
   <project name="TheMuppets/proprietary_vendor_fairphone_FP5" />
+  <project name="TheMuppets/proprietary_vendor_fairphone_FP6" />
   <project name="TheMuppets/proprietary_vendor_firmware" />
   <project name="TheMuppets/proprietary_vendor_freebox_nicepool" />
   <project name="TheMuppets/proprietary_vendor_fxtec" />
