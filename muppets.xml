@@ -411,6 +411,9 @@
   <!-- SHIFT SHIFT6mq -->
   <project name="TheMuppets/proprietary_vendor_shift_axolotl" path="vendor/shift/axolotl" groups="muppets,muppets_axolotl" clone-depth="1" />
 
+  <!-- SHIFT SHIFTphone 8 -->
+  <project name="TheMuppets/proprietary_vendor_shift_otter" path="vendor/shift/otter" groups="muppets,muppets_otter" clone-depth="1" />
+
   <!-- Solana Saga -->
   <project name="TheMuppets/proprietary_vendor_osom_ingot" path="vendor/osom/ingot" groups="muppets,muppets_ingot" clone-depth="1" />
 
