@@ -35,6 +35,9 @@
   <!-- Fairphone 5 -->
   <project name="TheMuppets/proprietary_vendor_fairphone_FP5" path="vendor/fairphone/FP5" groups="muppets,muppets_FP5" clone-depth="1" />
 
+  <!-- Fairphone 6 -->
+  <project name="TheMuppets/proprietary_vendor_fairphone_FP6" path="vendor/fairphone/FP6" groups="muppets,muppets_FP6" clone-depth="1" />
+
   <!-- F(x)tec pro1 -->
   <project name="TheMuppets/proprietary_vendor_fxtec_pro1" path="vendor/fxtec/pro1" groups="muppets,muppets_pro1" clone-depth="1" />
 
