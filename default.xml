@@ -327,6 +327,7 @@
   <project name="TheMuppets/proprietary_vendor_realme_pista" />
   <project name="TheMuppets/proprietary_vendor_realme_sm6375-common" />
   <project name="TheMuppets/proprietary_vendor_retroidpocket_RP6" />
+  <project name="TheMuppets/proprietary_vendor_retroidpocket_nova" />
   <project name="TheMuppets/proprietary_vendor_samsung" />
   <project name="TheMuppets/proprietary_vendor_samsung_a21s" />
   <project name="TheMuppets/proprietary_vendor_samsung_a21s-common" />
