@@ -5,6 +5,7 @@
   <project name="TheMuppets/proprietary_vendor_askey_deadpool" path="vendor/askey/deadpool" groups="muppets,muppets_deadpool" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_dopinder" path="vendor/askey/dopinder" groups="muppets,muppets_dopinder" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_wade" path="vendor/askey/wade" groups="muppets,muppets_wade" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_freebox_nicepool" path="vendor/freebox/nicepool" groups="muppets,muppets_nicepool" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_sabrina" path="vendor/google/sabrina" groups="muppets,muppets_sabrina" clone-depth="1" />
 
   <!-- Amlogic GX -->
