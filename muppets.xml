@@ -557,10 +557,11 @@
   <!-- Xiaomi SM8250 -->
   <project name="TheMuppets/proprietary_vendor_xiaomi_alioth" path="vendor/xiaomi/alioth" groups="muppets,muppets_alioth" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_apollon" path="vendor/xiaomi/apollon" groups="muppets,muppets_apollon" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_cas" path="vendor/xiaomi/cas" groups="muppets,muppets_cas" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_cmi" path="vendor/xiaomi/cmi" groups="muppets,muppets_cmi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_lmi" path="vendor/xiaomi/lmi" groups="muppets,muppets_lmi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_munch" path="vendor/xiaomi/munch" groups="muppets,muppets_munch" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_xiaomi_sm8250-common" path="vendor/xiaomi/sm8250-common" groups="muppets,muppets_alioth,muppets_apollon,muppets_cmi,muppets_lmi,muppets_munch,muppets_thyme,muppets_umi" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sm8250-common" path="vendor/xiaomi/sm8250-common" groups="muppets,muppets_alioth,muppets_apollon,muppets_cas,muppets_cmi,muppets_lmi,muppets_munch,muppets_thyme,muppets_umi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_thyme" path="vendor/xiaomi/thyme" groups="muppets,muppets_thyme" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_umi" path="vendor/xiaomi/umi" groups="muppets,muppets_umi" clone-depth="1" />
 
