@@ -439,6 +439,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_alioth" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_apollon" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_beryllium" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_cas" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_cepheus" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_chiron" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_cmi" />
