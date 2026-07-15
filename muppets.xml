@@ -200,7 +200,8 @@
 
   <!-- Motorola SM7435 -->
   <project name="TheMuppets/proprietary_vendor_motorola_avatrn" path="vendor/motorola/avatrn" groups="muppets,muppets_avatrn" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_motorola_sm7435-common" path="vendor/motorola/sm7435-common" groups="muppets,muppets_avatrn" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_genevn" path="vendor/motorola/genevn" groups="muppets,muppets_genevn" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm7435-common" path="vendor/motorola/sm7435-common" groups="muppets,muppets_avatrn,muppets_genevn" clone-depth="1" />
 
   <!-- Motorola SM8250 -->
   <project name="TheMuppets/proprietary_vendor_motorola_nio" path="vendor/motorola/nio" groups="muppets,muppets_nio" clone-depth="1" />
