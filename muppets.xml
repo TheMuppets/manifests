@@ -21,6 +21,9 @@
   <!-- Asus Z01R -->
   <project name="TheMuppets/proprietary_vendor_asus_Z01R" path="vendor/asus/Z01R" groups="muppets,muppets_Z01R" clone-depth="1" />
 
+  <!-- Ayn SDM845 -->
+  <project name="TheMuppets/proprietary_vendor_ayn_sdm845-common" path="vendor/ayn/sdm845-common" groups="muppets,muppets_odin_m0,muppets_odin_m2" clone-depth="1" />
+
   <!-- Essential PH-1 -->
   <project name="TheMuppets/proprietary_vendor_essential_mata" path="vendor/essential/mata" groups="muppets,muppets_mata" clone-depth="1" />
 
