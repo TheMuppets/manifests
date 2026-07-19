@@ -43,6 +43,7 @@
   <project name="TheMuppets/proprietary_vendor_ayn_odin2thor" />
   <project name="TheMuppets/proprietary_vendor_ayn_odin3" />
   <project name="TheMuppets/proprietary_vendor_ayn_qcs8550-common" />
+  <project name="TheMuppets/proprietary_vendor_ayn_sdm845-common" />
   <project name="TheMuppets/proprietary_vendor_bn" />
   <project name="TheMuppets/proprietary_vendor_bq" />
   <project name="TheMuppets/proprietary_vendor_bq_bardock" />
@@ -135,6 +136,7 @@
   <project name="TheMuppets/proprietary_vendor_lge_h870" />
   <project name="TheMuppets/proprietary_vendor_lge_h870d" />
   <project name="TheMuppets/proprietary_vendor_lge_h872" />
+  <project name="TheMuppets/proprietary_vendor_lge_h873" />
   <project name="TheMuppets/proprietary_vendor_lge_h910" />
   <project name="TheMuppets/proprietary_vendor_lge_h918" />
   <project name="TheMuppets/proprietary_vendor_lge_h932" />
