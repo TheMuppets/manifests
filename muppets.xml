@@ -114,9 +114,10 @@
   <project name="TheMuppets/proprietary_vendor_lge_h870" path="vendor/lge/h870" groups="muppets,muppets_h870" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_h870d" path="vendor/lge/h870d" groups="muppets,muppets_h870d" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_h872" path="vendor/lge/h872" groups="muppets,muppets_h872" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_h873" path="vendor/lge/h873" groups="muppets,muppets_h873" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_us997" path="vendor/lge/us997" groups="muppets,muppets_us997" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_lge_g6-common" path="vendor/lge/g6-common" groups="muppets,muppets_h870,muppets_h870d,muppets_h872,muppets_us997" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_lge_msm8996-common" path="vendor/lge/msm8996-common" groups="muppets,muppets_h918,muppets_h910,muppets_h990,muppets_ls997,muppets_rs988,muppets_us996,muppets_us996d,muppets_vs995,muppets_h830,muppets_h850,muppets_h870,muppets_h870d,muppets_h872,muppets_us997" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_g6-common" path="vendor/lge/g6-common" groups="muppets,muppets_h870,muppets_h870d,muppets_h872,muppets_h873,muppets_us997" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_msm8996-common" path="vendor/lge/msm8996-common" groups="muppets,muppets_h918,muppets_h910,muppets_h990,muppets_ls997,muppets_rs988,muppets_us996,muppets_us996d,muppets_vs995,muppets_h830,muppets_h850,muppets_h870,muppets_h870d,muppets_h872,muppets_h873,muppets_us997" clone-depth="1" />
 
   <!-- LGE MSM8998 -->
   <project name="TheMuppets/proprietary_vendor_lge_joan" path="vendor/lge/joan" groups="muppets,muppets_joan" clone-depth="1" />
