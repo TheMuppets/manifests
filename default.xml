@@ -111,6 +111,9 @@
   <project name="TheMuppets/proprietary_vendor_hp" />
   <project name="TheMuppets/proprietary_vendor_htc" />
   <project name="TheMuppets/proprietary_vendor_huawei" />
+  <project name="TheMuppets/proprietary_vendor_huawei_berkeley" />
+  <project name="TheMuppets/proprietary_vendor_huawei_charlotte" />
+  <project name="TheMuppets/proprietary_vendor_huawei_kirin970-common" />
   <project name="TheMuppets/proprietary_vendor_imgtec" />
   <project name="TheMuppets/proprietary_vendor_invensense" />
   <project name="TheMuppets/proprietary_vendor_khadas" />
