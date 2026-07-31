@@ -28,8 +28,9 @@
   <project name="TheMuppets/proprietary_vendor_ayn_odin2mini" path="vendor/ayn/odin2mini" groups="muppets,muppets_odin2mini" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_ayn_odin2portal" path="vendor/ayn/odin2portal" groups="muppets,muppets_odin2portal" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_ayn_odin2thor" path="vendor/ayn/odin2thor" groups="muppets,muppets_odin2thor" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_ayn_qcs8550-common" path="vendor/ayn/qcs8550-common" groups="muppets,muppets_odin2,muppets_odin2mini,muppets_odin2portal,muppets_odin2thor,muppets_RP6" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_ayn_qcs8550-common" path="vendor/ayn/qcs8550-common" groups="muppets,muppets_odin2,muppets_odin2mini,muppets_odin2portal,muppets_odin2thor,muppets_RP6,muppets_RPN" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_retroidpocket_RP6" path="vendor/retroidpocket/RP6" groups="muppets,muppets_RP6" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_retroidpocket_RPN" path="vendor/retroidpocket/RPN" groups="muppets,muppets_RPN" clone-depth="1" />
 
   <!-- Essential PH-1 -->
   <project name="TheMuppets/proprietary_vendor_essential_mata" path="vendor/essential/mata" groups="muppets,muppets_mata" clone-depth="1" />
