@@ -349,6 +349,7 @@
   <project name="TheMuppets/proprietary_vendor_samsung_a71-common" />
   <project name="TheMuppets/proprietary_vendor_samsung_a72q" />
   <project name="TheMuppets/proprietary_vendor_samsung_a73xq" />
+  <project name="TheMuppets/proprietary_vendor_samsung_b0s" />
   <project name="TheMuppets/proprietary_vendor_samsung_beyond0lte" />
   <project name="TheMuppets/proprietary_vendor_samsung_beyond1lte" />
   <project name="TheMuppets/proprietary_vendor_samsung_beyond2lte" />
@@ -363,6 +364,7 @@
   <project name="TheMuppets/proprietary_vendor_samsung_exynos9820-common" />
   <project name="TheMuppets/proprietary_vendor_samsung_f41" />
   <project name="TheMuppets/proprietary_vendor_samsung_f62" />
+  <project name="TheMuppets/proprietary_vendor_samsung_g0s" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4l" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4l-common" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4lwifi" />
@@ -384,8 +386,10 @@
   <project name="TheMuppets/proprietary_vendor_samsung_m31" />
   <project name="TheMuppets/proprietary_vendor_samsung_m31s" />
   <project name="TheMuppets/proprietary_vendor_samsung_m52xq" />
+  <project name="TheMuppets/proprietary_vendor_samsung_r0s" />
   <project name="TheMuppets/proprietary_vendor_samsung_r8q" />
   <project name="TheMuppets/proprietary_vendor_samsung_r8s" />
+  <project name="TheMuppets/proprietary_vendor_samsung_s5e9925-common" />
   <project name="TheMuppets/proprietary_vendor_samsung_sm6150-common" />
   <project name="TheMuppets/proprietary_vendor_samsung_sm7125-common" />
   <project name="TheMuppets/proprietary_vendor_samsung_sm7325-common" />
