@@ -351,6 +351,12 @@
   <project name="TheMuppets/proprietary_vendor_samsung_a71-common" path="vendor/samsung/a71-common" groups="muppets,muppets_a71" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a71" path="vendor/samsung/a71" groups="muppets,muppets_a71" clone-depth="1" />
 
+  <!-- Samsung Exynos 2200 -->
+  <project name="TheMuppets/proprietary_vendor_samsung_s5e9925-common" path="vendor/samsung/s5e9925-common" groups="muppets,muppets_b0s,muppets_g0s,muppets_r0s" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_b0s" path="vendor/samsung/b0s" groups="muppets,muppets_b0s" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_g0s" path="vendor/samsung/g0s" groups="muppets,muppets_g0s" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_r0s" path="vendor/samsung/r0s" groups="muppets,muppets_r0s" clone-depth="1" />
+
   <!-- Samsung Exynos 9611 -->
   <project name="TheMuppets/proprietary_vendor_samsung_a51" path="vendor/samsung/a51" groups="muppets,muppets_a51" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_f41" path="vendor/samsung/f41" groups="muppets,muppets_f41" clone-depth="1" />
