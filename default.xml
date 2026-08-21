@@ -199,11 +199,13 @@
   <project name="TheMuppets/proprietary_vendor_motorola_lake" />
   <project name="TheMuppets/proprietary_vendor_motorola_lamu" />
   <project name="TheMuppets/proprietary_vendor_motorola_liber" />
+  <project name="TheMuppets/proprietary_vendor_motorola_manaus" />
   <project name="TheMuppets/proprietary_vendor_motorola_messi" />
   <project name="TheMuppets/proprietary_vendor_motorola_miami" />
   <project name="TheMuppets/proprietary_vendor_motorola_milanf" />
   <project name="TheMuppets/proprietary_vendor_motorola_msm8998-common" />
   <project name="TheMuppets/proprietary_vendor_motorola_mt6768-common" />
+  <project name="TheMuppets/proprietary_vendor_motorola_mt6879-common" />
   <project name="TheMuppets/proprietary_vendor_motorola_nairo" />
   <project name="TheMuppets/proprietary_vendor_motorola_nash" />
   <project name="TheMuppets/proprietary_vendor_motorola_nio" />
