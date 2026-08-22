@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!-- Amlogic G12 (4.9) -->
-  <project name="TheMuppets/proprietary_vendor_amlogic_g12-common" path="vendor/amlogic/g12-common" groups="muppets,muppets_radxa0,muppets_radxa0_tab,muppets_deadpool,muppets_dopinder,muppets_wade,muppets_m5,muppets_m5_tab,muppets_odroidc4,muppets_odroidc4_tab,muppets_radxa02,muppets_radxa02_tab,muppets_sabrina" clone-depth="1" />
+  <!-- Amlogic G12 -->
+  <project name="TheMuppets/proprietary_vendor_amlogic_g12-common" path="vendor/amlogic/g12-common" groups="muppets,muppets_radxa0,muppets_radxa0_tab,muppets_deadpool,muppets_dopinder,muppets_wade,muppets_m5,muppets_m5_tab,muppets_nicepool,muppets_odroidc4,muppets_odroidc4_tab,muppets_radxa02,muppets_radxa02_tab,muppets_sabrina" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_deadpool" path="vendor/askey/deadpool" groups="muppets,muppets_deadpool" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_dopinder" path="vendor/askey/dopinder" groups="muppets,muppets_dopinder" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_wade" path="vendor/askey/wade" groups="muppets,muppets_wade" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_freebox_nicepool" path="vendor/freebox/nicepool" groups="muppets,muppets_nicepool" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_sabrina" path="vendor/google/sabrina" groups="muppets,muppets_sabrina" clone-depth="1" />
 
   <!-- Amlogic GX -->
   <project name="TheMuppets/proprietary_vendor_amlogic_gx-common" path="vendor/amlogic/gx-common" groups="muppets,muppets_beast" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_beast" path="vendor/google/beast" groups="muppets,muppets_beast" clone-depth="1" />
 
-  <!-- Amlogic SM1 (5.15) -->
-  <!--project name="TheMuppets/proprietary_vendor_amlogic_sm1-common" path="vendor/amlogic/sm1-common" groups="muppets" clone-depth="1" /-->
+  <!-- Amlogic NE -->
+  <project name="TheMuppets/proprietary_vendor_amlogic_ne-common" path="vendor/amlogic/ne-common" groups="muppets,muppets_ohm,muppets_oppen" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_ohm" path="vendor/amlogic/ohm" groups="muppets,muppets_ohm" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_oppen" path="vendor/amlogic/oppen" groups="muppets,muppets_oppen" clone-depth="1" />
 
   <!-- Asus Sake -->
   <project name="TheMuppets/proprietary_vendor_asus_sake" path="vendor/asus/sake" groups="muppets,muppets_sake" clone-depth="1" />
