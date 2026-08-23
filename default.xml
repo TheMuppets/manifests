@@ -54,8 +54,10 @@
   <project name="TheMuppets/proprietary_vendor_bq_sdm660-common" />
   <project name="TheMuppets/proprietary_vendor_broadcom" />
   <project name="TheMuppets/proprietary_vendor_commtiva" />
+  <project name="TheMuppets/proprietary_vendor_daylight_jagar" />
   <project name="TheMuppets/proprietary_vendor_elan" />
   <project name="TheMuppets/proprietary_vendor_essential" />
+  <project name="TheMuppets/proprietary_vendor_essential_gem" />
   <project name="TheMuppets/proprietary_vendor_essential_mata" />
   <project name="TheMuppets/proprietary_vendor_fairphone" />
   <project name="TheMuppets/proprietary_vendor_fairphone_FP3" />
