@@ -46,6 +46,7 @@
   <project name="TheMuppets/proprietary_vendor_ayn_odin3" />
   <project name="TheMuppets/proprietary_vendor_ayn_qcs8550-common" />
   <project name="TheMuppets/proprietary_vendor_ayn_sdm845-common" />
+  <project name="TheMuppets/proprietary_vendor_bananapi_m5" />
   <project name="TheMuppets/proprietary_vendor_bn" />
   <project name="TheMuppets/proprietary_vendor_bq" />
   <project name="TheMuppets/proprietary_vendor_bq_bardock" />
@@ -111,6 +112,7 @@
   <project name="TheMuppets/proprietary_vendor_google_tokay" />
   <project name="TheMuppets/proprietary_vendor_google_walleye" />
   <project name="TheMuppets/proprietary_vendor_hardkernel" />
+  <project name="TheMuppets/proprietary_vendor_hardkernel_odroidc4" />
   <project name="TheMuppets/proprietary_vendor_hp" />
   <project name="TheMuppets/proprietary_vendor_htc" />
   <project name="TheMuppets/proprietary_vendor_huawei" />
@@ -121,6 +123,8 @@
   <project name="TheMuppets/proprietary_vendor_invensense" />
   <project name="TheMuppets/proprietary_vendor_khadas" />
   <project name="TheMuppets/proprietary_vendor_khadas_kvim1s" />
+  <project name="TheMuppets/proprietary_vendor_khadas_kvim3" />
+  <project name="TheMuppets/proprietary_vendor_khadas_kvim3l" />
   <project name="TheMuppets/proprietary_vendor_leeco" />
   <project name="TheMuppets/proprietary_vendor_lenovo" />
   <project name="TheMuppets/proprietary_vendor_lenovo_heart" />
@@ -328,6 +332,9 @@
   <project name="TheMuppets/proprietary_vendor_osom_ingot" />
   <project name="TheMuppets/proprietary_vendor_osom_pyrite" />
   <project name="TheMuppets/proprietary_vendor_qcom_binaries" />
+  <project name="TheMuppets/proprietary_vendor_radxa_radxa0" />
+  <project name="TheMuppets/proprietary_vendor_radxa_radxa02" />
+  <project name="TheMuppets/proprietary_vendor_radxa_radxa02pro" />
   <project name="TheMuppets/proprietary_vendor_razer" />
   <project name="TheMuppets/proprietary_vendor_razer_aura" />
   <project name="TheMuppets/proprietary_vendor_razer_cheryl" />
