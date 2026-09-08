@@ -136,6 +136,7 @@
   <project name="TheMuppets/proprietary_vendor_lge" />
   <project name="TheMuppets/proprietary_vendor_lge_alphaplus" />
   <project name="TheMuppets/proprietary_vendor_lge_betalm" />
+  <project name="TheMuppets/proprietary_vendor_lge_caymanlm" />
   <project name="TheMuppets/proprietary_vendor_lge_caymanslm" />
   <project name="TheMuppets/proprietary_vendor_lge_flashlmdd" />
   <project name="TheMuppets/proprietary_vendor_lge_g5-common" />
@@ -164,6 +165,7 @@
   <project name="TheMuppets/proprietary_vendor_lge_msm8996-common" />
   <project name="TheMuppets/proprietary_vendor_lge_rs988" />
   <project name="TheMuppets/proprietary_vendor_lge_sdm845-common" />
+  <project name="TheMuppets/proprietary_vendor_lge_sm7250-common" />
   <project name="TheMuppets/proprietary_vendor_lge_sm8150-common" />
   <project name="TheMuppets/proprietary_vendor_lge_style3lm" />
   <project name="TheMuppets/proprietary_vendor_lge_timelm" />
@@ -172,6 +174,7 @@
   <project name="TheMuppets/proprietary_vendor_lge_us997" />
   <project name="TheMuppets/proprietary_vendor_lge_v20-common" />
   <project name="TheMuppets/proprietary_vendor_lge_vs995" />
+  <project name="TheMuppets/proprietary_vendor_lge_winglm" />
   <project name="TheMuppets/proprietary_vendor_malata" />
   <project name="TheMuppets/proprietary_vendor_motorola" />
   <project name="TheMuppets/proprietary_vendor_motorola_avatrn" />
