@@ -347,6 +347,8 @@
   <project name="TheMuppets/proprietary_vendor_realme_bale" />
   <project name="TheMuppets/proprietary_vendor_realme_luigi" />
   <project name="TheMuppets/proprietary_vendor_realme_oscar" />
+  <project name="TheMuppets/proprietary_vendor_realme_oscarc" />
+  <project name="TheMuppets/proprietary_vendor_realme_oscarru" />
   <project name="TheMuppets/proprietary_vendor_realme_piloti" />
   <project name="TheMuppets/proprietary_vendor_realme_pista" />
   <project name="TheMuppets/proprietary_vendor_realme_sm6375-common" />
