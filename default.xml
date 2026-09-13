@@ -372,6 +372,7 @@
   <project name="TheMuppets/proprietary_vendor_samsung_beyond1lte" />
   <project name="TheMuppets/proprietary_vendor_samsung_beyond2lte" />
   <project name="TheMuppets/proprietary_vendor_samsung_beyondx" />
+  <project name="TheMuppets/proprietary_vendor_samsung_c2s" />
   <project name="TheMuppets/proprietary_vendor_samsung_crownlte" />
   <project name="TheMuppets/proprietary_vendor_samsung_d1" />
   <project name="TheMuppets/proprietary_vendor_samsung_d1x" />
