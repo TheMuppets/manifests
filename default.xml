@@ -423,6 +423,7 @@
   <project name="TheMuppets/proprietary_vendor_samsung_x1s" />
   <project name="TheMuppets/proprietary_vendor_samsung_y2s" />
   <project name="TheMuppets/proprietary_vendor_samsung_z3s" />
+  <project name="TheMuppets/proprietary_vendor_sdmc_tifa" />
   <project name="TheMuppets/proprietary_vendor_semc" />
   <project name="TheMuppets/proprietary_vendor_shift" />
   <project name="TheMuppets/proprietary_vendor_shift_axolotl" />
