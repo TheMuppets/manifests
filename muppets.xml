@@ -340,6 +340,11 @@
   <project name="TheMuppets/proprietary_vendor_realme_piloti" path="vendor/realme/piloti" groups="muppets,muppets_piloti" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_realme_pista" path="vendor/realme/pista" groups="muppets,muppets_pista" clone-depth="1" />
 
+  <!-- OnePlus SM8850 -->
+  <project name="TheMuppets/proprietary_vendor_oneplus_fairlady" path="vendor/oneplus/fairlady" groups="muppets,muppets_fairlady" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_infiniti" path="vendor/oneplus/infiniti" groups="muppets,muppets_infiniti" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sm8850-common" path="vendor/oneplus/sm8850-common" groups="muppets,muppets_fairlady,muppets_infiniti" clone-depth="1" />
+
   <!-- OSOM OV1 -->
   <project name="TheMuppets/proprietary_vendor_osom_pyrite" path="vendor/osom/pyrite" groups="muppets,muppets_pyrite" clone-depth="1" />
 
