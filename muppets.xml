@@ -283,6 +283,9 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_dumpling" path="vendor/oneplus/dumpling" groups="muppets,muppets_dumpling" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_msm8998-common" path="vendor/oneplus/msm8998-common" groups="muppets,muppets_cheeseburger,muppets_dumpling" clone-depth="1" />
 
+  <!-- OnePlus Nord N10 -->
+  <project name="TheMuppets/proprietary_vendor_oneplus_billie" path="vendor/oneplus/billie" groups="muppets,muppets_billie" clone-depth="1" />
+
   <!-- OnePlus SDM845 -->
   <project name="TheMuppets/proprietary_vendor_oneplus_enchilada" path="vendor/oneplus/enchilada" groups="muppets,muppets_enchilada" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_fajita" path="vendor/oneplus/fajita" groups="muppets,muppets_fajita" clone-depth="1" />
