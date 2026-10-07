@@ -352,8 +352,9 @@
 
   <!-- OnePlus SM8850 -->
   <project name="TheMuppets/proprietary_vendor_oneplus_fairlady" path="vendor/oneplus/fairlady" groups="muppets,muppets_fairlady" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_iceland" path="vendor/oneplus/iceland" groups="muppets,muppets_iceland" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_oneplus_infiniti" path="vendor/oneplus/infiniti" groups="muppets,muppets_infiniti" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_sm8850-common" path="vendor/oneplus/sm8850-common" groups="muppets,muppets_fairlady,muppets_infiniti" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sm8850-common" path="vendor/oneplus/sm8850-common" groups="muppets,muppets_fairlady,muppets_iceland,muppets_infiniti" clone-depth="1" />
 
   <!-- OSOM OV1 -->
   <project name="TheMuppets/proprietary_vendor_osom_pyrite" path="vendor/osom/pyrite" groups="muppets,muppets_pyrite" clone-depth="1" />
