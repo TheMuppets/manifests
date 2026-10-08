@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <!-- Amazon Fire Max 11 -->
+  <project name="TheMuppets/proprietary_vendor_amazon_sunstone" path="vendor/amazon/sunstone" groups="muppets,muppets_sunstone" clone-depth="1" />
+
   <!-- Amlogic G12 -->
   <project name="TheMuppets/proprietary_vendor_amlogic_g12-common" path="vendor/amlogic/g12-common" groups="muppets,muppets_radxa0,muppets_radxa0_tab,muppets_deadpool,muppets_dopinder,muppets_wade,muppets_m5,muppets_m5_tab,muppets_nicepool,muppets_nicepool_rtk,muppets_odroidc4,muppets_odroidc4_tab,muppets_radxa02,muppets_radxa02_tab,muppets_sabrina" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_askey_deadpool" path="vendor/askey/deadpool" groups="muppets,muppets_deadpool" clone-depth="1" />
