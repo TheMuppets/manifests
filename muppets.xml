@@ -39,6 +39,9 @@
   <project name="TheMuppets/proprietary_vendor_retroidpocket_RP6" path="vendor/retroidpocket/RP6" groups="muppets,muppets_RP6" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_retroidpocket_RPN" path="vendor/retroidpocket/RPN" groups="muppets,muppets_RPN" clone-depth="1" />
 
+  <!-- Daylight jagar -->
+  <project name="TheMuppets/proprietary_vendor_daylight_jagar" path="vendor/daylight/jagar" groups="muppets,muppets_jagar" clone-depth="1" />
+
   <!-- Essential PH-1 -->
   <project name="TheMuppets/proprietary_vendor_essential_mata" path="vendor/essential/mata" groups="muppets,muppets_mata" clone-depth="1" />
 
