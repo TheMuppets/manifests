@@ -16,7 +16,7 @@
   <project name="TheMuppets/proprietary_vendor_google_beast" path="vendor/google/beast" groups="muppets,muppets_beast" clone-depth="1" />
 
   <!-- Amlogic NE -->
-  <project name="TheMuppets/proprietary_vendor_amlogic_ne-common" path="vendor/amlogic/ne-common" groups="muppets,muppets_ohm,muppets_oppen" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amlogic_ne-common" path="vendor/amlogic/ne-common" groups="muppets,muppets_ohm,muppets_oppen,muppets_tifa" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_amlogic_ohm" path="vendor/amlogic/ohm" groups="muppets,muppets_ohm" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_amlogic_oppen" path="vendor/amlogic/oppen" groups="muppets,muppets_oppen" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sdmc_tifa" path="vendor/sdmc/tifa" groups="muppets,muppets_tifa" clone-depth="1" />
