@@ -19,6 +19,7 @@
   <project name="TheMuppets/proprietary_vendor_amlogic_ne-common" path="vendor/amlogic/ne-common" groups="muppets,muppets_ohm,muppets_oppen" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_amlogic_ohm" path="vendor/amlogic/ohm" groups="muppets,muppets_ohm" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_amlogic_oppen" path="vendor/amlogic/oppen" groups="muppets,muppets_oppen" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sdmc_tifa" path="vendor/sdmc/tifa" groups="muppets,muppets_tifa" clone-depth="1" />
 
   <!-- Asus Sake -->
   <project name="TheMuppets/proprietary_vendor_asus_sake" path="vendor/asus/sake" groups="muppets,muppets_sake" clone-depth="1" />
