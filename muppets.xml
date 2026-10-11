@@ -557,6 +557,10 @@
   <!-- Xiaomi MT6785 -->
   <project name="TheMuppets/proprietary_vendor_xiaomi_rosemary" path="vendor/xiaomi/rosemary" groups="muppets,muppets_rosemary" clone-depth="1" />
 
+  <!-- Xiaomi MT6895 -->
+  <project name="TheMuppets/proprietary_vendor_xiaomi_mt6895-common" path="vendor/xiaomi/mt6895-common" groups="muppets,muppets_xaga" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_xaga" path="vendor/xiaomi/xaga" groups="muppets,muppets_xaga" clone-depth="1" />
+
   <!-- Xiaomi SDM710 -->
   <project name="TheMuppets/proprietary_vendor_xiaomi_grus" path="vendor/xiaomi/grus" groups="muppets,muppets_grus" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_pyxis" path="vendor/xiaomi/pyxis" groups="muppets,muppets_pyxis" clone-depth="1" />
