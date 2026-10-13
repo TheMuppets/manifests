@@ -192,10 +192,11 @@
   <project name="TheMuppets/proprietary_vendor_motorola_cebu" path="vendor/motorola/cebu" groups="muppets,muppets_cebu" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_devon" path="vendor/motorola/devon" groups="muppets,muppets_devon" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_guam" path="vendor/motorola/guam" groups="muppets,muppets_guam" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_guamna" path="vendor/motorola/guamna" groups="muppets,muppets_guamna" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_guamp" path="vendor/motorola/guamp" groups="muppets,muppets_guamp" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_hawao" path="vendor/motorola/hawao" groups="muppets,muppets_hawao" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_rhode" path="vendor/motorola/rhode" groups="muppets,muppets_rhode" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_motorola_sm6225-common" path="vendor/motorola/sm6225-common" groups="muppets,muppets_bathena,muppets_borneo,muppets_capri,muppets_caprip,muppets_cebu,muppets_devon,muppets_guamp,muppets_guam,muppets_hawao,muppets_rhode" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm6225-common" path="vendor/motorola/sm6225-common" groups="muppets,muppets_bathena,muppets_borneo,muppets_capri,muppets_caprip,muppets_cebu,muppets_devon,muppets_guamp,muppets_guam,muppets_guamna,muppets_hawao,muppets_rhode" clone-depth="1" />
 
   <!-- Motorola SM6375 -->
   <project name="TheMuppets/proprietary_vendor_motorola_bangkk" path="vendor/motorola/bangkk" groups="muppets,muppets_bangkk" clone-depth="1" />
