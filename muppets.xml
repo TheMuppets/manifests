@@ -170,6 +170,10 @@
   <project name="TheMuppets/proprietary_vendor_motorola_nash" path="vendor/motorola/nash" groups="muppets,muppets_nash" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_payton" path="vendor/motorola/payton" groups="muppets,muppets_payton" clone-depth="1" />
 
+  <!-- Motorola MT6765 -->
+  <project name="TheMuppets/proprietary_vendor_motorola_ellis" path="vendor/motorola/ellis" groups="muppets,muppets_ellis" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_mt6765-common" path="vendor/motorola/mt6765-common" groups="muppets,muppets_ellis" clone-depth="1" />
+
   <!-- Motorola MT6768 -->
   <project name="TheMuppets/proprietary_vendor_motorola_lamu" path="vendor/motorola/lamu" groups="muppets,muppets_lamu" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_mt6768-common" path="vendor/motorola/mt6768-common" groups="muppets,muppets_lamu" clone-depth="1" />
