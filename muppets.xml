@@ -34,6 +34,10 @@
   <!-- Ayn Odin2 ACK -->
   <project name="TheMuppets/proprietary_vendor_ayn_odin2_ack" path="vendor/ayn/odin2_ack" groups="muppets,muppets_odin2_ack,muppets_odin2_tab_ack" clone-depth="1" />
 
+  <!-- Ayn CQ8725S -->
+  <project name="TheMuppets/proprietary_vendor_ayn_odin3" path="vendor/ayn/odin3" groups="muppets,muppets_odin3" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_ayn_cq8725s-common" path="vendor/ayn/cq8725s-common" groups="muppets,muppets_odin3" clone-depth="1" />
+
   <!-- Ayn QCS8550 -->
   <project name="TheMuppets/proprietary_vendor_ayn_odin2" path="vendor/ayn/odin2" groups="muppets,muppets_odin2" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_ayn_odin2mini" path="vendor/ayn/odin2mini" groups="muppets,muppets_odin2mini" clone-depth="1" />
