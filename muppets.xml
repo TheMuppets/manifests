@@ -436,10 +436,6 @@
   <project name="TheMuppets/proprietary_vendor_samsung_y2s" path="vendor/samsung/y2s" groups="muppets,muppets_y2s" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_z3s" path="vendor/samsung/z3s" groups="muppets,muppets_z3s" clone-depth="1" />
 
-  <!-- Samsung dm1q -->
-  <project name="TheMuppets/proprietary_vendor_samsung_dm1q" path="vendor/samsung/dm1q" groups="muppets,muppets_dm1q" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_samsung_sm8550-common" path="vendor/samsung/sm8550-common" groups="muppets,muppets_dm1q" clone-depth="1" />
-
   <!-- Samsung gta4l -->
   <project name="TheMuppets/proprietary_vendor_samsung_gta4l-common" path="vendor/samsung/gta4l-common" groups="muppets,muppets_gta4l,muppets_gta4lwifi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4l" path="vendor/samsung/gta4l" groups="muppets,muppets_gta4l" clone-depth="1" />
@@ -480,6 +476,11 @@
   <project name="TheMuppets/proprietary_vendor_samsung_gts7xl" path="vendor/samsung/gts7xl" groups="muppets,muppets_gts7xl" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts7xlwifi" path="vendor/samsung/gts7xlwifi" groups="muppets,muppets_gts7xlwifi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_r8q" path="vendor/samsung/r8q" groups="muppets,muppets_r8q" clone-depth="1" />
+
+  <!-- Samsung SM8550 -->
+  <project name="TheMuppets/proprietary_vendor_samsung_sm8550-common" path="vendor/samsung/sm8550-common" groups="muppets,muppets_dm1q,muppets_q5q" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_dm1q" path="vendor/samsung/dm1q" groups="muppets,muppets_dm1q" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_q5q" path="vendor/samsung/q5q" groups="muppets,muppets_q5q" clone-depth="1" />
 
   <!-- SHIFT SHIFT6mq -->
   <project name="TheMuppets/proprietary_vendor_shift_axolotl" path="vendor/shift/axolotl" groups="muppets,muppets_axolotl" clone-depth="1" />
