@@ -187,6 +187,9 @@
   <project name="TheMuppets/proprietary_vendor_motorola_manaus" path="vendor/motorola/manaus" groups="muppets,muppets_manaus" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_mt6879-common" path="vendor/motorola/mt6879-common" groups="muppets,muppets_manaus" clone-depth="1" />
 
+  <!-- Motorola MT6893 -->
+  <project name="TheMuppets/proprietary_vendor_motorola_lyriq" path="vendor/motorola/lyriq" groups="muppets,muppets_lyriq" clone-depth="1" />
+
   <!-- Motorola SDM632 -->
   <project name="TheMuppets/proprietary_vendor_motorola_channel" path="vendor/motorola/channel" groups="muppets,muppets_channel" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_ocean" path="vendor/motorola/ocean" groups="muppets,muppets_ocean" clone-depth="1" />
