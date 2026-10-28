@@ -547,6 +547,8 @@
 
   <!-- Xelex Q25 -->
   <project name="TheMuppets/proprietary_vendor_xelex_Q25" path="vendor/xelex/Q25" groups="muppets,muppets_Q25" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xelex_P26" path="vendor/xelex/P26" groups="muppets,muppets_P26" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xelex_mt6789-common" path="vendor/xelex/mt6789-common" groups="muppets,muppets_Q25,muppets_P26" clone-depth="1" />
 
   <!-- Xiaomi MSM8937 & SDM439 -->
   <project name="TheMuppets/proprietary_vendor_xiaomi_mithorium-common" path="vendor/xiaomi/mithorium-common" groups="muppets,muppets_Mi439,muppets_Mi8917,muppets_Mi8937" clone-depth="1" />
