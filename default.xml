@@ -305,6 +305,7 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_dodge" />
   <project name="TheMuppets/proprietary_vendor_oneplus_dre" />
   <project name="TheMuppets/proprietary_vendor_oneplus_dumpling" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_ebba" />
   <project name="TheMuppets/proprietary_vendor_oneplus_enchilada" />
   <project name="TheMuppets/proprietary_vendor_oneplus_erhai" />
   <project name="TheMuppets/proprietary_vendor_oneplus_fairlady" />
@@ -335,6 +336,7 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_salami" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sdm845-common" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm6375-common" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sm7250-common" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8150-common" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8250-common" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8350-common" />
