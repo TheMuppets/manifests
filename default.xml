@@ -453,6 +453,7 @@
   <project name="TheMuppets/proprietary_vendor_sony_akatsuki" />
   <project name="TheMuppets/proprietary_vendor_sony_aurora" />
   <project name="TheMuppets/proprietary_vendor_sony_discovery" />
+  <project name="TheMuppets/proprietary_vendor_sony_elbe-common" />
   <project name="TheMuppets/proprietary_vendor_sony_kirin" />
   <project name="TheMuppets/proprietary_vendor_sony_mermaid" />
   <project name="TheMuppets/proprietary_vendor_sony_nile-common" />
@@ -468,6 +469,7 @@
   <project name="TheMuppets/proprietary_vendor_sony_pdx237" />
   <project name="TheMuppets/proprietary_vendor_sony_pdx245" />
   <project name="TheMuppets/proprietary_vendor_sony_pdx257" />
+  <project name="TheMuppets/proprietary_vendor_sony_pdx268" />
   <project name="TheMuppets/proprietary_vendor_sony_pioneer" />
   <project name="TheMuppets/proprietary_vendor_sony_sm6375-common" />
   <project name="TheMuppets/proprietary_vendor_sony_sm8250-common" />
