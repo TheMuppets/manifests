@@ -400,6 +400,9 @@
   <project name="TheMuppets/proprietary_vendor_samsung_a21s-common" path="vendor/samsung/a21s-common" groups="muppets,muppets_a21s" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a21s" path="vendor/samsung/a21s" groups="muppets,muppets_a21s" clone-depth="1" />
 
+  <!-- Samsung a55x -->
+  <project name="TheMuppets/proprietary_vendor_samsung_a55x" path="vendor/samsung/a55x" groups="muppets,muppets_a55x" clone-depth="1" />
+
   <!-- Samsung a71 -->
   <project name="TheMuppets/proprietary_vendor_samsung_a71-common" path="vendor/samsung/a71-common" groups="muppets,muppets_a71" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a71" path="vendor/samsung/a71" groups="muppets,muppets_a71" clone-depth="1" />
