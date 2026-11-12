@@ -536,6 +536,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_mt6768-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_mt6895-common" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_munch" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_nabu" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_natrium" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_nuwa" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_onclite" />
