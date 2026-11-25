@@ -16,7 +16,10 @@
   <project name="TheMuppets/proprietary_vendor_akm" />
   <project name="TheMuppets/proprietary_vendor_alcatel" />
   <project name="TheMuppets/proprietary_vendor_amazon" />
+  <project name="TheMuppets/proprietary_vendor_amazon_mt8169-common" />
+  <project name="TheMuppets/proprietary_vendor_amazon_raspite" />
   <project name="TheMuppets/proprietary_vendor_amazon_sunstone" />
+  <project name="TheMuppets/proprietary_vendor_amazon_tungsten" />
   <project name="TheMuppets/proprietary_vendor_amlogic" />
   <project name="TheMuppets/proprietary_vendor_amlogic_g12-common" />
   <project name="TheMuppets/proprietary_vendor_amlogic_gx-common" />
