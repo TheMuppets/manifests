@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <!-- Amazon mt8169 -->
+  <project name="TheMuppets/proprietary_vendor_amazon_mt8169-common" path="vendor/amazon/mt8169-common" groups="muppets,muppets_raspite,muppets_tungsten" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amazon_raspite" path="vendor/amazon/raspite" groups="muppets,muppets_raspite" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_amazon_tungsten" path="vendor/amazon/tungsten" groups="muppets,muppets_tungsten" clone-depth="1" />
+
   <!-- Amazon Fire Max 11 -->
   <project name="TheMuppets/proprietary_vendor_amazon_sunstone" path="vendor/amazon/sunstone" groups="muppets,muppets_sunstone" clone-depth="1" />
 
